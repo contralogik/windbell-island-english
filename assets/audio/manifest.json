@@ -1,0 +1,9251 @@
+[
+  {
+    "id": "u1-name",
+    "text": "Hello! What's your name?"
+  },
+  {
+    "id": "u1-tool",
+    "text": "What do you have?"
+  },
+  {
+    "id": "u1-bye",
+    "text": "Goodbye!"
+  },
+  {
+    "id": "u2-greet",
+    "text": "Good morning! Nice to meet you."
+  },
+  {
+    "id": "u2-colour",
+    "text": "I see blue. What do you see?"
+  },
+  {
+    "id": "u3-how",
+    "text": "How are you?"
+  },
+  {
+    "id": "u3-body",
+    "text": "Let’s make a puppet!"
+  },
+  {
+    "id": "r1-name",
+    "text": "Welcome! What's your name?"
+  },
+  {
+    "id": "r1-introduce",
+    "text": "Nice to meet you!"
+  },
+  {
+    "id": "u4-this",
+    "text": "What's this?"
+  },
+  {
+    "id": "u4-that",
+    "text": "What's that?"
+  },
+  {
+    "id": "u5-serve",
+    "text": "Thank you!"
+  },
+  {
+    "id": "u5-drink",
+    "text": "What would you like?"
+  },
+  {
+    "id": "u6-askAge",
+    "text": "Hello! It’s my birthday!"
+  },
+  {
+    "id": "u6-birthday",
+    "text": "I'm six years old!"
+  },
+  {
+    "id": "u6-age",
+    "text": "Thank you! How old are you?"
+  },
+  {
+    "id": "r2-welcome",
+    "text": "Hello! Nice to meet you!"
+  },
+  {
+    "id": "r2-animal",
+    "text": "What's that?"
+  },
+  {
+    "id": "qa-introduce",
+    "text": "Hello! My name is Bella."
+  },
+  {
+    "id": "qa-milk",
+    "text": "I'd like some milk, please."
+  },
+  {
+    "id": "qa-water",
+    "text": "Can I have some water, please?"
+  },
+  {
+    "id": "qa-age",
+    "text": "I'm eight years old."
+  },
+  {
+    "id": "qa-panda",
+    "text": "It's a panda."
+  },
+  {
+    "id": "order-fox",
+    "text": "I'd like some bread and milk and egg, please."
+  },
+  {
+    "id": "order-cat",
+    "text": "I'd like some fish and rice and water, please."
+  },
+  {
+    "id": "order-bird",
+    "text": "I'd like some cake and juice, please."
+  },
+  {
+    "id": "say-a40ea9315c29",
+    "text": "Unit 1. Hello!"
+  },
+  {
+    "id": "say-ec9afef6741d",
+    "text": "Unit 1"
+  },
+  {
+    "id": "say-d2fc512490a1",
+    "text": "pencil"
+  },
+  {
+    "id": "say-5f55d09a5132",
+    "text": "ruler"
+  },
+  {
+    "id": "say-fd761b6e2ada",
+    "text": "eraser"
+  },
+  {
+    "id": "say-9be869cf4a4e",
+    "text": "crayon"
+  },
+  {
+    "id": "say-e7e694c58cd5",
+    "text": "book"
+  },
+  {
+    "id": "say-b242e7ba7046",
+    "text": "pencil box"
+  },
+  {
+    "id": "say-31a841af7b2f",
+    "text": "pen"
+  },
+  {
+    "id": "say-9b4e473e4de7",
+    "text": "bag"
+  },
+  {
+    "id": "say-aaf4c61ddcc5",
+    "text": "Hello!"
+  },
+  {
+    "id": "say-c22b5f917834",
+    "text": "Hi!"
+  },
+  {
+    "id": "say-e5c448661f03",
+    "text": "I’m Bella."
+  },
+  {
+    "id": "say-3c1f4e601010",
+    "text": "My name’s Bella."
+  },
+  {
+    "id": "say-79243d4e2836",
+    "text": "What’s your name?"
+  },
+  {
+    "id": "say-fa1c2251765b",
+    "text": "I have a ruler"
+  },
+  {
+    "id": "say-117fc9c5706d",
+    "text": "I have an eraser."
+  },
+  {
+    "id": "say-78c9a53e2f28",
+    "text": "Bye!"
+  },
+  {
+    "id": "say-6eea5c8bf335",
+    "text": "Hello! I'm Bella."
+  },
+  {
+    "id": "say-fe00d0caf867",
+    "text": "Unit 2. Colours"
+  },
+  {
+    "id": "say-b1a5ced1e6fb",
+    "text": "Unit 2"
+  },
+  {
+    "id": "say-78988010b890",
+    "text": "red"
+  },
+  {
+    "id": "say-bc74f4f071a5",
+    "text": "green"
+  },
+  {
+    "id": "say-96de5543d183",
+    "text": "yellow"
+  },
+  {
+    "id": "say-4c9a82ce72ca",
+    "text": "blue"
+  },
+  {
+    "id": "say-466bc8cef3e7",
+    "text": "black"
+  },
+  {
+    "id": "say-9166eeff1e50",
+    "text": "brown"
+  },
+  {
+    "id": "say-528cef87d0bf",
+    "text": "white"
+  },
+  {
+    "id": "say-ef0ebbb77298",
+    "text": "orange"
+  },
+  {
+    "id": "say-a8cbec7254dd",
+    "text": "Good morning!"
+  },
+  {
+    "id": "say-d444f0b37105",
+    "text": "Good afternoon!"
+  },
+  {
+    "id": "say-28b5f41643c5",
+    "text": "This is my puppet."
+  },
+  {
+    "id": "say-654b76ae299a",
+    "text": "Nice to meet you, too."
+  },
+  {
+    "id": "say-f63ef4ec8a51",
+    "text": "I see red."
+  },
+  {
+    "id": "say-8151fb5a79c3",
+    "text": "Colour it brown."
+  },
+  {
+    "id": "say-93d404772819",
+    "text": "I see green."
+  },
+  {
+    "id": "say-212b854eba36",
+    "text": "Unit 3. Look at me!"
+  },
+  {
+    "id": "say-8b5c49a1ac78",
+    "text": "Unit 3"
+  },
+  {
+    "id": "say-49dc1cb094df",
+    "text": "face"
+  },
+  {
+    "id": "say-ddbc6188203d",
+    "text": "ear"
+  },
+  {
+    "id": "say-79df4b171812",
+    "text": "eye"
+  },
+  {
+    "id": "say-1a1f58c9adc7",
+    "text": "nose"
+  },
+  {
+    "id": "say-87d17825792d",
+    "text": "mouth"
+  },
+  {
+    "id": "say-ed945d6b996f",
+    "text": "arm"
+  },
+  {
+    "id": "say-9621a244a447",
+    "text": "hand"
+  },
+  {
+    "id": "say-1a954628a960",
+    "text": "head"
+  },
+  {
+    "id": "say-02083f4579e0",
+    "text": "body"
+  },
+  {
+    "id": "say-321d6cc5177a",
+    "text": "leg"
+  },
+  {
+    "id": "say-32cb9138ce24",
+    "text": "foot"
+  },
+  {
+    "id": "say-8607d2bb40c3",
+    "text": "I’m fine, thank you."
+  },
+  {
+    "id": "say-3e47fe64e25e",
+    "text": "Very well, thanks."
+  },
+  {
+    "id": "say-a667ee54efa5",
+    "text": "Let’s make a puppet! Great!"
+  },
+  {
+    "id": "say-e6316e558bb9",
+    "text": "Look at me!"
+  },
+  {
+    "id": "say-c1491806a3e3",
+    "text": "This is my face."
+  },
+  {
+    "id": "say-e108161497b3",
+    "text": "Let’s go to school!"
+  },
+  {
+    "id": "say-3094df0d4361",
+    "text": "Great! This is my head."
+  },
+  {
+    "id": "say-807f92dda61a",
+    "text": "This is my arm."
+  },
+  {
+    "id": "say-917ec9173648",
+    "text": "Recycle 1"
+  },
+  {
+    "id": "say-4dc8035f8c9c",
+    "text": "This is Bella."
+  },
+  {
+    "id": "say-c8e5f8c6e0e1",
+    "text": "Unit 4. We love animals"
+  },
+  {
+    "id": "say-b06b51bfacff",
+    "text": "Unit 4"
+  },
+  {
+    "id": "say-5ece240085b9",
+    "text": "duck"
+  },
+  {
+    "id": "say-2cd4ba93087f",
+    "text": "pig"
+  },
+  {
+    "id": "say-9d989e8d27dc",
+    "text": "cat"
+  },
+  {
+    "id": "say-09f5edeb4f5b",
+    "text": "bear"
+  },
+  {
+    "id": "say-e49512524f47",
+    "text": "dog"
+  },
+  {
+    "id": "say-0ae9e4deba26",
+    "text": "elephant"
+  },
+  {
+    "id": "say-ab87d24bdc74",
+    "text": "monkey"
+  },
+  {
+    "id": "say-cd92815bf627",
+    "text": "bird"
+  },
+  {
+    "id": "say-46e3d772a188",
+    "text": "tiger"
+  },
+  {
+    "id": "say-f91a8ee646a2",
+    "text": "panda"
+  },
+  {
+    "id": "say-4c1f32a51dbf",
+    "text": "zoo"
+  },
+  {
+    "id": "say-f86b233ba695",
+    "text": "It’s a duck"
+  },
+  {
+    "id": "say-4a6654d18559",
+    "text": "It's a dog"
+  },
+  {
+    "id": "say-9cfb9688cb81",
+    "text": "Cool! I like it."
+  },
+  {
+    "id": "say-1fddd74fd903",
+    "text": "It's a cat."
+  },
+  {
+    "id": "say-0a5636bf10ae",
+    "text": "It's a bear."
+  },
+  {
+    "id": "say-116141f05f4a",
+    "text": "Unit 5. Let’s eat!"
+  },
+  {
+    "id": "say-797cca4331c9",
+    "text": "Unit 5"
+  },
+  {
+    "id": "say-6ff291d8175b",
+    "text": "bread"
+  },
+  {
+    "id": "say-07ef87917542",
+    "text": "juice"
+  },
+  {
+    "id": "say-4fa6024f1249",
+    "text": "egg"
+  },
+  {
+    "id": "say-cf5dbf0ec57d",
+    "text": "milk"
+  },
+  {
+    "id": "say-6d5a45920a15",
+    "text": "water"
+  },
+  {
+    "id": "say-5ddc2ae17d5b",
+    "text": "cake"
+  },
+  {
+    "id": "say-64875fcccaac",
+    "text": "fish"
+  },
+  {
+    "id": "say-6939278d66e3",
+    "text": "rice"
+  },
+  {
+    "id": "say-1982baf159e0",
+    "text": "I’d like some juice, please."
+  },
+  {
+    "id": "say-9aab85811680",
+    "text": "Here you are."
+  },
+  {
+    "id": "say-a984ceeb0cea",
+    "text": "Have some bread."
+  },
+  {
+    "id": "say-d1b38a28131e",
+    "text": "You’re welcome."
+  },
+  {
+    "id": "say-2479e2e66b8f",
+    "text": "Unit 6. Happy birthday!"
+  },
+  {
+    "id": "say-277be51ccb6b",
+    "text": "Unit 6"
+  },
+  {
+    "id": "say-fe05bcdcdc49",
+    "text": "one"
+  },
+  {
+    "id": "say-ad782ecdac77",
+    "text": "two"
+  },
+  {
+    "id": "say-b802f384302c",
+    "text": "three"
+  },
+  {
+    "id": "say-9f8f7eec5dea",
+    "text": "four"
+  },
+  {
+    "id": "say-4db2c1df4610",
+    "text": "five"
+  },
+  {
+    "id": "say-bec9703f7a45",
+    "text": "six"
+  },
+  {
+    "id": "say-a00bbe560e6b",
+    "text": "seven"
+  },
+  {
+    "id": "say-d479fa0ef925",
+    "text": "eight"
+  },
+  {
+    "id": "say-b4ddce182ecf",
+    "text": "nine"
+  },
+  {
+    "id": "say-dd3562449147",
+    "text": "ten"
+  },
+  {
+    "id": "say-d67cca5aaed6",
+    "text": "brother"
+  },
+  {
+    "id": "say-9012c45d7bd5",
+    "text": "plate"
+  },
+  {
+    "id": "say-439815be56bf",
+    "text": "How many plates? Five."
+  },
+  {
+    "id": "say-4d2eddceec9b",
+    "text": "How old are you?"
+  },
+  {
+    "id": "say-133aa4639e26",
+    "text": "Happy birthday! Thank you."
+  },
+  {
+    "id": "say-ced8dbc8bb9a",
+    "text": "This one, please."
+  },
+  {
+    "id": "say-e71ea0d33637",
+    "text": "Sure."
+  },
+  {
+    "id": "say-d324d4eb16b7",
+    "text": "Happy birthday!"
+  },
+  {
+    "id": "say-7c5df40bb0e6",
+    "text": "I'm nine."
+  },
+  {
+    "id": "say-0c782f3ad2e0",
+    "text": "Recycle 2"
+  },
+  {
+    "id": "say-01fcced2f75a",
+    "text": "How many plates?"
+  },
+  {
+    "id": "say-26bbd2feecd3",
+    "text": "Hello! Nice to meet you, too."
+  },
+  {
+    "id": "say-2af22e2263d7",
+    "text": "It's a tiger."
+  },
+  {
+    "id": "say-b72432033bdc",
+    "text": "Unit 1. Welcome back to school!"
+  },
+  {
+    "id": "say-68c42a321969",
+    "text": "UK"
+  },
+  {
+    "id": "say-ab65d8b9611f",
+    "text": "Canada"
+  },
+  {
+    "id": "say-3cd0f6484b7e",
+    "text": "USA"
+  },
+  {
+    "id": "say-3ab9380fa252",
+    "text": "China"
+  },
+  {
+    "id": "say-4a240ec058b4",
+    "text": "she"
+  },
+  {
+    "id": "say-204036a1ef6e",
+    "text": "student"
+  },
+  {
+    "id": "say-1fefe45d7639",
+    "text": "pupil"
+  },
+  {
+    "id": "say-30f088ea6673",
+    "text": "he"
+  },
+  {
+    "id": "say-4a82cb6db537",
+    "text": "teacher"
+  },
+  {
+    "id": "say-ceac9b04aced",
+    "text": "boy"
+  },
+  {
+    "id": "say-cffa50a32cb1",
+    "text": "and"
+  },
+  {
+    "id": "say-25b732b3425c",
+    "text": "girl"
+  },
+  {
+    "id": "say-c2a6b03f190d",
+    "text": "new"
+  },
+  {
+    "id": "say-e69867ca7d5a",
+    "text": "friend"
+  },
+  {
+    "id": "say-2dd2bed72567",
+    "text": "today"
+  },
+  {
+    "id": "say-5b3d80a230b7",
+    "text": "Welcome back to school!"
+  },
+  {
+    "id": "say-a5386a42f57d",
+    "text": "Nice to see you again."
+  },
+  {
+    "id": "say-8db8ae12a1f6",
+    "text": "Where are you from?"
+  },
+  {
+    "id": "say-fcb0135c70b9",
+    "text": "I’m from China."
+  },
+  {
+    "id": "say-4c620fca9fa3",
+    "text": "This is Amy. She’s a student."
+  },
+  {
+    "id": "say-0da19b540f7c",
+    "text": "dad"
+  },
+  {
+    "id": "say-21186724ae6a",
+    "text": "Unit 2. My family"
+  },
+  {
+    "id": "say-32c8bbff09c3",
+    "text": "father"
+  },
+  {
+    "id": "say-8175e3c8753a",
+    "text": "man"
+  },
+  {
+    "id": "say-edb1f42a0bd4",
+    "text": "woman"
+  },
+  {
+    "id": "say-5116e40694ac",
+    "text": "mother"
+  },
+  {
+    "id": "say-1dd09baa19dc",
+    "text": "sister"
+  },
+  {
+    "id": "say-ea39210a09e7",
+    "text": "grandmother"
+  },
+  {
+    "id": "say-88ebe8bf7816",
+    "text": "grandma"
+  },
+  {
+    "id": "say-dd6708dd64fa",
+    "text": "grandfather"
+  },
+  {
+    "id": "say-7f136523a96b",
+    "text": "grandpa"
+  },
+  {
+    "id": "say-c33f059b0ca7",
+    "text": "family"
+  },
+  {
+    "id": "say-de29d72ad264",
+    "text": "Who’s that man?"
+  },
+  {
+    "id": "say-02390ab3b023",
+    "text": "He’s my father."
+  },
+  {
+    "id": "say-25843d10cdd1",
+    "text": "Who’s that woman?"
+  },
+  {
+    "id": "say-c915078571b4",
+    "text": "She’s my mother."
+  },
+  {
+    "id": "say-f6d4cf81c9ac",
+    "text": "Is she your mother?"
+  },
+  {
+    "id": "say-62f56c718959",
+    "text": "Yes, she is."
+  },
+  {
+    "id": "say-7cc158c62503",
+    "text": "No, she isn’t."
+  },
+  {
+    "id": "say-0ed1b99ca668",
+    "text": "Unit 3. At the zoo"
+  },
+  {
+    "id": "say-6ca0fa2674cd",
+    "text": "thin"
+  },
+  {
+    "id": "say-5b5fb1c9d703",
+    "text": "fat"
+  },
+  {
+    "id": "say-09649207a9b5",
+    "text": "tall"
+  },
+  {
+    "id": "say-a0f4ea7d9149",
+    "text": "short"
+  },
+  {
+    "id": "say-bd3027fa569e",
+    "text": "long"
+  },
+  {
+    "id": "say-89f6229a11ac",
+    "text": "small"
+  },
+  {
+    "id": "say-95c4bea12e4e",
+    "text": "big"
+  },
+  {
+    "id": "say-fac8f1a31d29",
+    "text": "giraffe"
+  },
+  {
+    "id": "say-cd1b646ebd1f",
+    "text": "so"
+  },
+  {
+    "id": "say-42685f11da91",
+    "text": "children"
+  },
+  {
+    "id": "say-fbf5f2a2875b",
+    "text": "tail"
+  },
+  {
+    "id": "say-66f5dc8f6d5e",
+    "text": "Look at that giraffe!"
+  },
+  {
+    "id": "say-b932dfa10ab6",
+    "text": "It’s so tall."
+  },
+  {
+    "id": "say-347dafeb4635",
+    "text": "It has a long nose."
+  },
+  {
+    "id": "say-3bb1d9f9f9ed",
+    "text": "It has small eyes and big ears."
+  },
+  {
+    "id": "say-d7ca954e8006",
+    "text": "Recycle 1. Spring adventure"
+  },
+  {
+    "id": "say-c49a69cfbac4",
+    "text": "Unit 4. Where is my car?"
+  },
+  {
+    "id": "say-db3d405b1067",
+    "text": "on"
+  },
+  {
+    "id": "say-af10ef20dd90",
+    "text": "in"
+  },
+  {
+    "id": "say-dad64cc6f975",
+    "text": "under"
+  },
+  {
+    "id": "say-851e13a65333",
+    "text": "chair"
+  },
+  {
+    "id": "say-46e7cfa08091",
+    "text": "desk"
+  },
+  {
+    "id": "say-ac4be5ac63e1",
+    "text": "cap"
+  },
+  {
+    "id": "say-8bec0406497c",
+    "text": "ball"
+  },
+  {
+    "id": "say-9e32521dd2f8",
+    "text": "car"
+  },
+  {
+    "id": "say-2a50ddf9299c",
+    "text": "boat"
+  },
+  {
+    "id": "say-37745ed7a0f0",
+    "text": "map"
+  },
+  {
+    "id": "say-cd1933db799b",
+    "text": "toy"
+  },
+  {
+    "id": "say-c7d8a6d722a1",
+    "text": "box"
+  },
+  {
+    "id": "say-f1bff07d63be",
+    "text": "Where is my car?"
+  },
+  {
+    "id": "say-3360747ae615",
+    "text": "It’s under the chair."
+  },
+  {
+    "id": "say-d7dd50c1cba5",
+    "text": "Is it in the box?"
+  },
+  {
+    "id": "say-ec75ed073fb0",
+    "text": "Yes, it is."
+  },
+  {
+    "id": "say-ab008148057e",
+    "text": "No, it isn’t."
+  },
+  {
+    "id": "say-edfced22fd0c",
+    "text": "Have a good time!"
+  },
+  {
+    "id": "say-cffe991b2f30",
+    "text": "Unit 5. Do you like pears?"
+  },
+  {
+    "id": "say-3e2bf5faa2c3",
+    "text": "pear"
+  },
+  {
+    "id": "say-d0be2dc421be",
+    "text": "apple"
+  },
+  {
+    "id": "say-250e77f12a5a",
+    "text": "banana"
+  },
+  {
+    "id": "say-ef1a762d28ed",
+    "text": "watermelon"
+  },
+  {
+    "id": "say-c0b51c46e4dc",
+    "text": "strawberry"
+  },
+  {
+    "id": "say-bc8a2f8cdedb",
+    "text": "grape"
+  },
+  {
+    "id": "say-a066f070178f",
+    "text": "buy"
+  },
+  {
+    "id": "say-f053b8b6867d",
+    "text": "fruit"
+  },
+  {
+    "id": "say-a738ae9c805b",
+    "text": "Do you like pears?"
+  },
+  {
+    "id": "say-56735f083fe8",
+    "text": "Yes, I do."
+  },
+  {
+    "id": "say-cb26e5259800",
+    "text": "No, I don’t."
+  },
+  {
+    "id": "say-d0c62dd3bfb8",
+    "text": "I like apples."
+  },
+  {
+    "id": "say-d00e7f0ae379",
+    "text": "I don’t like grapes."
+  },
+  {
+    "id": "say-e58c17d96243",
+    "text": "Can I have some bananas?"
+  },
+  {
+    "id": "say-c84c50d5a767",
+    "text": "fun"
+  },
+  {
+    "id": "say-df6ad19037c9",
+    "text": "run"
+  },
+  {
+    "id": "say-8f82b9523e8d",
+    "text": "Unit 6. How many?"
+  },
+  {
+    "id": "say-cc5a0c506761",
+    "text": "eleven"
+  },
+  {
+    "id": "say-b521f9394fab",
+    "text": "twelve"
+  },
+  {
+    "id": "say-c24f5cff02c0",
+    "text": "thirteen"
+  },
+  {
+    "id": "say-8a13a01d705b",
+    "text": "fourteen"
+  },
+  {
+    "id": "say-5cf896e678bd",
+    "text": "fifteen"
+  },
+  {
+    "id": "say-c0d94d09a927",
+    "text": "sixteen"
+  },
+  {
+    "id": "say-c1777d8e8486",
+    "text": "seventeen"
+  },
+  {
+    "id": "say-70c6adb61515",
+    "text": "eighteen"
+  },
+  {
+    "id": "say-885c39aca07c",
+    "text": "nineteen"
+  },
+  {
+    "id": "say-fc955a19ae4f",
+    "text": "twenty"
+  },
+  {
+    "id": "say-34e1c7876de9",
+    "text": "kite"
+  },
+  {
+    "id": "say-6393bcdfe36c",
+    "text": "beautiful"
+  },
+  {
+    "id": "say-9fcdd0a7ff6b",
+    "text": "How many kites do you see?"
+  },
+  {
+    "id": "say-1a6a281afabc",
+    "text": "I see twelve."
+  },
+  {
+    "id": "say-51f59241218b",
+    "text": "The black one is a bird!"
+  },
+  {
+    "id": "say-cfa587b123c6",
+    "text": "How many crayons do you have?"
+  },
+  {
+    "id": "say-932ebc6dc38f",
+    "text": "I have sixteen."
+  },
+  {
+    "id": "say-d5e94a2427dd",
+    "text": "Open it and see!"
+  },
+  {
+    "id": "say-4ef3d80d5d83",
+    "text": "legs"
+  },
+  {
+    "id": "say-3bfe59e5c807",
+    "text": "Recycle 2. Snakes and ladders"
+  },
+  {
+    "id": "say-5e0500ae702d",
+    "text": "Do you like bananas?"
+  },
+  {
+    "id": "say-6e9b93ed20fb",
+    "text": "I see thirteen bananas."
+  },
+  {
+    "id": "say-ca8ef8ed1ee1",
+    "text": "I have twenty grapes."
+  },
+  {
+    "id": "say-4bd8eddacb60",
+    "text": "hot"
+  },
+  {
+    "id": "say-68d01124e0a9",
+    "text": "Unit 1. My classroom"
+  },
+  {
+    "id": "say-848278c4fe2d",
+    "text": "blackboard"
+  },
+  {
+    "id": "say-320ad267d8d9",
+    "text": "window"
+  },
+  {
+    "id": "say-2680b6746cf8",
+    "text": "door"
+  },
+  {
+    "id": "say-dfccc06f1441",
+    "text": "light"
+  },
+  {
+    "id": "say-0e66b49d04a4",
+    "text": "picture"
+  },
+  {
+    "id": "say-e9773a0cbc40",
+    "text": "teacher's desk"
+  },
+  {
+    "id": "say-c60266a8adad",
+    "text": "computer"
+  },
+  {
+    "id": "say-2899441143e2",
+    "text": "fan"
+  },
+  {
+    "id": "say-ff0dc9ba2500",
+    "text": "TV"
+  },
+  {
+    "id": "say-be45c8f0f4f7",
+    "text": "classroom"
+  },
+  {
+    "id": "say-eb7ada766135",
+    "text": "wall"
+  },
+  {
+    "id": "say-3684c9d3c05e",
+    "text": "floor"
+  },
+  {
+    "id": "say-084ab4093f67",
+    "text": "really"
+  },
+  {
+    "id": "say-d8c46683a8f9",
+    "text": "near"
+  },
+  {
+    "id": "say-6a1cec45eaf3",
+    "text": "clean"
+  },
+  {
+    "id": "say-92005ecf3788",
+    "text": "help"
+  },
+  {
+    "id": "say-9239cf7b0559",
+    "text": "We have a new classroom."
+  },
+  {
+    "id": "say-1f66cf019d05",
+    "text": "What's in the classroom?"
+  },
+  {
+    "id": "say-a467399c3f48",
+    "text": "Let’s go and see!"
+  },
+  {
+    "id": "say-74370bc386d5",
+    "text": "Where is it?"
+  },
+  {
+    "id": "say-f534c2a3910e",
+    "text": "It’s near the window."
+  },
+  {
+    "id": "say-239f1be951c3",
+    "text": "Let’s clean the classroom!"
+  },
+  {
+    "id": "say-a70014b6c86e",
+    "text": "Let me clean the windows."
+  },
+  {
+    "id": "say-6ae999552a0d",
+    "text": "name"
+  },
+  {
+    "id": "say-5821eb27d7b7",
+    "text": "make"
+  },
+  {
+    "id": "say-3dd4661c1cd9",
+    "text": "Unit 2. My schoolbag"
+  },
+  {
+    "id": "say-84be8bfab6a3",
+    "text": "schoolbag"
+  },
+  {
+    "id": "say-f697092b383b",
+    "text": "English book"
+  },
+  {
+    "id": "say-cd3d22832870",
+    "text": "maths book"
+  },
+  {
+    "id": "say-d88bc17d1769",
+    "text": "Chinese book"
+  },
+  {
+    "id": "say-f8437193862b",
+    "text": "storybook"
+  },
+  {
+    "id": "say-5280933cbca1",
+    "text": "notebook"
+  },
+  {
+    "id": "say-615923d86676",
+    "text": "candy"
+  },
+  {
+    "id": "say-a62f2225bf70",
+    "text": "key"
+  },
+  {
+    "id": "say-2010281d5053",
+    "text": "lost"
+  },
+  {
+    "id": "say-577140e556cd",
+    "text": "so much"
+  },
+  {
+    "id": "say-c62a1190b91b",
+    "text": "cute"
+  },
+  {
+    "id": "say-282f628dd3d0",
+    "text": "What’s in your schoolbag?"
+  },
+  {
+    "id": "say-460381d8d2e1",
+    "text": "An English book, a maths book and three storybooks."
+  },
+  {
+    "id": "say-12ff052b710d",
+    "text": "What colour is it?"
+  },
+  {
+    "id": "say-d621d81f7238",
+    "text": "It’s blue and white."
+  },
+  {
+    "id": "say-6027ebece7d7",
+    "text": "I lost my schoolbag."
+  },
+  {
+    "id": "say-b7fcc00b5fd4",
+    "text": "Thank you so much!"
+  },
+  {
+    "id": "say-c4eb7d7fea3c",
+    "text": "like"
+  },
+  {
+    "id": "say-5b9a82597cd9",
+    "text": "Unit 3. My friends"
+  },
+  {
+    "id": "say-0117691d0201",
+    "text": "strong"
+  },
+  {
+    "id": "say-41209342f361",
+    "text": "friendly"
+  },
+  {
+    "id": "say-58bdb05d89f5",
+    "text": "quiet"
+  },
+  {
+    "id": "say-bc70b0511b26",
+    "text": "hair"
+  },
+  {
+    "id": "say-4488ae65393e",
+    "text": "shoe"
+  },
+  {
+    "id": "say-ba22ef34f8bf",
+    "text": "glasses"
+  },
+  {
+    "id": "say-b187a9ed471e",
+    "text": "his"
+  },
+  {
+    "id": "say-1758356db217",
+    "text": "or"
+  },
+  {
+    "id": "say-d27a1f117712",
+    "text": "right"
+  },
+  {
+    "id": "say-10e5866050d2",
+    "text": "hat"
+  },
+  {
+    "id": "say-999400659233",
+    "text": "her"
+  },
+  {
+    "id": "say-2d6c1aec5313",
+    "text": "What’s his name?"
+  },
+  {
+    "id": "say-7536ae920a68",
+    "text": "His name is Mike."
+  },
+  {
+    "id": "say-21d95ae37ec1",
+    "text": "Her name is Amy."
+  },
+  {
+    "id": "say-451a7f220be4",
+    "text": "He’s tall and strong."
+  },
+  {
+    "id": "say-6e851c4a4e84",
+    "text": "Who’s he?"
+  },
+  {
+    "id": "say-e72190949837",
+    "text": "He has glasses and his shoes are blue."
+  },
+  {
+    "id": "say-c51048b7325d",
+    "text": "note"
+  },
+  {
+    "id": "say-441588c2d20a",
+    "text": "Coke"
+  },
+  {
+    "id": "say-9e4549b5e404",
+    "text": "Mr Jones"
+  },
+  {
+    "id": "say-2e4c4d5e7120",
+    "text": "Recycle 1. School adventure"
+  },
+  {
+    "id": "say-d93c7add09a1",
+    "text": "I have an English book."
+  },
+  {
+    "id": "say-4b4ae21939dc",
+    "text": "Unit 4. My home"
+  },
+  {
+    "id": "say-009e058c883c",
+    "text": "bedroom"
+  },
+  {
+    "id": "say-122604decb5a",
+    "text": "living room"
+  },
+  {
+    "id": "say-885534c19d5f",
+    "text": "study"
+  },
+  {
+    "id": "say-2f56c0ac09ef",
+    "text": "kitchen"
+  },
+  {
+    "id": "say-72bfb05496f9",
+    "text": "bathroom"
+  },
+  {
+    "id": "say-fefe2393a7fc",
+    "text": "bed"
+  },
+  {
+    "id": "say-f6be6ca91098",
+    "text": "phone"
+  },
+  {
+    "id": "say-c3ee137d4f22",
+    "text": "table"
+  },
+  {
+    "id": "say-68e0dce54a9e",
+    "text": "sofa"
+  },
+  {
+    "id": "say-3a82c7a5e370",
+    "text": "fridge"
+  },
+  {
+    "id": "say-ded8dae5786f",
+    "text": "find"
+  },
+  {
+    "id": "say-98910a6e9ae7",
+    "text": "them"
+  },
+  {
+    "id": "say-8c5e8fde312e",
+    "text": "Is she in the living room?"
+  },
+  {
+    "id": "say-936bf463a228",
+    "text": "She’s in the study."
+  },
+  {
+    "id": "say-0663ece29ff7",
+    "text": "Where are the keys?"
+  },
+  {
+    "id": "say-b63afb499416",
+    "text": "Are they on the table?"
+  },
+  {
+    "id": "say-b2b285a347a2",
+    "text": "No, they aren’t. They’re in the door."
+  },
+  {
+    "id": "say-04489a12bbaa",
+    "text": "use"
+  },
+  {
+    "id": "say-8fb2c3ed1012",
+    "text": "excuse"
+  },
+  {
+    "id": "say-84e261150b32",
+    "text": "Unit 5. Dinner's ready"
+  },
+  {
+    "id": "say-1b57bbec9e34",
+    "text": "beef"
+  },
+  {
+    "id": "say-cef7e59218e3",
+    "text": "chicken"
+  },
+  {
+    "id": "say-00ac24f8c42d",
+    "text": "noodles"
+  },
+  {
+    "id": "say-93ad1edafafa",
+    "text": "soup"
+  },
+  {
+    "id": "say-9cc860a01c99",
+    "text": "vegetables"
+  },
+  {
+    "id": "say-36263b2e162b",
+    "text": "chopsticks"
+  },
+  {
+    "id": "say-4a07eca09938",
+    "text": "bowl"
+  },
+  {
+    "id": "say-3f673f2a8e0a",
+    "text": "fork"
+  },
+  {
+    "id": "say-6e32618ee300",
+    "text": "knife"
+  },
+  {
+    "id": "say-f557e92965db",
+    "text": "spoon"
+  },
+  {
+    "id": "say-f13a905f3776",
+    "text": "vegetable"
+  },
+  {
+    "id": "say-78cbc77f583d",
+    "text": "dinner"
+  },
+  {
+    "id": "say-75c0533730ca",
+    "text": "ready"
+  },
+  {
+    "id": "say-a1fd3b573108",
+    "text": "help yourself"
+  },
+  {
+    "id": "say-9d4e1e23bd5b",
+    "text": "pass"
+  },
+  {
+    "id": "say-3240aa0fe3ca",
+    "text": "try"
+  },
+  {
+    "id": "say-661ff7dfb5b1",
+    "text": "What’s for dinner?"
+  },
+  {
+    "id": "say-6521bd6a5c7e",
+    "text": "I’d like some soup and bread, please."
+  },
+  {
+    "id": "say-71c19fc189bf",
+    "text": "Would you like a knife and fork?"
+  },
+  {
+    "id": "say-4335e557f7c0",
+    "text": "No, thanks. I can use chopsticks."
+  },
+  {
+    "id": "say-f682084c1b32",
+    "text": "Pass me the bowl."
+  },
+  {
+    "id": "say-b1c1d8736f20",
+    "text": "me"
+  },
+  {
+    "id": "say-676e6f35cfc1",
+    "text": "we"
+  },
+  {
+    "id": "say-c208870c8c66",
+    "text": "Unit 6. Meet my family!"
+  },
+  {
+    "id": "say-a664f10b5e58",
+    "text": "parents"
+  },
+  {
+    "id": "say-980578c262f7",
+    "text": "cousin"
+  },
+  {
+    "id": "say-a5afc8df8baa",
+    "text": "uncle"
+  },
+  {
+    "id": "say-28909cfb89b1",
+    "text": "aunt"
+  },
+  {
+    "id": "say-ce029353b38b",
+    "text": "baby brother"
+  },
+  {
+    "id": "say-1f0160076c9f",
+    "text": "doctor"
+  },
+  {
+    "id": "say-f3ba4d993e2d",
+    "text": "cook"
+  },
+  {
+    "id": "say-fdda0c46f953",
+    "text": "driver"
+  },
+  {
+    "id": "say-43cf2e256880",
+    "text": "farmer"
+  },
+  {
+    "id": "say-285f9a003f67",
+    "text": "nurse"
+  },
+  {
+    "id": "say-ab3ccc8dba2a",
+    "text": "people"
+  },
+  {
+    "id": "say-786e97b3ee9f",
+    "text": "but"
+  },
+  {
+    "id": "say-4502229742dd",
+    "text": "little"
+  },
+  {
+    "id": "say-26d33687bdb4",
+    "text": "puppy"
+  },
+  {
+    "id": "say-ba0b5703c9ae",
+    "text": "football player"
+  },
+  {
+    "id": "say-2eda8ad1632a",
+    "text": "job"
+  },
+  {
+    "id": "say-468ee5cbd54e",
+    "text": "basketball"
+  },
+  {
+    "id": "say-570a51f61cb1",
+    "text": "How many people are there in your family?"
+  },
+  {
+    "id": "say-5a0cd5c3437c",
+    "text": "My family has six people."
+  },
+  {
+    "id": "say-16c9b4ac2817",
+    "text": "Is this your uncle?"
+  },
+  {
+    "id": "say-08001d02cd2e",
+    "text": "Yes, it is. He’s a driver."
+  },
+  {
+    "id": "say-b353f86a9adf",
+    "text": "What’s your aunt’s job?"
+  },
+  {
+    "id": "say-09e2fab0fc05",
+    "text": "She’s a nurse."
+  },
+  {
+    "id": "say-2523b26dbae2",
+    "text": "mum"
+  },
+  {
+    "id": "say-e4dd26357358",
+    "text": "Recycle 2. Family dinner adventure"
+  },
+  {
+    "id": "say-5944ae25418c",
+    "text": "keys"
+  },
+  {
+    "id": "say-c4b83e1bc64a",
+    "text": "They’re on the sofa."
+  },
+  {
+    "id": "say-96526b97f38b",
+    "text": "I’d like some noodles, please."
+  },
+  {
+    "id": "say-e1ed71f4604e",
+    "text": "I can use chopsticks."
+  },
+  {
+    "id": "say-e49aa10df812",
+    "text": "Pass me the chopsticks."
+  },
+  {
+    "id": "say-e57788d31db8",
+    "text": "Unit 1. My school"
+  },
+  {
+    "id": "say-94e27b282b00",
+    "text": "first floor"
+  },
+  {
+    "id": "say-9f43c4ff75f7",
+    "text": "second floor"
+  },
+  {
+    "id": "say-213caa95a6fe",
+    "text": "teachers' office"
+  },
+  {
+    "id": "say-00299a408dc3",
+    "text": "library"
+  },
+  {
+    "id": "say-a3e6610aeba3",
+    "text": "computer room"
+  },
+  {
+    "id": "say-1bbdbb5dc577",
+    "text": "music room"
+  },
+  {
+    "id": "say-0816b48fa3bb",
+    "text": "art room"
+  },
+  {
+    "id": "say-d191430e46c0",
+    "text": "playground"
+  },
+  {
+    "id": "say-4b8fd8727d3b",
+    "text": "next to"
+  },
+  {
+    "id": "say-a264d337dcfe",
+    "text": "homework"
+  },
+  {
+    "id": "say-8d767bf5b723",
+    "text": "class"
+  },
+  {
+    "id": "say-88ddff0da7c9",
+    "text": "forty"
+  },
+  {
+    "id": "say-ed36cbf2c9bb",
+    "text": "way"
+  },
+  {
+    "id": "say-00be1166aad2",
+    "text": "Where's the teachers' office?"
+  },
+  {
+    "id": "say-8f74da444511",
+    "text": "It's on the second floor."
+  },
+  {
+    "id": "say-b24cac5c7a57",
+    "text": "The teachers' office is next to the library."
+  },
+  {
+    "id": "say-62059535030d",
+    "text": "Is this the teachers’ office?"
+  },
+  {
+    "id": "say-c7472014d007",
+    "text": "Is that the computer room?"
+  },
+  {
+    "id": "say-bdafc85ff78c",
+    "text": "Do you have a library?"
+  },
+  {
+    "id": "say-da55fdc1dc43",
+    "text": "Yes, we do."
+  },
+  {
+    "id": "say-87b5b7fda149",
+    "text": "Unit 2. What time is it?"
+  },
+  {
+    "id": "say-9e3a8225470f",
+    "text": "breakfast"
+  },
+  {
+    "id": "say-ed84094e15d7",
+    "text": "go to school"
+  },
+  {
+    "id": "say-4176f5c47296",
+    "text": "English class"
+  },
+  {
+    "id": "say-cee2ea8714a6",
+    "text": "music class"
+  },
+  {
+    "id": "say-884e164e0893",
+    "text": "PE class"
+  },
+  {
+    "id": "say-094530549b5e",
+    "text": "lunch"
+  },
+  {
+    "id": "say-9a3de76ff621",
+    "text": "go to bed"
+  },
+  {
+    "id": "say-3f2d515e5af8",
+    "text": "get up"
+  },
+  {
+    "id": "say-6d912e4b4a5d",
+    "text": "go home"
+  },
+  {
+    "id": "say-f0fed7e49323",
+    "text": "over"
+  },
+  {
+    "id": "say-c9bc849a968f",
+    "text": "now"
+  },
+  {
+    "id": "say-22286fa349f1",
+    "text": "o'clock"
+  },
+  {
+    "id": "say-3f158d4cc718",
+    "text": "kid"
+  },
+  {
+    "id": "say-c54450b325c1",
+    "text": "thirty"
+  },
+  {
+    "id": "say-6a73a8dde063",
+    "text": "hurry up"
+  },
+  {
+    "id": "say-fac2af70fa56",
+    "text": "come on"
+  },
+  {
+    "id": "say-5e7e05fbc443",
+    "text": "just a minute"
+  },
+  {
+    "id": "say-a1fcd16f260d",
+    "text": "What time is it?"
+  },
+  {
+    "id": "say-96b119678a4a",
+    "text": "It's six o'clock."
+  },
+  {
+    "id": "say-76cdc75a14cc",
+    "text": "It’s time for dinner."
+  },
+  {
+    "id": "say-6fc99bcdb376",
+    "text": "Time to go home, kids."
+  },
+  {
+    "id": "say-4d04b98c2b87",
+    "text": "It’s time to get up."
+  },
+  {
+    "id": "say-0428d021a98d",
+    "text": "hamburger"
+  },
+  {
+    "id": "say-eb1f1a0289bb",
+    "text": "Unit 3. Weather"
+  },
+  {
+    "id": "say-424fa43965bd",
+    "text": "cold"
+  },
+  {
+    "id": "say-85d8d76ba15b",
+    "text": "cool"
+  },
+  {
+    "id": "say-d83fc386ba33",
+    "text": "warm"
+  },
+  {
+    "id": "say-b892f067921d",
+    "text": "sunny"
+  },
+  {
+    "id": "say-14beca199c7f",
+    "text": "rainy"
+  },
+  {
+    "id": "say-50de10bbeafd",
+    "text": "snowy"
+  },
+  {
+    "id": "say-45bf01a821bc",
+    "text": "windy"
+  },
+  {
+    "id": "say-5a53260b3d6e",
+    "text": "cloudy"
+  },
+  {
+    "id": "say-45e18dad51fd",
+    "text": "outside"
+  },
+  {
+    "id": "say-213f0ae7add2",
+    "text": "be careful"
+  },
+  {
+    "id": "say-f98669cc9b81",
+    "text": "weather"
+  },
+  {
+    "id": "say-dddd9606dd43",
+    "text": "New York"
+  },
+  {
+    "id": "say-bcae9baac844",
+    "text": "how about"
+  },
+  {
+    "id": "say-7955b936c48c",
+    "text": "degree"
+  },
+  {
+    "id": "say-7c211433f020",
+    "text": "world"
+  },
+  {
+    "id": "say-1645ee78de0f",
+    "text": "London"
+  },
+  {
+    "id": "say-83e8cef8d84f",
+    "text": "Moscow"
+  },
+  {
+    "id": "say-b599de2309e3",
+    "text": "Singapore"
+  },
+  {
+    "id": "say-a248bf1d171d",
+    "text": "Sydney"
+  },
+  {
+    "id": "say-41a682cadfe3",
+    "text": "fly"
+  },
+  {
+    "id": "say-9f2feb0f1ef4",
+    "text": "love"
+  },
+  {
+    "id": "say-e1837f104b4a",
+    "text": "Can I go outside now?"
+  },
+  {
+    "id": "say-90898c6bcc1c",
+    "text": "It’s cold outside."
+  },
+  {
+    "id": "say-a553e096570b",
+    "text": "Yes, you can."
+  },
+  {
+    "id": "say-af1fce5e11d7",
+    "text": "No, you can’t."
+  },
+  {
+    "id": "say-2f79f02cb120",
+    "text": "What’s the weather like in New York?"
+  },
+  {
+    "id": "say-3a85ea38d169",
+    "text": "It’s rainy."
+  },
+  {
+    "id": "say-585cf4a2cf12",
+    "text": "Is it cold?"
+  },
+  {
+    "id": "say-34940e084866",
+    "text": "No, it isn’t. It’s twenty-six degrees."
+  },
+  {
+    "id": "say-2ab0591dbcf5",
+    "text": "card"
+  },
+  {
+    "id": "say-3c8635475766",
+    "text": "Recycle 1. School day adventure"
+  },
+  {
+    "id": "say-3ff95ac9e6b1",
+    "text": "umbrella"
+  },
+  {
+    "id": "say-8dac9378e45d",
+    "text": "It's twelve o'clock. It's time for lunch."
+  },
+  {
+    "id": "say-f7715a424d53",
+    "text": "Unit 4. At the farm"
+  },
+  {
+    "id": "say-321f6b7e8bf7",
+    "text": "tomato"
+  },
+  {
+    "id": "say-3e2e95f5ad97",
+    "text": "potato"
+  },
+  {
+    "id": "say-e665f3672b2d",
+    "text": "green beans"
+  },
+  {
+    "id": "say-d8bfad4b74d5",
+    "text": "carrot"
+  },
+  {
+    "id": "say-091b5035885c",
+    "text": "horse"
+  },
+  {
+    "id": "say-8bbddb4a0374",
+    "text": "cow"
+  },
+  {
+    "id": "say-6525f2e663e8",
+    "text": "sheep"
+  },
+  {
+    "id": "say-d811086176db",
+    "text": "hen"
+  },
+  {
+    "id": "say-81b781d39d62",
+    "text": "these"
+  },
+  {
+    "id": "say-3c14423e8df2",
+    "text": "yum"
+  },
+  {
+    "id": "say-3199ea056253",
+    "text": "animal"
+  },
+  {
+    "id": "say-6ccf720ae2a6",
+    "text": "those"
+  },
+  {
+    "id": "say-b1ade531057f",
+    "text": "garden"
+  },
+  {
+    "id": "say-36a3bbe0659d",
+    "text": "farm"
+  },
+  {
+    "id": "say-162d15a0c695",
+    "text": "goat"
+  },
+  {
+    "id": "say-d89455758ecc",
+    "text": "eat"
+  },
+  {
+    "id": "say-8d47a69cabd2",
+    "text": "Are these carrots?"
+  },
+  {
+    "id": "say-9d945ffbc40e",
+    "text": "Yes, they are."
+  },
+  {
+    "id": "say-fdab2041bb19",
+    "text": "What are these?"
+  },
+  {
+    "id": "say-c1bb85d81710",
+    "text": "They’re tomatoes."
+  },
+  {
+    "id": "say-6a17e69e7643",
+    "text": "What are those?"
+  },
+  {
+    "id": "say-10885896d5ce",
+    "text": "They’re horses."
+  },
+  {
+    "id": "say-b11be4a11d6b",
+    "text": "Are they hens?"
+  },
+  {
+    "id": "say-23dc168f5515",
+    "text": "No, they aren’t. They’re ducks."
+  },
+  {
+    "id": "say-cfc0f3c7fce9",
+    "text": "world map"
+  },
+  {
+    "id": "say-5818c13af7ad",
+    "text": "Unit 5. My clothes"
+  },
+  {
+    "id": "say-00b1e4f56e7d",
+    "text": "clothes"
+  },
+  {
+    "id": "say-e65aace92378",
+    "text": "pants"
+  },
+  {
+    "id": "say-9dbfbe4709d4",
+    "text": "dress"
+  },
+  {
+    "id": "say-158b1ce851a7",
+    "text": "skirt"
+  },
+  {
+    "id": "say-09d5f620386e",
+    "text": "coat"
+  },
+  {
+    "id": "say-506227fcb1ad",
+    "text": "sweater"
+  },
+  {
+    "id": "say-18c9667c2999",
+    "text": "sock"
+  },
+  {
+    "id": "say-9e32d15b246e",
+    "text": "shorts"
+  },
+  {
+    "id": "say-1cdbba9665ee",
+    "text": "jacket"
+  },
+  {
+    "id": "say-faa5d6830269",
+    "text": "shirt"
+  },
+  {
+    "id": "say-922cce49ed16",
+    "text": "yours"
+  },
+  {
+    "id": "say-89b8d783289b",
+    "text": "whose"
+  },
+  {
+    "id": "say-8034c43d15bb",
+    "text": "mine"
+  },
+  {
+    "id": "say-6acd62128093",
+    "text": "pack"
+  },
+  {
+    "id": "say-daaad336276d",
+    "text": "wait"
+  },
+  {
+    "id": "say-0aaf9b04d80a",
+    "text": "Are these yours?"
+  },
+  {
+    "id": "say-7b2794ff12b1",
+    "text": "No, they aren’t. They’re Chen Jie’s."
+  },
+  {
+    "id": "say-fbc87ace6577",
+    "text": "Is this John’s?"
+  },
+  {
+    "id": "say-ab2454889440",
+    "text": "No, it isn’t. It’s Mike’s."
+  },
+  {
+    "id": "say-12aa6913d4ba",
+    "text": "Whose coat is this?"
+  },
+  {
+    "id": "say-6086ef04ee0d",
+    "text": "It’s mine."
+  },
+  {
+    "id": "say-fd0571c1b3f1",
+    "text": "Whose pants are those?"
+  },
+  {
+    "id": "say-d880fa0304ae",
+    "text": "They are your father’s."
+  },
+  {
+    "id": "say-b25a93a71328",
+    "text": "Unit 6. Shopping"
+  },
+  {
+    "id": "say-070a6b221e2f",
+    "text": "glove"
+  },
+  {
+    "id": "say-a384cff1a369",
+    "text": "scarf"
+  },
+  {
+    "id": "say-9ef44106d650",
+    "text": "sunglasses"
+  },
+  {
+    "id": "say-162fd259d9c6",
+    "text": "pretty"
+  },
+  {
+    "id": "say-e0d587ce038c",
+    "text": "expensive"
+  },
+  {
+    "id": "say-fb8df41a16b4",
+    "text": "cheap"
+  },
+  {
+    "id": "say-5929e58a5aa1",
+    "text": "nice"
+  },
+  {
+    "id": "say-1b3afa35342d",
+    "text": "try on"
+  },
+  {
+    "id": "say-89368e1d6801",
+    "text": "size"
+  },
+  {
+    "id": "say-82b796e42d94",
+    "text": "of course"
+  },
+  {
+    "id": "say-164a5c24f5df",
+    "text": "too"
+  },
+  {
+    "id": "say-d95b79cfc988",
+    "text": "just"
+  },
+  {
+    "id": "say-4df45ef0ae87",
+    "text": "how much"
+  },
+  {
+    "id": "say-20cec707d894",
+    "text": "eighty"
+  },
+  {
+    "id": "say-6c36ab332e72",
+    "text": "dollar"
+  },
+  {
+    "id": "say-5b8a763b5451",
+    "text": "sale"
+  },
+  {
+    "id": "say-e7c95b4c2824",
+    "text": "more"
+  },
+  {
+    "id": "say-da2b128800d4",
+    "text": "us"
+  },
+  {
+    "id": "say-f67a5c44f150",
+    "text": "Can I help you?"
+  },
+  {
+    "id": "say-8ef6b356ddb5",
+    "text": "These shoes are nice. Can I try them on?"
+  },
+  {
+    "id": "say-43dd12e4f3a7",
+    "text": "Size six, please."
+  },
+  {
+    "id": "say-4bc8dd1239fc",
+    "text": "They’re too small."
+  },
+  {
+    "id": "say-9f64891ef403",
+    "text": "How do you like this skirt?"
+  },
+  {
+    "id": "say-00d9d889cbc3",
+    "text": "It’s very pretty."
+  },
+  {
+    "id": "say-117e2a4508e5",
+    "text": "How much is this skirt?"
+  },
+  {
+    "id": "say-572178fe74fa",
+    "text": "It’s eighty-nine dollars."
+  },
+  {
+    "id": "say-a60af83018e0",
+    "text": "Recycle 2. Farm market adventure"
+  },
+  {
+    "id": "say-da3d1058bdee",
+    "text": "There are four sheep."
+  },
+  {
+    "id": "say-713c5f2ccc1c",
+    "text": "How much is this umbrella?"
+  },
+  {
+    "id": "say-f232e324cf0c",
+    "text": "It’s ten dollars."
+  },
+  {
+    "id": "say-9af57c3da636",
+    "text": "Unit 1. What's he like?"
+  },
+  {
+    "id": "say-c00dbbc9dadf",
+    "text": "old"
+  },
+  {
+    "id": "say-ee97d2f28ccf",
+    "text": "young"
+  },
+  {
+    "id": "say-bf48095db4e1",
+    "text": "funny"
+  },
+  {
+    "id": "say-0ef25ae00f40",
+    "text": "kind"
+  },
+  {
+    "id": "say-41eaab877ca3",
+    "text": "strict"
+  },
+  {
+    "id": "say-16f5756897c9",
+    "text": "polite"
+  },
+  {
+    "id": "say-3dfca8fa63ad",
+    "text": "hard-working"
+  },
+  {
+    "id": "say-4b7392910ae3",
+    "text": "helpful"
+  },
+  {
+    "id": "say-a31a61e94f37",
+    "text": "clever"
+  },
+  {
+    "id": "say-df399330d331",
+    "text": "shy"
+  },
+  {
+    "id": "say-97accafb5337",
+    "text": "know"
+  },
+  {
+    "id": "say-2cd7484bc1b1",
+    "text": "our"
+  },
+  {
+    "id": "say-26cc3217be64",
+    "text": "Ms"
+  },
+  {
+    "id": "say-37d41699bdee",
+    "text": "will"
+  },
+  {
+    "id": "say-297f31f02b99",
+    "text": "sometimes"
+  },
+  {
+    "id": "say-b232ae125d1a",
+    "text": "robot"
+  },
+  {
+    "id": "say-330317bbc57f",
+    "text": "him"
+  },
+  {
+    "id": "say-a65265946e25",
+    "text": "speak"
+  },
+  {
+    "id": "say-2cce4a92f41f",
+    "text": "finish"
+  },
+  {
+    "id": "say-9f484671b9da",
+    "text": "Is he young? No, he isn’t."
+  },
+  {
+    "id": "say-53751d56f888",
+    "text": "What’s she like? She’s kind."
+  },
+  {
+    "id": "say-6cf34755b9de",
+    "text": "baby"
+  },
+  {
+    "id": "say-3978d009748e",
+    "text": "happy"
+  },
+  {
+    "id": "say-dd7b1d0288f0",
+    "text": "sorry"
+  },
+  {
+    "id": "say-b2dd09342235",
+    "text": "Unit 2. My week"
+  },
+  {
+    "id": "say-ad8167df4b75",
+    "text": "Monday"
+  },
+  {
+    "id": "say-0ff11fb076d3",
+    "text": "Tuesday"
+  },
+  {
+    "id": "say-c1b89f8476a8",
+    "text": "Wednesday"
+  },
+  {
+    "id": "say-002b7ecc9521",
+    "text": "Thursday"
+  },
+  {
+    "id": "say-67b5fa48f92c",
+    "text": "Friday"
+  },
+  {
+    "id": "say-9155ef5fde64",
+    "text": "Saturday"
+  },
+  {
+    "id": "say-1390470c09da",
+    "text": "Sunday"
+  },
+  {
+    "id": "say-505eabdfb808",
+    "text": "weekend"
+  },
+  {
+    "id": "say-e636d8d1e891",
+    "text": "wash my clothes"
+  },
+  {
+    "id": "say-9d2a9d6b2d22",
+    "text": "watch TV"
+  },
+  {
+    "id": "say-f95d4e56974e",
+    "text": "do homework"
+  },
+  {
+    "id": "say-f13e0f59fe5f",
+    "text": "read books"
+  },
+  {
+    "id": "say-aaf23d3a7036",
+    "text": "play football"
+  },
+  {
+    "id": "say-c2c1a1062d88",
+    "text": "cooking"
+  },
+  {
+    "id": "say-6b77993c3476",
+    "text": "often"
+  },
+  {
+    "id": "say-ce4151ff856b",
+    "text": "park"
+  },
+  {
+    "id": "say-511e99115957",
+    "text": "tired"
+  },
+  {
+    "id": "say-9c88fb30c595",
+    "text": "play sports"
+  },
+  {
+    "id": "say-c6dc9bc9f77b",
+    "text": "should"
+  },
+  {
+    "id": "say-5873f666d03f",
+    "text": "every"
+  },
+  {
+    "id": "say-a2620cbc10f5",
+    "text": "day"
+  },
+  {
+    "id": "say-11e9ba26c91a",
+    "text": "schedule"
+  },
+  {
+    "id": "say-60e957aa9c2d",
+    "text": "What do you have on Thursdays? I have maths, English and music."
+  },
+  {
+    "id": "say-0ce53d6b6547",
+    "text": "Do you often read books on Saturdays? Yes, I do."
+  },
+  {
+    "id": "say-5c4b0304c022",
+    "text": "I often wash my clothes on Sundays."
+  },
+  {
+    "id": "say-67c0fccad5fd",
+    "text": "feet"
+  },
+  {
+    "id": "say-392d7871944a",
+    "text": "meet"
+  },
+  {
+    "id": "say-75490f32c06a",
+    "text": "tea"
+  },
+  {
+    "id": "say-a7afddb68260",
+    "text": "read"
+  },
+  {
+    "id": "say-cfdfac7f747b",
+    "text": "Unit 3. What would you like?"
+  },
+  {
+    "id": "say-579db7d667a2",
+    "text": "sandwich"
+  },
+  {
+    "id": "say-f41c041baa45",
+    "text": "salad"
+  },
+  {
+    "id": "say-7c16c8188e25",
+    "text": "ice cream"
+  },
+  {
+    "id": "say-67a4c84cb837",
+    "text": "fresh"
+  },
+  {
+    "id": "say-de18ccfa15e8",
+    "text": "healthy"
+  },
+  {
+    "id": "say-7ab9d1883a97",
+    "text": "delicious"
+  },
+  {
+    "id": "say-457774c6f022",
+    "text": "sweet"
+  },
+  {
+    "id": "say-7ca7a4abcc2d",
+    "text": "drink"
+  },
+  {
+    "id": "say-31a02cf93839",
+    "text": "thirsty"
+  },
+  {
+    "id": "say-824168b68d01",
+    "text": "favourite"
+  },
+  {
+    "id": "say-39ccb32d95ed",
+    "text": "food"
+  },
+  {
+    "id": "say-6ac8c09b23df",
+    "text": "onion"
+  },
+  {
+    "id": "say-6fb445f05294",
+    "text": "What would you like to eat? I’d like a sandwich, please."
+  },
+  {
+    "id": "say-a99998ae103c",
+    "text": "What would you like to drink? I’d like some water."
+  },
+  {
+    "id": "say-3e089c32ca8c",
+    "text": "My favourite food is salad. It is healthy."
+  },
+  {
+    "id": "say-5a46b8253d07",
+    "text": "flower"
+  },
+  {
+    "id": "say-5bae372e69f5",
+    "text": "wow"
+  },
+  {
+    "id": "say-77346d0447da",
+    "text": "down"
+  },
+  {
+    "id": "say-b94e9f3d7e00",
+    "text": "snow"
+  },
+  {
+    "id": "say-57e8a7776d68",
+    "text": "slow"
+  },
+  {
+    "id": "say-396275994334",
+    "text": "Recycle 1. Recycle 1"
+  },
+  {
+    "id": "say-3529b24dfdbc",
+    "text": "maths"
+  },
+  {
+    "id": "say-1b669334dae8",
+    "text": "English"
+  },
+  {
+    "id": "say-3a01be17246d",
+    "text": "music"
+  },
+  {
+    "id": "say-33a76af55e08",
+    "text": "She is kind."
+  },
+  {
+    "id": "say-8d5be5874868",
+    "text": "I have maths, English and music on Thursdays."
+  },
+  {
+    "id": "say-0c6e8cf297b4",
+    "text": "I’d like a sandwich, please."
+  },
+  {
+    "id": "say-e9c0c377e18a",
+    "text": "Unit 4. What can you do?"
+  },
+  {
+    "id": "say-1a4824f73246",
+    "text": "sing English songs"
+  },
+  {
+    "id": "say-a1f9ca817f73",
+    "text": "play the pipa"
+  },
+  {
+    "id": "say-9e24aebee09f",
+    "text": "do kung fu"
+  },
+  {
+    "id": "say-74b518ed5512",
+    "text": "dance"
+  },
+  {
+    "id": "say-788908056964",
+    "text": "draw cartoons"
+  },
+  {
+    "id": "say-b89f90f328fa",
+    "text": "swim"
+  },
+  {
+    "id": "say-194d3f28cf63",
+    "text": "play basketball"
+  },
+  {
+    "id": "say-1ac1f3d0a7db",
+    "text": "play ping-pong"
+  },
+  {
+    "id": "say-411d12f9983a",
+    "text": "speak English"
+  },
+  {
+    "id": "say-84beb18831cf",
+    "text": "party"
+  },
+  {
+    "id": "say-7dca5d4cddf5",
+    "text": "learn"
+  },
+  {
+    "id": "say-51f90c38d793",
+    "text": "wonderful"
+  },
+  {
+    "id": "say-7bf7ca17c6c6",
+    "text": "no problem"
+  },
+  {
+    "id": "say-37ed539c0cef",
+    "text": "send"
+  },
+  {
+    "id": "say-a88b7dcd1a9e",
+    "text": "email"
+  },
+  {
+    "id": "say-e512337f820e",
+    "text": "What can you do? I can play the pipa."
+  },
+  {
+    "id": "say-2c82a52397ce",
+    "text": "Can you do any kung fu? Yes, I can."
+  },
+  {
+    "id": "say-72e158995b3d",
+    "text": "Can Robin swim? No, he can’t."
+  },
+  {
+    "id": "say-e09315fa02d7",
+    "text": "look"
+  },
+  {
+    "id": "say-2d27b62c597e",
+    "text": "football"
+  },
+  {
+    "id": "say-fc19318dd131",
+    "text": "good"
+  },
+  {
+    "id": "say-326de722b35a",
+    "text": "balloon"
+  },
+  {
+    "id": "say-1a828a366e0c",
+    "text": "Unit 5. There is a big bed"
+  },
+  {
+    "id": "say-eeb35d331bdd",
+    "text": "photo"
+  },
+  {
+    "id": "say-baf0bf92eb79",
+    "text": "plant"
+  },
+  {
+    "id": "say-44d536903233",
+    "text": "bike"
+  },
+  {
+    "id": "say-fcaf74cf6495",
+    "text": "water bottle"
+  },
+  {
+    "id": "say-83655a5560ef",
+    "text": "clock"
+  },
+  {
+    "id": "say-9fbb397449fa",
+    "text": "above"
+  },
+  {
+    "id": "say-d1c8869983ff",
+    "text": "beside"
+  },
+  {
+    "id": "say-fb6dbd81382d",
+    "text": "behind"
+  },
+  {
+    "id": "say-709634051471",
+    "text": "between"
+  },
+  {
+    "id": "say-b41612a4094f",
+    "text": "in front of"
+  },
+  {
+    "id": "say-410bce0c5898",
+    "text": "grandparent"
+  },
+  {
+    "id": "say-df055c669423",
+    "text": "their"
+  },
+  {
+    "id": "say-5be93480bd8b",
+    "text": "house"
+  },
+  {
+    "id": "say-0766435f6f11",
+    "text": "lots of"
+  },
+  {
+    "id": "say-33797be57bc3",
+    "text": "dirty"
+  },
+  {
+    "id": "say-a3285469a88c",
+    "text": "everywhere"
+  },
+  {
+    "id": "say-9e05e6832caf",
+    "text": "mouse"
+  },
+  {
+    "id": "say-781e1ac582ac",
+    "text": "There is a big bed."
+  },
+  {
+    "id": "say-6fa148134b65",
+    "text": "The photo is above the bed."
+  },
+  {
+    "id": "say-f21d0ada0265",
+    "text": "There are two pictures in my room."
+  },
+  {
+    "id": "say-f1eb08c4e3f8",
+    "text": "rainbow"
+  },
+  {
+    "id": "say-039f7bd6bc6c",
+    "text": "paint"
+  },
+  {
+    "id": "say-dc01c6b7487a",
+    "text": "say"
+  },
+  {
+    "id": "say-d98f2c581b10",
+    "text": "birthday"
+  },
+  {
+    "id": "say-6c567c2fa979",
+    "text": "Unit 6. In a nature park"
+  },
+  {
+    "id": "say-0bcd9af79f2d",
+    "text": "forest"
+  },
+  {
+    "id": "say-08fbe5a2e401",
+    "text": "river"
+  },
+  {
+    "id": "say-f3c45b69bb63",
+    "text": "lake"
+  },
+  {
+    "id": "say-d79ac4a2b1ac",
+    "text": "mountain"
+  },
+  {
+    "id": "say-5ce9c4dfa820",
+    "text": "hill"
+  },
+  {
+    "id": "say-80655da8d80a",
+    "text": "tree"
+  },
+  {
+    "id": "say-2fa1981b4a9a",
+    "text": "bridge"
+  },
+  {
+    "id": "say-3bdc3ec682bf",
+    "text": "village"
+  },
+  {
+    "id": "say-b8114546a306",
+    "text": "building"
+  },
+  {
+    "id": "say-2f9460610f38",
+    "text": "go boating"
+  },
+  {
+    "id": "say-6d0ebbbdce32",
+    "text": "rabbit"
+  },
+  {
+    "id": "say-9235afd3e988",
+    "text": "high"
+  },
+  {
+    "id": "say-032992deaa98",
+    "text": "Is there a lake in the park? Yes, there is."
+  },
+  {
+    "id": "say-14d78925ec9a",
+    "text": "Is there a river in the forest? No, there isn’t."
+  },
+  {
+    "id": "say-120eaafa17ed",
+    "text": "Are there any tall buildings? No, there aren’t."
+  },
+  {
+    "id": "say-5e2e97c3c7ba",
+    "text": "sound"
+  },
+  {
+    "id": "say-ee9f38e186ba",
+    "text": "count"
+  },
+  {
+    "id": "say-1f4789aedccc",
+    "text": "Recycle 2. Recycle 2"
+  },
+  {
+    "id": "say-e6d7a4c1389c",
+    "text": "trees"
+  },
+  {
+    "id": "say-cc4d80072c32",
+    "text": "I can play the pipa."
+  },
+  {
+    "id": "say-6c0e233904f3",
+    "text": "Are there any trees? Yes, there are."
+  },
+  {
+    "id": "say-b1d9cb52f570",
+    "text": "Unit 1. My day"
+  },
+  {
+    "id": "say-62d2cd13d16e",
+    "text": "do morning exercises"
+  },
+  {
+    "id": "say-d8627d43337e",
+    "text": "eat breakfast"
+  },
+  {
+    "id": "say-faf3975f90da",
+    "text": "have English class"
+  },
+  {
+    "id": "say-8fb113c35c63",
+    "text": "eat dinner"
+  },
+  {
+    "id": "say-53c6a719d518",
+    "text": "clean my room"
+  },
+  {
+    "id": "say-f862ab8ebea5",
+    "text": "go for a walk"
+  },
+  {
+    "id": "say-d01420af2136",
+    "text": "go shopping"
+  },
+  {
+    "id": "say-662003a13ec7",
+    "text": "take a dancing class"
+  },
+  {
+    "id": "say-30603fa9e0f6",
+    "text": "when"
+  },
+  {
+    "id": "say-405906c9d5be",
+    "text": "after"
+  },
+  {
+    "id": "say-2b020927d3c6",
+    "text": "start"
+  },
+  {
+    "id": "say-66c2fa4e9e56",
+    "text": "usually"
+  },
+  {
+    "id": "say-51288d140528",
+    "text": "Spain"
+  },
+  {
+    "id": "say-96e8155732e8",
+    "text": "a.m."
+  },
+  {
+    "id": "say-c4dcbb4b94a4",
+    "text": "p.m."
+  },
+  {
+    "id": "say-10cff4034ced",
+    "text": "why"
+  },
+  {
+    "id": "say-e18a89f9cc5b",
+    "text": "busy"
+  },
+  {
+    "id": "say-6656018ac96d",
+    "text": "always"
+  },
+  {
+    "id": "say-7bd1a907a1ec",
+    "text": "island"
+  },
+  {
+    "id": "say-9dba6a05bc1c",
+    "text": "cave"
+  },
+  {
+    "id": "say-cbd82115b2fd",
+    "text": "When do you eat breakfast? I eat breakfast at eight o’clock."
+  },
+  {
+    "id": "say-97fa472f8d38",
+    "text": "What do you do on the weekend? I often clean my room."
+  },
+  {
+    "id": "say-9f35b48686fd",
+    "text": "eggplant"
+  },
+  {
+    "id": "say-516626bf8a50",
+    "text": "play"
+  },
+  {
+    "id": "say-161aab024d73",
+    "text": "Unit 2. My favourite season"
+  },
+  {
+    "id": "say-248902131a73",
+    "text": "spring"
+  },
+  {
+    "id": "say-6420ed4d831b",
+    "text": "summer"
+  },
+  {
+    "id": "say-91fb64276c08",
+    "text": "autumn"
+  },
+  {
+    "id": "say-1ef41af4175f",
+    "text": "winter"
+  },
+  {
+    "id": "say-37e5c8b7e7e5",
+    "text": "go on a picnic"
+  },
+  {
+    "id": "say-756ef0c90086",
+    "text": "go swimming"
+  },
+  {
+    "id": "say-b18e4126b1f7",
+    "text": "pick apples"
+  },
+  {
+    "id": "say-f6f26bfe11c8",
+    "text": "make a snowman"
+  },
+  {
+    "id": "say-76f5e4039106",
+    "text": "season"
+  },
+  {
+    "id": "say-ed04ff4dabf1",
+    "text": "which"
+  },
+  {
+    "id": "say-c5f5e4d75252",
+    "text": "best"
+  },
+  {
+    "id": "say-d1ef4731ec5c",
+    "text": "because"
+  },
+  {
+    "id": "say-18c0f103187c",
+    "text": "vacation"
+  },
+  {
+    "id": "say-d87c448044de",
+    "text": "all"
+  },
+  {
+    "id": "say-b0f7f128338b",
+    "text": "pink"
+  },
+  {
+    "id": "say-de3460832ea0",
+    "text": "lovely"
+  },
+  {
+    "id": "say-841117513f52",
+    "text": "leaves"
+  },
+  {
+    "id": "say-c52888225c69",
+    "text": "fall"
+  },
+  {
+    "id": "say-42554f9b830c",
+    "text": "Which season do you like best? I like autumn best."
+  },
+  {
+    "id": "say-b5dbb1da0953",
+    "text": "Why? Because I can pick apples."
+  },
+  {
+    "id": "say-35c4cdb50a9a",
+    "text": "grapes"
+  },
+  {
+    "id": "say-c7c5d759817f",
+    "text": "grow"
+  },
+  {
+    "id": "say-d94cf8ad4644",
+    "text": "Unit 3. My school calendar"
+  },
+  {
+    "id": "say-549c6ca8a52f",
+    "text": "January"
+  },
+  {
+    "id": "say-4d8f35e9ae90",
+    "text": "February"
+  },
+  {
+    "id": "say-5b6583d6c1c2",
+    "text": "March"
+  },
+  {
+    "id": "say-8fa8a3c2de61",
+    "text": "April"
+  },
+  {
+    "id": "say-f458ef050c0c",
+    "text": "May"
+  },
+  {
+    "id": "say-b05c038edc70",
+    "text": "June"
+  },
+  {
+    "id": "say-aa0002a70cd0",
+    "text": "July"
+  },
+  {
+    "id": "say-9adc7a1161dd",
+    "text": "August"
+  },
+  {
+    "id": "say-85f2aea244da",
+    "text": "September"
+  },
+  {
+    "id": "say-2760666e0552",
+    "text": "October"
+  },
+  {
+    "id": "say-982aa9d15171",
+    "text": "November"
+  },
+  {
+    "id": "say-c35b07262fca",
+    "text": "December"
+  },
+  {
+    "id": "say-c1feabab6cb1",
+    "text": "sports meet"
+  },
+  {
+    "id": "say-bfb7c0ec27ab",
+    "text": "school trip"
+  },
+  {
+    "id": "say-3b102f4424d1",
+    "text": "singing contest"
+  },
+  {
+    "id": "say-4052f97fb79e",
+    "text": "the Great Wall"
+  },
+  {
+    "id": "say-66c541373cc1",
+    "text": "National Day"
+  },
+  {
+    "id": "say-e9c8dc015aca",
+    "text": "American Thanksgiving Day"
+  },
+  {
+    "id": "say-46e505c98343",
+    "text": "Christmas"
+  },
+  {
+    "id": "say-a7b3c99f60cd",
+    "text": "act out"
+  },
+  {
+    "id": "say-ecefe3a4d0a5",
+    "text": "riddle"
+  },
+  {
+    "id": "say-b62595c1a54f",
+    "text": "When is the party? It’s in April."
+  },
+  {
+    "id": "say-a63df3f00af6",
+    "text": "When is the trip this year? It’s in October. We’ll go to the Great Wall."
+  },
+  {
+    "id": "say-d458ec287f65",
+    "text": "I eat breakfast at eight o’clock."
+  },
+  {
+    "id": "say-9359cc199337",
+    "text": "I like autumn best. Because I can pick apples."
+  },
+  {
+    "id": "say-9a65ac7183e6",
+    "text": "It’s in October. We’ll go to the Great Wall."
+  },
+  {
+    "id": "say-b3d2b16e8c73",
+    "text": "Unit 4. When is the art show?"
+  },
+  {
+    "id": "say-e0996a37c13d",
+    "text": "first"
+  },
+  {
+    "id": "say-352f7829a238",
+    "text": "second"
+  },
+  {
+    "id": "say-34fb3300b9a7",
+    "text": "third"
+  },
+  {
+    "id": "say-2db18e1d98e7",
+    "text": "fourth"
+  },
+  {
+    "id": "say-5ad43148c90a",
+    "text": "fifth"
+  },
+  {
+    "id": "say-ae8d22fc8472",
+    "text": "twelfth"
+  },
+  {
+    "id": "say-b771a2c51b6b",
+    "text": "twentieth"
+  },
+  {
+    "id": "say-440a39a258df",
+    "text": "twenty-first"
+  },
+  {
+    "id": "say-641151484184",
+    "text": "twenty-third"
+  },
+  {
+    "id": "say-8b40741f8d28",
+    "text": "thirtieth"
+  },
+  {
+    "id": "say-d0941e68da8f",
+    "text": "other"
+  },
+  {
+    "id": "say-ba36b97a41e7",
+    "text": "special"
+  },
+  {
+    "id": "say-8b903e32a5b4",
+    "text": "art show"
+  },
+  {
+    "id": "say-24e2c517e400",
+    "text": "reading festival"
+  },
+  {
+    "id": "say-44060752d7f7",
+    "text": "kitten"
+  },
+  {
+    "id": "say-43348291e9a5",
+    "text": "diary"
+  },
+  {
+    "id": "say-cee609b48cd2",
+    "text": "fur"
+  },
+  {
+    "id": "say-5fc7e38bffe0",
+    "text": "open"
+  },
+  {
+    "id": "say-856b38042782",
+    "text": "When is the art show? It’s on May first."
+  },
+  {
+    "id": "say-21a34afcd23c",
+    "text": "My birthday is on April fourth."
+  },
+  {
+    "id": "say-337891501b1e",
+    "text": "It’s on June twenty-first."
+  },
+  {
+    "id": "say-c2543fff3bfa",
+    "text": "this"
+  },
+  {
+    "id": "say-33b82201081e",
+    "text": "that"
+  },
+  {
+    "id": "say-71ed571e123e",
+    "text": "Unit 5. Whose dog is it?"
+  },
+  {
+    "id": "say-26b99989814c",
+    "text": "hers"
+  },
+  {
+    "id": "say-48537f613ab8",
+    "text": "ours"
+  },
+  {
+    "id": "say-d16d74303205",
+    "text": "theirs"
+  },
+  {
+    "id": "say-301577ef5982",
+    "text": "eating"
+  },
+  {
+    "id": "say-4cb9322d7b51",
+    "text": "drinking"
+  },
+  {
+    "id": "say-f1218e3a24f5",
+    "text": "sleeping"
+  },
+  {
+    "id": "say-d0f9310437be",
+    "text": "jumping"
+  },
+  {
+    "id": "say-2bbed9587ed6",
+    "text": "climbing"
+  },
+  {
+    "id": "say-5863973edc67",
+    "text": "playing"
+  },
+  {
+    "id": "say-1f0528a10b39",
+    "text": "each other"
+  },
+  {
+    "id": "say-f529c0de3cab",
+    "text": "excited"
+  },
+  {
+    "id": "say-24eceefcc640",
+    "text": "Whose is it? It’s hers."
+  },
+  {
+    "id": "say-42628cd49d70",
+    "text": "What is the dog doing? It is eating."
+  },
+  {
+    "id": "say-7746851b0f62",
+    "text": "Is he drinking water? No, he isn’t. He’s eating."
+  },
+  {
+    "id": "say-f9bef9c232ce",
+    "text": "sing"
+  },
+  {
+    "id": "say-5c7d283db584",
+    "text": "ring"
+  },
+  {
+    "id": "say-b7c61c80ab26",
+    "text": "think"
+  },
+  {
+    "id": "say-ec437ab60af3",
+    "text": "ink"
+  },
+  {
+    "id": "say-488784591515",
+    "text": "trunk"
+  },
+  {
+    "id": "say-ed8be1b0af3c",
+    "text": "Unit 6. Work quietly!"
+  },
+  {
+    "id": "say-3a3e4c76f286",
+    "text": "doing morning exercises"
+  },
+  {
+    "id": "say-f0c7f8a689a3",
+    "text": "having an English class"
+  },
+  {
+    "id": "say-ed6c078c0139",
+    "text": "eating lunch"
+  },
+  {
+    "id": "say-68e71f57512c",
+    "text": "reading a book"
+  },
+  {
+    "id": "say-cf8ff42599cf",
+    "text": "listening to music"
+  },
+  {
+    "id": "say-f2b595902309",
+    "text": "Keep to the right."
+  },
+  {
+    "id": "say-be8c5dd116b6",
+    "text": "Keep your desk clean."
+  },
+  {
+    "id": "say-8ecdf1e81697",
+    "text": "Talk quietly."
+  },
+  {
+    "id": "say-96d68f75a24f",
+    "text": "Take turns."
+  },
+  {
+    "id": "say-4f5981e86104",
+    "text": "Work quietly."
+  },
+  {
+    "id": "say-51bc3d3dcff5",
+    "text": "bamboo"
+  },
+  {
+    "id": "say-bf0d88b0920d",
+    "text": "exhibition"
+  },
+  {
+    "id": "say-451dcf9913bf",
+    "text": "sushi"
+  },
+  {
+    "id": "say-bbe5bb364fb3",
+    "text": "teach"
+  },
+  {
+    "id": "say-30537675b2de",
+    "text": "What are they doing? They’re reading a book."
+  },
+  {
+    "id": "say-101f932c3880",
+    "text": "Talk quietly, please."
+  },
+  {
+    "id": "say-a110e6b9a361",
+    "text": "what"
+  },
+  {
+    "id": "say-46148cc3b4d2",
+    "text": "where"
+  },
+  {
+    "id": "say-b7adf77905f5",
+    "text": "who"
+  },
+  {
+    "id": "say-fd5ab0350b3e",
+    "text": "It’s on May first."
+  },
+  {
+    "id": "say-620464b4a673",
+    "text": "It is eating."
+  },
+  {
+    "id": "say-e81c6b8987a5",
+    "text": "Unit 1. How can I get there?"
+  },
+  {
+    "id": "say-47461f8fcb96",
+    "text": "science museum"
+  },
+  {
+    "id": "say-36441bb2c511",
+    "text": "post office"
+  },
+  {
+    "id": "say-ee710b916549",
+    "text": "bookstore"
+  },
+  {
+    "id": "say-ef4d54d14e10",
+    "text": "cinema"
+  },
+  {
+    "id": "say-2b2d005e88ce",
+    "text": "hospital"
+  },
+  {
+    "id": "say-a275805e8b30",
+    "text": "crossing"
+  },
+  {
+    "id": "say-b09c738b5976",
+    "text": "turn"
+  },
+  {
+    "id": "say-12c0f1fbadc4",
+    "text": "left"
+  },
+  {
+    "id": "say-6ec09feb3f12",
+    "text": "straight"
+  },
+  {
+    "id": "say-1c8f09270fc3",
+    "text": "ask"
+  },
+  {
+    "id": "say-e5f37c1b03f9",
+    "text": "sir"
+  },
+  {
+    "id": "say-68f555517966",
+    "text": "interesting"
+  },
+  {
+    "id": "say-daf14c798449",
+    "text": "Italian"
+  },
+  {
+    "id": "say-32ac991d88d6",
+    "text": "restaurant"
+  },
+  {
+    "id": "say-1f6ccd2be75f",
+    "text": "pizza"
+  },
+  {
+    "id": "say-d3a9fb075d49",
+    "text": "street"
+  },
+  {
+    "id": "say-783923e57ba5",
+    "text": "get"
+  },
+  {
+    "id": "say-96bf23fbb5fc",
+    "text": "BDS"
+  },
+  {
+    "id": "say-c650f6f86cee",
+    "text": "gave"
+  },
+  {
+    "id": "say-4b7615dce52c",
+    "text": "feature"
+  },
+  {
+    "id": "say-f7ac253b1bed",
+    "text": "follow"
+  },
+  {
+    "id": "say-70b2db8ae957",
+    "text": "far"
+  },
+  {
+    "id": "say-47b8015d98d5",
+    "text": "tell"
+  },
+  {
+    "id": "say-6adc1a487c19",
+    "text": "Go straight. Go straight."
+  },
+  {
+    "id": "say-bb09c0c046e3",
+    "text": "I am going to the science museum."
+  },
+  {
+    "id": "say-a69994d0f586",
+    "text": "Go straight. Turn right. Go straight. Turn left."
+  },
+  {
+    "id": "say-6b2538a5f779",
+    "text": "I am going to the post office."
+  },
+  {
+    "id": "say-0e22be9afc9b",
+    "text": "Turn left. Turn right. Go straight."
+  },
+  {
+    "id": "say-761e51e06c51",
+    "text": "I am going to the bookstore."
+  },
+  {
+    "id": "say-97e8c98a3143",
+    "text": "Turn right. Turn left. Go straight."
+  },
+  {
+    "id": "say-072647beb7ec",
+    "text": "I am going to the cinema."
+  },
+  {
+    "id": "say-8da88b6de957",
+    "text": "Turn left."
+  },
+  {
+    "id": "say-5c4e5ae0fb82",
+    "text": "I am going to the hospital."
+  },
+  {
+    "id": "say-fdf54f83fd97",
+    "text": "Turn right. Go straight."
+  },
+  {
+    "id": "say-448f4c1f4da2",
+    "text": "I am going to the supermarket."
+  },
+  {
+    "id": "say-f0c45de52a42",
+    "text": "Robin has BDS."
+  },
+  {
+    "id": "say-c0d197f83c32",
+    "text": "Follow me, please!"
+  },
+  {
+    "id": "say-c59b0e541bef",
+    "text": "Is it far?"
+  },
+  {
+    "id": "say-3538d73b4997",
+    "text": "Where is the restaurant?"
+  },
+  {
+    "id": "say-35c8bd6f4763",
+    "text": "Unit 2. Ways to go to school"
+  },
+  {
+    "id": "say-8e54356f4a1d",
+    "text": "on foot"
+  },
+  {
+    "id": "say-408158643ed5",
+    "text": "by"
+  },
+  {
+    "id": "say-32c70cebf110",
+    "text": "bus"
+  },
+  {
+    "id": "say-2e869b90408c",
+    "text": "plane"
+  },
+  {
+    "id": "say-4d82205a2028",
+    "text": "taxi"
+  },
+  {
+    "id": "say-ed43a8a09e9b",
+    "text": "ship"
+  },
+  {
+    "id": "say-b26e5ebda152",
+    "text": "subway"
+  },
+  {
+    "id": "say-94efdd6f628e",
+    "text": "train"
+  },
+  {
+    "id": "say-2185c48b7067",
+    "text": "slow down"
+  },
+  {
+    "id": "say-1b480158e1f3",
+    "text": "stop"
+  },
+  {
+    "id": "say-a9937de3c5d9",
+    "text": "Mrs"
+  },
+  {
+    "id": "say-818743b967a1",
+    "text": "early"
+  },
+  {
+    "id": "say-749440ec6a50",
+    "text": "helmet"
+  },
+  {
+    "id": "say-5723d165ed59",
+    "text": "must"
+  },
+  {
+    "id": "say-a19e31d69f08",
+    "text": "wear"
+  },
+  {
+    "id": "say-d0278de5f6e5",
+    "text": "attention"
+  },
+  {
+    "id": "say-c37ef5030c17",
+    "text": "pay attention to"
+  },
+  {
+    "id": "say-a430759ae307",
+    "text": "traffic lights"
+  },
+  {
+    "id": "say-27fa76f0c8db",
+    "text": "Munich"
+  },
+  {
+    "id": "say-9aec35c79b4e",
+    "text": "Germany"
+  },
+  {
+    "id": "say-d6f8cdd522e4",
+    "text": "Alaska"
+  },
+  {
+    "id": "say-51b2a2310a67",
+    "text": "sled"
+  },
+  {
+    "id": "say-0afde56699db",
+    "text": "fast"
+  },
+  {
+    "id": "say-aa4835f776c6",
+    "text": "ferry"
+  },
+  {
+    "id": "say-fe906ddbe8ee",
+    "text": "Papa Westray"
+  },
+  {
+    "id": "say-4bc31e08b78c",
+    "text": "Scotland"
+  },
+  {
+    "id": "say-376bd6c96114",
+    "text": "I come on foot."
+  },
+  {
+    "id": "say-d1f80a422dfd",
+    "text": "I come by bus."
+  },
+  {
+    "id": "say-8f92d25a7936",
+    "text": "I come by plane."
+  },
+  {
+    "id": "say-004c903a09b8",
+    "text": "I come by taxi."
+  },
+  {
+    "id": "say-b60a3fa4d0c1",
+    "text": "I come by ship."
+  },
+  {
+    "id": "say-e34d1b8c48b6",
+    "text": "I come by subway."
+  },
+  {
+    "id": "say-ba0dbf40da07",
+    "text": "I come by train."
+  },
+  {
+    "id": "say-d67d34bcedce",
+    "text": "Don't go at the red light."
+  },
+  {
+    "id": "say-bc637b8306a5",
+    "text": "Slow down and stop at a yellow light."
+  },
+  {
+    "id": "say-f890f9ab46cd",
+    "text": "I must wear a helmet."
+  },
+  {
+    "id": "say-b8c77381e5e8",
+    "text": "They go to school by ferry."
+  },
+  {
+    "id": "say-22cc9e715c0c",
+    "text": "come and have a look"
+  },
+  {
+    "id": "say-364f44873046",
+    "text": "pictures of"
+  },
+  {
+    "id": "say-aa942e28df49",
+    "text": "stop at a red light"
+  },
+  {
+    "id": "say-2dfec8588054",
+    "text": "Unit 3. My weekend plan"
+  },
+  {
+    "id": "say-a41f18cb110c",
+    "text": "visit"
+  },
+  {
+    "id": "say-ad363a93848b",
+    "text": "film"
+  },
+  {
+    "id": "say-9f359d508833",
+    "text": "see a film"
+  },
+  {
+    "id": "say-fdd91fbac0e5",
+    "text": "trip"
+  },
+  {
+    "id": "say-bb55b3ff20b9",
+    "text": "take a trip"
+  },
+  {
+    "id": "say-2f3f8964eb7e",
+    "text": "supermarket"
+  },
+  {
+    "id": "say-d57fd91679ff",
+    "text": "evening"
+  },
+  {
+    "id": "say-4ce0cba1df89",
+    "text": "tonight"
+  },
+  {
+    "id": "say-2dac81d65dd4",
+    "text": "tomorrow"
+  },
+  {
+    "id": "say-f3619af6b122",
+    "text": "next week"
+  },
+  {
+    "id": "say-f18bfb74e613",
+    "text": "dictionary"
+  },
+  {
+    "id": "say-e4863ebf6abe",
+    "text": "comic book"
+  },
+  {
+    "id": "say-be3440a4ff53",
+    "text": "word book"
+  },
+  {
+    "id": "say-1a5a9cecabd7",
+    "text": "postcard"
+  },
+  {
+    "id": "say-b11449a34df8",
+    "text": "lesson"
+  },
+  {
+    "id": "say-0803df4ff165",
+    "text": "space"
+  },
+  {
+    "id": "say-f7956b2763e6",
+    "text": "travel"
+  },
+  {
+    "id": "say-6dbdd59ab542",
+    "text": "half"
+  },
+  {
+    "id": "say-2097c33723b6",
+    "text": "price"
+  },
+  {
+    "id": "say-2b911d015f16",
+    "text": "Mid-Autumn Festival"
+  },
+  {
+    "id": "say-9034ff9e2b8f",
+    "text": "together"
+  },
+  {
+    "id": "say-0a71afed16bb",
+    "text": "get together"
+  },
+  {
+    "id": "say-80572a7505ca",
+    "text": "mooncake"
+  },
+  {
+    "id": "say-69d27e80a95a",
+    "text": "poem"
+  },
+  {
+    "id": "say-46dcd4dd65b6",
+    "text": "moon"
+  },
+  {
+    "id": "say-0845337bdea3",
+    "text": "I am going to visit my grandparents."
+  },
+  {
+    "id": "say-4524257b2c76",
+    "text": "I am going to the house."
+  },
+  {
+    "id": "say-c8d0bc2fd7f3",
+    "text": "I am going tomorrow."
+  },
+  {
+    "id": "say-4b947fbaaf02",
+    "text": "I am going to see a film."
+  },
+  {
+    "id": "say-95163351efd3",
+    "text": "I am going tonight."
+  },
+  {
+    "id": "say-9ca718006893",
+    "text": "I am going to take a trip."
+  },
+  {
+    "id": "say-3d00db235288",
+    "text": "I am going to the park."
+  },
+  {
+    "id": "say-0d9e43ed76a7",
+    "text": "I am going next week."
+  },
+  {
+    "id": "say-3f02b40ad5e8",
+    "text": "I am going to have an art lesson."
+  },
+  {
+    "id": "say-1bfe83b8ee28",
+    "text": "I am going to the school."
+  },
+  {
+    "id": "say-5a611c0ad686",
+    "text": "I am going to buy books."
+  },
+  {
+    "id": "say-79abf56efc2d",
+    "text": "I am going this afternoon."
+  },
+  {
+    "id": "say-303a53715ff2",
+    "text": "visit my grandparents"
+  },
+  {
+    "id": "say-8cfd4e05ae70",
+    "text": "Unit 4. I have a pen pal"
+  },
+  {
+    "id": "say-e7b9be56907c",
+    "text": "dancing"
+  },
+  {
+    "id": "say-de77a66ed5be",
+    "text": "singing"
+  },
+  {
+    "id": "say-7618e8a62096",
+    "text": "reading stories"
+  },
+  {
+    "id": "say-2568f206a111",
+    "text": "playing football"
+  },
+  {
+    "id": "say-304730ee0f2e",
+    "text": "doing kung fu"
+  },
+  {
+    "id": "say-537c65ebe943",
+    "text": "cooks Chinese food"
+  },
+  {
+    "id": "say-be7e58a03869",
+    "text": "studies Chinese"
+  },
+  {
+    "id": "say-40f1fdd75fcb",
+    "text": "does word puzzles"
+  },
+  {
+    "id": "say-9111ab4e8b12",
+    "text": "goes hiking"
+  },
+  {
+    "id": "say-6387df858b51",
+    "text": "pen pal"
+  },
+  {
+    "id": "say-54b7e849c6d2",
+    "text": "hobby"
+  },
+  {
+    "id": "say-5bfd08bdac59",
+    "text": "jasmine"
+  },
+  {
+    "id": "say-766250612b00",
+    "text": "idea"
+  },
+  {
+    "id": "say-e4b1ffcb4ee6",
+    "text": "Canberra"
+  },
+  {
+    "id": "say-5749570a404b",
+    "text": "amazing"
+  },
+  {
+    "id": "say-c98329dcc466",
+    "text": "shall"
+  },
+  {
+    "id": "say-db9a022b7562",
+    "text": "goal"
+  },
+  {
+    "id": "say-c455b38e0762",
+    "text": "join"
+  },
+  {
+    "id": "say-e9933e8a7556",
+    "text": "club"
+  },
+  {
+    "id": "say-aab90dfe8c6f",
+    "text": "share"
+  },
+  {
+    "id": "say-822a9454f755",
+    "text": "He likes reading stories and dancing."
+  },
+  {
+    "id": "say-c54d79e262c7",
+    "text": "She likes singing and doing kung fu."
+  },
+  {
+    "id": "say-8db2f6044806",
+    "text": "He likes playing football."
+  },
+  {
+    "id": "say-6bf7701c3bd0",
+    "text": "He likes doing word puzzles and going hiking."
+  },
+  {
+    "id": "say-b9d5f643c772",
+    "text": "No, he does not. He lives in Canberra."
+  },
+  {
+    "id": "say-def143982b8e",
+    "text": "Yes, he does."
+  },
+  {
+    "id": "say-42e06a5a8951",
+    "text": "We can share."
+  },
+  {
+    "id": "say-ac97371efaf9",
+    "text": "I like dancing."
+  },
+  {
+    "id": "say-573c08dbd816",
+    "text": "He lives on a farm."
+  },
+  {
+    "id": "say-bb2f4f413af2",
+    "text": "What are Peter’s hobbies?"
+  },
+  {
+    "id": "say-77e045b3ba07",
+    "text": "Unit 5. What does he do?"
+  },
+  {
+    "id": "say-4db243b9339f",
+    "text": "factory worker"
+  },
+  {
+    "id": "say-7ec5f7e03481",
+    "text": "postman"
+  },
+  {
+    "id": "say-3d854ffed186",
+    "text": "businessman"
+  },
+  {
+    "id": "say-8f7cde310376",
+    "text": "police officer"
+  },
+  {
+    "id": "say-20c97c875a99",
+    "text": "fisherman"
+  },
+  {
+    "id": "say-dd3fb353b512",
+    "text": "scientist"
+  },
+  {
+    "id": "say-eec7121ebf64",
+    "text": "pilot"
+  },
+  {
+    "id": "say-c63c8ec7f6e2",
+    "text": "coach"
+  },
+  {
+    "id": "say-8e68b3e5af63",
+    "text": "country"
+  },
+  {
+    "id": "say-a308ffa037da",
+    "text": "head teacher"
+  },
+  {
+    "id": "say-6fa11fb296a8",
+    "text": "sea"
+  },
+  {
+    "id": "say-396f9974da4e",
+    "text": "stay"
+  },
+  {
+    "id": "say-f9f914060ccb",
+    "text": "university"
+  },
+  {
+    "id": "say-21d286310f9f",
+    "text": "gym"
+  },
+  {
+    "id": "say-958f57f57d72",
+    "text": "if"
+  },
+  {
+    "id": "say-40a630e15750",
+    "text": "reporter"
+  },
+  {
+    "id": "say-d0a3e7f81a98",
+    "text": "type"
+  },
+  {
+    "id": "say-0b35c19a59e7",
+    "text": "quickly"
+  },
+  {
+    "id": "say-9248e7010865",
+    "text": "secretary"
+  },
+  {
+    "id": "say-d7aedf6e20d2",
+    "text": "He is a factory worker."
+  },
+  {
+    "id": "say-c3a9dc730181",
+    "text": "He works in the factory."
+  },
+  {
+    "id": "say-f5a27de13baa",
+    "text": "He goes to work by bus."
+  },
+  {
+    "id": "say-b1a9a81e849d",
+    "text": "He is a postman."
+  },
+  {
+    "id": "say-ae678cba6069",
+    "text": "He works in the post office."
+  },
+  {
+    "id": "say-ca65c3530019",
+    "text": "He goes to work by bike."
+  },
+  {
+    "id": "say-b5a1a0b95526",
+    "text": "He is a businessman."
+  },
+  {
+    "id": "say-79c5458f2de9",
+    "text": "He works in the office."
+  },
+  {
+    "id": "say-f7aec51d9c51",
+    "text": "He goes to work by car."
+  },
+  {
+    "id": "say-b72233eda85f",
+    "text": "She is a police officer."
+  },
+  {
+    "id": "say-45d56c3e13a5",
+    "text": "She works in the police station."
+  },
+  {
+    "id": "say-fbc863353165",
+    "text": "She goes to work by car."
+  },
+  {
+    "id": "say-b85db9cc564b",
+    "text": "He is a fisherman."
+  },
+  {
+    "id": "say-fe85745c7041",
+    "text": "He works at sea."
+  },
+  {
+    "id": "say-06579080599e",
+    "text": "She is a scientist."
+  },
+  {
+    "id": "say-a213a46c6c4d",
+    "text": "She works in the university."
+  },
+  {
+    "id": "say-389b624c1665",
+    "text": "She goes to work by subway."
+  },
+  {
+    "id": "say-c2cd808da183",
+    "text": "She is a pilot."
+  },
+  {
+    "id": "say-c326fb553003",
+    "text": "She works in the airport."
+  },
+  {
+    "id": "say-e5d885183b16",
+    "text": "She is a coach."
+  },
+  {
+    "id": "say-37fe813bce37",
+    "text": "She works in the gym."
+  },
+  {
+    "id": "say-4c5998c69e30",
+    "text": "She goes to work on foot."
+  },
+  {
+    "id": "say-e9720a6d26a5",
+    "text": "He is good at football, ping-pong and basketball."
+  },
+  {
+    "id": "say-756a7e114fdb",
+    "text": "If you like sports, you can be a coach, a sports reporter, or a PE teacher."
+  },
+  {
+    "id": "say-04ea49c9778d",
+    "text": "Unit 6. How do you feel?"
+  },
+  {
+    "id": "say-246d1dc75b91",
+    "text": "angry"
+  },
+  {
+    "id": "say-2ae3870908b4",
+    "text": "afraid"
+  },
+  {
+    "id": "say-b4914600112b",
+    "text": "sad"
+  },
+  {
+    "id": "say-7c3dc3889b6f",
+    "text": "worried"
+  },
+  {
+    "id": "say-0aba63c403a2",
+    "text": "see a doctor"
+  },
+  {
+    "id": "say-d6c93c380989",
+    "text": "wear warm clothes"
+  },
+  {
+    "id": "say-c1e3f89073e0",
+    "text": "do more exercise"
+  },
+  {
+    "id": "say-4763d130c8a5",
+    "text": "take a deep breath"
+  },
+  {
+    "id": "say-a93f58b0e940",
+    "text": "count to ten"
+  },
+  {
+    "id": "say-702b78f40c5a",
+    "text": "chase"
+  },
+  {
+    "id": "say-69c0e9defc2d",
+    "text": "mice"
+  },
+  {
+    "id": "say-1902e3d6fc4e",
+    "text": "bad"
+  },
+  {
+    "id": "say-7ee201fb09fb",
+    "text": "hurt"
+  },
+  {
+    "id": "say-e233f084399e",
+    "text": "ill"
+  },
+  {
+    "id": "say-a4b48a81cdab",
+    "text": "wrong"
+  },
+  {
+    "id": "say-ccfcd3664e19",
+    "text": "feel"
+  },
+  {
+    "id": "say-bd8483287459",
+    "text": "well"
+  },
+  {
+    "id": "say-abdcde66d68b",
+    "text": "sit"
+  },
+  {
+    "id": "say-bbc29b76c59b",
+    "text": "grass"
+  },
+  {
+    "id": "say-ca607cf696dc",
+    "text": "hear"
+  },
+  {
+    "id": "say-64bd05d89142",
+    "text": "ant"
+  },
+  {
+    "id": "say-ecaf65c92770",
+    "text": "worry"
+  },
+  {
+    "id": "say-cfb18e81efbd",
+    "text": "stuck"
+  },
+  {
+    "id": "say-589539e9dc2b",
+    "text": "mud"
+  },
+  {
+    "id": "say-c872d5564551",
+    "text": "pull"
+  },
+  {
+    "id": "say-a49a78f944bf",
+    "text": "everyone"
+  },
+  {
+    "id": "say-19b67aaed656",
+    "text": "He is angry."
+  },
+  {
+    "id": "say-60501a0e0ec3",
+    "text": "He should take a deep breath and count to ten."
+  },
+  {
+    "id": "say-1a9b7afe276f",
+    "text": "He is afraid."
+  },
+  {
+    "id": "say-31f646f0d314",
+    "text": "He should stay with a friend."
+  },
+  {
+    "id": "say-196c7274a31a",
+    "text": "He is sad."
+  },
+  {
+    "id": "say-4f8b6380ec4b",
+    "text": "He should read a letter."
+  },
+  {
+    "id": "say-6e4c6d20c38d",
+    "text": "He is worried."
+  },
+  {
+    "id": "say-dbab92c8766b",
+    "text": "He should make a plan."
+  },
+  {
+    "id": "say-73e223e6b8c1",
+    "text": "He is happy."
+  },
+  {
+    "id": "say-432e70492c43",
+    "text": "He should share a gift."
+  },
+  {
+    "id": "say-13f514f33134",
+    "text": "He is ill."
+  },
+  {
+    "id": "say-55ed8e3d143f",
+    "text": "He should see a doctor."
+  },
+  {
+    "id": "say-f8e2b995f4ce",
+    "text": "He is cold."
+  },
+  {
+    "id": "say-5ef60734adad",
+    "text": "He should wear warm clothes."
+  },
+  {
+    "id": "say-5ad7ba235c79",
+    "text": "He is weak."
+  },
+  {
+    "id": "say-ed9686827e0b",
+    "text": "He should do more exercise."
+  },
+  {
+    "id": "say-c3c59829ba11",
+    "text": "next day"
+  },
+  {
+    "id": "say-71938fb6ba0a",
+    "text": "can’t go"
+  },
+  {
+    "id": "say-9f860048dcad",
+    "text": "count to"
+  },
+  {
+    "id": "say-8ad2abd3a410",
+    "text": "don’t be"
+  },
+  {
+    "id": "say-a51dda7c7ff5",
+    "text": "John"
+  },
+  {
+    "id": "say-79e1a82f023d",
+    "text": "Unit 1. How tall are you?"
+  },
+  {
+    "id": "say-e840bf7fb2ac",
+    "text": "taller"
+  },
+  {
+    "id": "say-c966b463b67c",
+    "text": "shorter"
+  },
+  {
+    "id": "say-6fa5fbbc16c8",
+    "text": "older"
+  },
+  {
+    "id": "say-f8f0bc79d442",
+    "text": "younger"
+  },
+  {
+    "id": "say-cc4df8ae0af1",
+    "text": "longer"
+  },
+  {
+    "id": "say-419bc23299c3",
+    "text": "thinner"
+  },
+  {
+    "id": "say-794772fb8785",
+    "text": "heavier"
+  },
+  {
+    "id": "say-f3050a7be48f",
+    "text": "bigger"
+  },
+  {
+    "id": "say-9c3c295f0752",
+    "text": "smaller"
+  },
+  {
+    "id": "say-8600a3afcc40",
+    "text": "stronger"
+  },
+  {
+    "id": "say-dd28db90cbdc",
+    "text": "dinosaur"
+  },
+  {
+    "id": "say-4b5fdc6e9d50",
+    "text": "hall"
+  },
+  {
+    "id": "say-c38e0b974c2e",
+    "text": "metre"
+  },
+  {
+    "id": "say-d820aa5f8750",
+    "text": "than"
+  },
+  {
+    "id": "say-fc39b18f287d",
+    "text": "both"
+  },
+  {
+    "id": "say-5b09ab94698c",
+    "text": "kilogram"
+  },
+  {
+    "id": "say-82bf7e0dd047",
+    "text": "countryside"
+  },
+  {
+    "id": "say-346e3ee198e9",
+    "text": "lower"
+  },
+  {
+    "id": "say-ed9d3d832af8",
+    "text": "shadow"
+  },
+  {
+    "id": "say-f92fe4c0c81d",
+    "text": "smarter"
+  },
+  {
+    "id": "say-7bcbf908e034",
+    "text": "become"
+  },
+  {
+    "id": "say-d39655e586a1",
+    "text": "Amy is taller than Mike."
+  },
+  {
+    "id": "say-d403c70becff",
+    "text": "Amy is one point six five metres tall."
+  },
+  {
+    "id": "say-11263e427746",
+    "text": "Amy is 1.65 metres tall."
+  },
+  {
+    "id": "say-72402db3091c",
+    "text": "Mike is shorter than Amy."
+  },
+  {
+    "id": "say-05c26464d6a8",
+    "text": "Grandfather is older than Father."
+  },
+  {
+    "id": "say-8fdae9b9e0df",
+    "text": "Father is younger than Grandfather."
+  },
+  {
+    "id": "say-68fcd87c275d",
+    "text": "Ruler A is longer than ruler B."
+  },
+  {
+    "id": "say-e88fa974fdf4",
+    "text": "The English book is thinner than the storybook."
+  },
+  {
+    "id": "say-a32091e340f6",
+    "text": "Bag A is heavier than bag B."
+  },
+  {
+    "id": "say-c3a588df49c0",
+    "text": "Dinosaur A is bigger than dinosaur B."
+  },
+  {
+    "id": "say-5ac926e0c185",
+    "text": "Dinosaur B is smaller than dinosaur A."
+  },
+  {
+    "id": "say-58f31195dbd1",
+    "text": "Robin is stronger than Fox."
+  },
+  {
+    "id": "say-a9e31f8191bc",
+    "text": "Unit 2. Last weekend"
+  },
+  {
+    "id": "say-8ce772e4c5c1",
+    "text": "cleaned"
+  },
+  {
+    "id": "say-7fcbae4953ef",
+    "text": "stayed"
+  },
+  {
+    "id": "say-a803b1a0b3e9",
+    "text": "washed"
+  },
+  {
+    "id": "say-2e04e93cf9dd",
+    "text": "watched"
+  },
+  {
+    "id": "say-c45d6a3f3253",
+    "text": "had a cold"
+  },
+  {
+    "id": "say-a7a4c3540e0f",
+    "text": "slept"
+  },
+  {
+    "id": "say-29596a43a2ef",
+    "text": "saw"
+  },
+  {
+    "id": "say-213ed3ea453b",
+    "text": "last"
+  },
+  {
+    "id": "say-1aa96b8f44f6",
+    "text": "yesterday"
+  },
+  {
+    "id": "say-51de2b835bd3",
+    "text": "before"
+  },
+  {
+    "id": "say-6aaa16a7a7b7",
+    "text": "drank"
+  },
+  {
+    "id": "say-9fb29051f221",
+    "text": "show"
+  },
+  {
+    "id": "say-2c26d6e2c55f",
+    "text": "magazine"
+  },
+  {
+    "id": "say-a31e44e0548b",
+    "text": "better"
+  },
+  {
+    "id": "say-daf6b585b3e0",
+    "text": "faster"
+  },
+  {
+    "id": "say-14e833557d06",
+    "text": "hotel"
+  },
+  {
+    "id": "say-7bc555991dba",
+    "text": "fixed"
+  },
+  {
+    "id": "say-0b8a1caec23d",
+    "text": "broken"
+  },
+  {
+    "id": "say-bc4edcce8a85",
+    "text": "lamp"
+  },
+  {
+    "id": "say-d1c6f1a8165a",
+    "text": "loud"
+  },
+  {
+    "id": "say-540e181495e5",
+    "text": "enjoy"
+  },
+  {
+    "id": "say-4c72cf565c93",
+    "text": "I cleaned my room and washed my clothes."
+  },
+  {
+    "id": "say-d30736ca1176",
+    "text": "It was good."
+  },
+  {
+    "id": "say-095b8e629b33",
+    "text": "I stayed at home and watched TV."
+  },
+  {
+    "id": "say-4f59f5ee537c",
+    "text": "I had a cold and slept."
+  },
+  {
+    "id": "say-583a054ba6e4",
+    "text": "It was not good."
+  },
+  {
+    "id": "say-98ef319bddb5",
+    "text": "No, I did not. I stayed at home and slept."
+  },
+  {
+    "id": "say-83aa17fce965",
+    "text": "I read a book and saw a film."
+  },
+  {
+    "id": "say-5c06811c7017",
+    "text": "Unit 3. Where did you go?"
+  },
+  {
+    "id": "say-0f5732268180",
+    "text": "went camping"
+  },
+  {
+    "id": "say-2f613f492348",
+    "text": "went fishing"
+  },
+  {
+    "id": "say-f419dec935ba",
+    "text": "rode a horse"
+  },
+  {
+    "id": "say-d263d1af11aa",
+    "text": "rode a bike"
+  },
+  {
+    "id": "say-42d227acc62f",
+    "text": "hurt my foot"
+  },
+  {
+    "id": "say-75a1f96aebc2",
+    "text": "ate fresh food"
+  },
+  {
+    "id": "say-c321570dc22e",
+    "text": "took pictures"
+  },
+  {
+    "id": "say-bc698945df9c",
+    "text": "bought gifts"
+  },
+  {
+    "id": "say-432aeb804333",
+    "text": "fell"
+  },
+  {
+    "id": "say-da7a68734367",
+    "text": "off"
+  },
+  {
+    "id": "say-54398a31ce3b",
+    "text": "Labour Day"
+  },
+  {
+    "id": "say-067f4fcde209",
+    "text": "mule"
+  },
+  {
+    "id": "say-1362816c80ad",
+    "text": "Turpan"
+  },
+  {
+    "id": "say-e30de8fdbd3f",
+    "text": "could"
+  },
+  {
+    "id": "say-29d32eb5f40b",
+    "text": "till"
+  },
+  {
+    "id": "say-48617412af62",
+    "text": "beach"
+  },
+  {
+    "id": "say-c9be014f81ae",
+    "text": "basket"
+  },
+  {
+    "id": "say-3fc88b83767a",
+    "text": "part"
+  },
+  {
+    "id": "say-4c85e3453bb2",
+    "text": "licked"
+  },
+  {
+    "id": "say-7541e444842a",
+    "text": "laughed"
+  },
+  {
+    "id": "say-071b2f51c1ac",
+    "text": "I went to Turpan."
+  },
+  {
+    "id": "say-ae560cb7a80b",
+    "text": "I went there by train."
+  },
+  {
+    "id": "say-b205d799cfd1",
+    "text": "I went camping and rode a horse."
+  },
+  {
+    "id": "say-72b4099c98d9",
+    "text": "I went to the countryside."
+  },
+  {
+    "id": "say-8b7d750e937c",
+    "text": "I went there by bike."
+  },
+  {
+    "id": "say-50486b9fe817",
+    "text": "I went fishing and rode a bike."
+  },
+  {
+    "id": "say-94b555c09465",
+    "text": "I went to Sanya."
+  },
+  {
+    "id": "say-08fdcfbf1e48",
+    "text": "I went there by plane."
+  },
+  {
+    "id": "say-80aea5253bb2",
+    "text": "I ate fresh food and took pictures and bought gifts."
+  },
+  {
+    "id": "say-3760b0df4285",
+    "text": "I fell off my bike and hurt my foot."
+  },
+  {
+    "id": "say-a106b1860eeb",
+    "text": "I am OK now."
+  },
+  {
+    "id": "say-c4a1f13b85c7",
+    "text": "went"
+  },
+  {
+    "id": "say-a26c6a1dfce8",
+    "text": "rode"
+  },
+  {
+    "id": "say-189b7ea01f86",
+    "text": "ate"
+  },
+  {
+    "id": "say-b1b416becb29",
+    "text": "took"
+  },
+  {
+    "id": "say-d1312261ddff",
+    "text": "bought"
+  },
+  {
+    "id": "say-70cf16a7c241",
+    "text": "Unit 4. Then and now"
+  },
+  {
+    "id": "say-c4de1dacdb3d",
+    "text": "dining hall"
+  },
+  {
+    "id": "say-f03c0a59c594",
+    "text": "ago"
+  },
+  {
+    "id": "say-760693623c74",
+    "text": "cycling"
+  },
+  {
+    "id": "say-2ddf76cd154d",
+    "text": "go cycling"
+  },
+  {
+    "id": "say-32a17e4a42e2",
+    "text": "ice-skate"
+  },
+  {
+    "id": "say-364d83e18a8a",
+    "text": "badminton"
+  },
+  {
+    "id": "say-4e3e01b9af84",
+    "text": "star"
+  },
+  {
+    "id": "say-861c4f67e887",
+    "text": "easy"
+  },
+  {
+    "id": "say-198925bb2ce6",
+    "text": "look up"
+  },
+  {
+    "id": "say-4d0fb475b242",
+    "text": "Internet"
+  },
+  {
+    "id": "say-517d5a724086",
+    "text": "different"
+  },
+  {
+    "id": "say-2bb6b986c5d6",
+    "text": "active"
+  },
+  {
+    "id": "say-de4bedce64a1",
+    "text": "race"
+  },
+  {
+    "id": "say-0feca720e2c2",
+    "text": "nothing"
+  },
+  {
+    "id": "say-af93b3913b93",
+    "text": "thought"
+  },
+  {
+    "id": "say-9157165acd5b",
+    "text": "felt"
+  },
+  {
+    "id": "say-1dc14dde1a25",
+    "text": "cheetah"
+  },
+  {
+    "id": "say-df0cb13c5239",
+    "text": "woke"
+  },
+  {
+    "id": "say-5f04a8843e6c",
+    "text": "dream"
+  },
+  {
+    "id": "say-b55d392936d2",
+    "text": "There was no library in my old school."
+  },
+  {
+    "id": "say-1da51cbe5640",
+    "text": "There is a library now."
+  },
+  {
+    "id": "say-447f0b69a2f3",
+    "text": "There was no dining hall in my old school."
+  },
+  {
+    "id": "say-297159f266a7",
+    "text": "There is a dining hall now."
+  },
+  {
+    "id": "say-fb6fccc6cae3",
+    "text": "There was no gym in my old school."
+  },
+  {
+    "id": "say-ba9b07592a12",
+    "text": "There is a gym now."
+  },
+  {
+    "id": "say-bdb7162e17e0",
+    "text": "There was no grass in my old school."
+  },
+  {
+    "id": "say-34ac49bd3421",
+    "text": "There is grass now."
+  },
+  {
+    "id": "say-23c3000089e2",
+    "text": "There were no computers in my old school."
+  },
+  {
+    "id": "say-c93de89a9d70",
+    "text": "There are computers now."
+  },
+  {
+    "id": "say-ddb38ed33c23",
+    "text": "Before, I could not ride my bike well. Now I go cycling every day."
+  },
+  {
+    "id": "say-8050342e1dda",
+    "text": "I can play badminton and ice-skate."
+  },
+  {
+    "id": "say-3de521d36191",
+    "text": "was"
+  },
+  {
+    "id": "say-a315dee0bd22",
+    "text": "were"
+  },
+  {
+    "id": "say-cd8bf2760a34",
+    "text": "Recycle. Mike’s happy days"
+  },
+  {
+    "id": "say-089f4e36079e",
+    "text": "Recycle"
+  },
+  {
+    "id": "say-86f7e437faa5",
+    "text": "a"
+  },
+  {
+    "id": "say-de73eac0c305",
+    "text": "an"
+  },
+  {
+    "id": "say-eb875812858d",
+    "text": "some"
+  },
+  {
+    "id": "say-76c2436b593f",
+    "text": "apples"
+  },
+  {
+    "id": "say-1e0100024aec",
+    "text": "He goes fishing."
+  },
+  {
+    "id": "say-6f45ea834a22",
+    "text": "She does the cleaning."
+  },
+  {
+    "id": "say-ab9da122743b",
+    "text": "Bill plays ping-pong."
+  },
+  {
+    "id": "say-a6143561a15e",
+    "text": "farm diary"
+  },
+  {
+    "id": "say-af93b715388b",
+    "text": "animal sizes"
+  },
+  {
+    "id": "say-e742826c9fb3",
+    "text": "favourite day"
+  },
+  {
+    "id": "say-10be97f72b25",
+    "text": "first class"
+  },
+  {
+    "id": "say-eb7511b0167e",
+    "text": "favourite class"
+  },
+  {
+    "id": "say-d6301ea6e19a",
+    "text": "favourite sport"
+  },
+  {
+    "id": "say-e294c3af8218",
+    "text": "Bill at five"
+  },
+  {
+    "id": "say-9e1ef41a16ef",
+    "text": "Bill at twelve"
+  },
+  {
+    "id": "say-a97ea99de727",
+    "text": "Bill in the future"
+  },
+  {
+    "id": "say-3517a5531de0",
+    "text": "farewell invitation"
+  },
+  {
+    "id": "say-7a819c97ecf1",
+    "text": "party table"
+  },
+  {
+    "id": "say-520e9740fcee",
+    "text": "party show"
+  },
+  {
+    "id": "say-5477ad9abb3c",
+    "text": "I can see a pear and a jacket."
+  },
+  {
+    "id": "say-6bf68b10325b",
+    "text": "I can see an egg and an orange and an umbrella."
+  },
+  {
+    "id": "say-220488cfd433",
+    "text": "I can see some apples and some horses and some tomatoes."
+  },
+  {
+    "id": "say-b130e199dd2f",
+    "text": "I am going to buy some apples."
+  },
+  {
+    "id": "say-609bb08ea9e3",
+    "text": "I am going to buy a jacket."
+  },
+  {
+    "id": "say-99123df22a73",
+    "text": "Bill is short and heavy."
+  },
+  {
+    "id": "say-d0ecb8cde746",
+    "text": "I am going to buy an umbrella."
+  },
+  {
+    "id": "say-9aaf25356cf4",
+    "text": "She is tall and thin. She has long hair."
+  },
+  {
+    "id": "say-34761220ce4e",
+    "text": "He is fishing."
+  },
+  {
+    "id": "say-4736de68936c",
+    "text": "She is cleaning."
+  },
+  {
+    "id": "say-b6ead903d9e5",
+    "text": "Bill is playing ping-pong."
+  },
+  {
+    "id": "say-571ac56113a9",
+    "text": "He had breakfast, cleaned his room and went fishing."
+  },
+  {
+    "id": "say-29af36c82875",
+    "text": "The tiger is smaller than the elephant. The whale is the biggest."
+  },
+  {
+    "id": "say-ff869c34467f",
+    "text": "Monday is my favourite day."
+  },
+  {
+    "id": "say-79d0af7650ce",
+    "text": "I have maths first on Mondays."
+  },
+  {
+    "id": "say-677f1381a291",
+    "text": "PE is my favourite class."
+  },
+  {
+    "id": "say-35d5bd1fd400",
+    "text": "Football is my favourite sport."
+  },
+  {
+    "id": "say-bd8c4770ca81",
+    "text": "He liked candy and basketball."
+  },
+  {
+    "id": "say-93440cc5bb9e",
+    "text": "He likes music and storybooks."
+  },
+  {
+    "id": "say-9fd616eb6a3b",
+    "text": "He will drive a red car and wear a yellow hat."
+  },
+  {
+    "id": "say-145fdab316b3",
+    "text": "It is on Friday at three p.m. in the music room."
+  },
+  {
+    "id": "say-b8059ead6dd6",
+    "text": "I will sing."
+  },
+  {
+    "id": "say-458d7f462a17",
+    "text": "I will dance."
+  },
+  {
+    "id": "say-574352c04255",
+    "text": "I will draw pictures."
+  },
+  {
+    "id": "say-362ed73d92a0",
+    "text": "I will play games."
+  },
+  {
+    "id": "say-8aa083def84b",
+    "text": "There is cake and juice. There are plates."
+  },
+  {
+    "id": "say-e495828438b0",
+    "text": "Keep in touch. Take care."
+  },
+  {
+    "id": "say-b28a90f3f18a",
+    "text": "Good luck! Write soon."
+  },
+  {
+    "id": "say-10472defc0cf",
+    "text": "Have a good trip!"
+  },
+  {
+    "id": "say-9a5751d5acec",
+    "text": "quick"
+  },
+  {
+    "id": "say-e83249bd3ba7",
+    "text": "home"
+  },
+  {
+    "id": "say-fbec17cb2fcb",
+    "text": "rain"
+  },
+  {
+    "id": "say-a11e852adbc9",
+    "text": "I'm from the UK."
+  },
+  {
+    "id": "say-c8978f83745d",
+    "text": "I'm from Canada."
+  },
+  {
+    "id": "say-4d1f2e0a072e",
+    "text": "I'm from the USA."
+  },
+  {
+    "id": "say-05c15781f45c",
+    "text": "Welcome! You're from the UK."
+  },
+  {
+    "id": "say-82b076ad97d6",
+    "text": "Welcome! You're from Canada."
+  },
+  {
+    "id": "say-1571a44fd015",
+    "text": "Welcome! You're from the USA."
+  },
+  {
+    "id": "say-45898e21e81a",
+    "text": "Welcome! You're from China."
+  },
+  {
+    "id": "say-bb09e9bfdb0f",
+    "text": "big body"
+  },
+  {
+    "id": "say-0aa686846030",
+    "text": "long nose"
+  },
+  {
+    "id": "say-e411b7ffd2e1",
+    "text": "small eyes"
+  },
+  {
+    "id": "say-9fa2bfef4b9d",
+    "text": "big ears"
+  },
+  {
+    "id": "say-8942cdec5d0d",
+    "text": "short tail"
+  },
+  {
+    "id": "say-9a92c7d850f7",
+    "text": "on the desk"
+  },
+  {
+    "id": "say-2cc779d5585d",
+    "text": "in the desk"
+  },
+  {
+    "id": "say-1728b0876edc",
+    "text": "under the desk"
+  },
+  {
+    "id": "say-1924eab92845",
+    "text": "on the chair"
+  },
+  {
+    "id": "say-6dc8f4cab69c",
+    "text": "under the chair"
+  },
+  {
+    "id": "say-f2d7ed63bfc6",
+    "text": "in the box"
+  },
+  {
+    "id": "say-2c59374ce208",
+    "text": "on the box"
+  },
+  {
+    "id": "say-a238f506b482",
+    "text": "It's on the desk."
+  },
+  {
+    "id": "say-f47bbeebf164",
+    "text": "It's in the desk."
+  },
+  {
+    "id": "say-1dcd98f6525d",
+    "text": "It's under the desk."
+  },
+  {
+    "id": "say-017344184848",
+    "text": "It's on the chair."
+  },
+  {
+    "id": "say-99b09e625a01",
+    "text": "It's in the box."
+  },
+  {
+    "id": "say-63807655c4f4",
+    "text": "It's on the box."
+  },
+  {
+    "id": "say-97c4f414cf0b",
+    "text": "Yes! It's on the desk."
+  },
+  {
+    "id": "say-ef15892b017b",
+    "text": "Yes! It's in the desk."
+  },
+  {
+    "id": "say-1469ff716f00",
+    "text": "Yes! It's under the desk."
+  },
+  {
+    "id": "say-5cfdf70d4295",
+    "text": "Yes! It's on the chair."
+  },
+  {
+    "id": "say-4fe1a17bf1f1",
+    "text": "Yes! It's under the chair."
+  },
+  {
+    "id": "say-dc97955b75f6",
+    "text": "Yes! It's in the box."
+  },
+  {
+    "id": "say-3c86c45d089f",
+    "text": "Yes! It's on the box."
+  },
+  {
+    "id": "say-6dc71d63e03b",
+    "text": "Where is my cap?"
+  },
+  {
+    "id": "say-59305c286a45",
+    "text": "Where is my ball?"
+  },
+  {
+    "id": "say-debc11b59612",
+    "text": "Where is my boat?"
+  },
+  {
+    "id": "say-457f265e8b1e",
+    "text": "Where is my map?"
+  },
+  {
+    "id": "say-c01020b56912",
+    "text": "What a lovely family!"
+  },
+  {
+    "id": "say-4be8735cbc39",
+    "text": "Yes! She is your mother."
+  },
+  {
+    "id": "say-480853d5f569",
+    "text": "Yes! The giraffe is tall."
+  },
+  {
+    "id": "say-1cc26f5fc85f",
+    "text": "Yes! It has a long nose."
+  },
+  {
+    "id": "say-0e0a0778b08b",
+    "text": "Your cap is in the box."
+  },
+  {
+    "id": "say-7defbe4c48c6",
+    "text": "Have some fruit!"
+  },
+  {
+    "id": "say-01567c72dd0d",
+    "text": "Okay! Choose another fruit."
+  },
+  {
+    "id": "say-faf2839b278f",
+    "text": "Great! Let’s keep exploring!"
+  },
+  {
+    "id": "say-90a2db6f16b8",
+    "text": "Nice to meet you, Amy!"
+  },
+  {
+    "id": "say-7068df413e1f",
+    "text": "pears"
+  },
+  {
+    "id": "say-4479d07413dd",
+    "text": "I like pears."
+  },
+  {
+    "id": "say-2f9d101d62d3",
+    "text": "Can I have some pears?"
+  },
+  {
+    "id": "say-cdff6ed70a35",
+    "text": "You like pears!"
+  },
+  {
+    "id": "say-8ec034c3b5b9",
+    "text": "Here you are! Have some pears."
+  },
+  {
+    "id": "say-cc92b8f916e8",
+    "text": "Can I have some apples?"
+  },
+  {
+    "id": "say-cfe48ff0ff02",
+    "text": "You like apples!"
+  },
+  {
+    "id": "say-ba159c2f5b02",
+    "text": "Here you are! Have some apples."
+  },
+  {
+    "id": "say-bda04628ea94",
+    "text": "oranges"
+  },
+  {
+    "id": "say-c1676de050dd",
+    "text": "I like oranges."
+  },
+  {
+    "id": "say-19f924c51745",
+    "text": "Can I have some oranges?"
+  },
+  {
+    "id": "say-7337c83ac149",
+    "text": "You like oranges!"
+  },
+  {
+    "id": "say-2ab2f83d02b8",
+    "text": "Here you are! Have some oranges."
+  },
+  {
+    "id": "say-d13218f1b0f9",
+    "text": "bananas"
+  },
+  {
+    "id": "say-df4a64dd663d",
+    "text": "I like bananas."
+  },
+  {
+    "id": "say-c569e1f43514",
+    "text": "You like bananas!"
+  },
+  {
+    "id": "say-30f38e516795",
+    "text": "Here you are! Have some bananas."
+  },
+  {
+    "id": "say-f4d178404f65",
+    "text": "watermelons"
+  },
+  {
+    "id": "say-7ad3d8ec930d",
+    "text": "I like watermelons."
+  },
+  {
+    "id": "say-05bcc474f56f",
+    "text": "Can I have some watermelons?"
+  },
+  {
+    "id": "say-bb193f51b325",
+    "text": "You like watermelons!"
+  },
+  {
+    "id": "say-88082a4fb939",
+    "text": "Here you are! Have some watermelons."
+  },
+  {
+    "id": "say-ee9362bf61ac",
+    "text": "strawberries"
+  },
+  {
+    "id": "say-7cdc7c541a5b",
+    "text": "I like strawberries."
+  },
+  {
+    "id": "say-e80e5adec4ec",
+    "text": "Can I have some strawberries?"
+  },
+  {
+    "id": "say-85e7a4a2ac6c",
+    "text": "You like strawberries!"
+  },
+  {
+    "id": "say-7cdfe45d816d",
+    "text": "Here you are! Have some strawberries."
+  },
+  {
+    "id": "say-2470bab910e3",
+    "text": "I like grapes."
+  },
+  {
+    "id": "say-4baf4226ea9d",
+    "text": "Can I have some grapes?"
+  },
+  {
+    "id": "say-0fc44956e5eb",
+    "text": "You like grapes!"
+  },
+  {
+    "id": "say-d94e6cbbc040",
+    "text": "Here you are! Have some grapes."
+  },
+  {
+    "id": "say-17ec430edc27",
+    "text": "I see zero."
+  },
+  {
+    "id": "say-a229bb3fc5b7",
+    "text": "I have zero."
+  },
+  {
+    "id": "say-59948144ea71",
+    "text": "I have zero kites."
+  },
+  {
+    "id": "say-bf0bd1e27ba6",
+    "text": "Yes! zero!"
+  },
+  {
+    "id": "say-43f944436372",
+    "text": "I see one."
+  },
+  {
+    "id": "say-0c143f75efa8",
+    "text": "I have one."
+  },
+  {
+    "id": "say-ea7e93822fb3",
+    "text": "I have one kites."
+  },
+  {
+    "id": "say-1d3daf90f6ca",
+    "text": "Yes! one!"
+  },
+  {
+    "id": "say-bbf6730b8177",
+    "text": "I see two."
+  },
+  {
+    "id": "say-3028dc097dae",
+    "text": "I have two."
+  },
+  {
+    "id": "say-6a16e3fcc23b",
+    "text": "I have two kites."
+  },
+  {
+    "id": "say-27069ecbb4f6",
+    "text": "Yes! two!"
+  },
+  {
+    "id": "say-91cfba2028e3",
+    "text": "I see three."
+  },
+  {
+    "id": "say-5a10a027a841",
+    "text": "I have three."
+  },
+  {
+    "id": "say-1c4def279337",
+    "text": "I have three kites."
+  },
+  {
+    "id": "say-62e58d9d558a",
+    "text": "Yes! three!"
+  },
+  {
+    "id": "say-911e9c5327c5",
+    "text": "I see four."
+  },
+  {
+    "id": "say-d36c636f2e61",
+    "text": "I have four."
+  },
+  {
+    "id": "say-f66d8d18d0f7",
+    "text": "I have four kites."
+  },
+  {
+    "id": "say-728fc40339eb",
+    "text": "Yes! four!"
+  },
+  {
+    "id": "say-226cb813dde3",
+    "text": "I see five."
+  },
+  {
+    "id": "say-3b7f99b9be3d",
+    "text": "I have five."
+  },
+  {
+    "id": "say-44ece65a16e3",
+    "text": "I have five kites."
+  },
+  {
+    "id": "say-a79b754a56ec",
+    "text": "Yes! five!"
+  },
+  {
+    "id": "say-99cbe1e9e309",
+    "text": "I see six."
+  },
+  {
+    "id": "say-0331b5f793c8",
+    "text": "I have six."
+  },
+  {
+    "id": "say-580679a54dbe",
+    "text": "I have six kites."
+  },
+  {
+    "id": "say-37def72befd1",
+    "text": "Yes! six!"
+  },
+  {
+    "id": "say-9f33af52c9eb",
+    "text": "I see seven."
+  },
+  {
+    "id": "say-f2a324df573a",
+    "text": "I have seven."
+  },
+  {
+    "id": "say-d560bafb74aa",
+    "text": "I have seven kites."
+  },
+  {
+    "id": "say-44e630e426ed",
+    "text": "Yes! seven!"
+  },
+  {
+    "id": "say-c8322f0ec240",
+    "text": "I see eight."
+  },
+  {
+    "id": "say-044a012096a4",
+    "text": "I have eight."
+  },
+  {
+    "id": "say-eb1ba2c03e25",
+    "text": "I have eight kites."
+  },
+  {
+    "id": "say-51926f331784",
+    "text": "Yes! eight!"
+  },
+  {
+    "id": "say-21c5b4b43a63",
+    "text": "I see nine."
+  },
+  {
+    "id": "say-60f63b9ce311",
+    "text": "I have nine."
+  },
+  {
+    "id": "say-c53d854bb595",
+    "text": "I have nine kites."
+  },
+  {
+    "id": "say-84e4412ac125",
+    "text": "Yes! nine!"
+  },
+  {
+    "id": "say-ba4e360602d6",
+    "text": "I see ten."
+  },
+  {
+    "id": "say-82c7fe561e22",
+    "text": "I have ten."
+  },
+  {
+    "id": "say-4dd7490bee16",
+    "text": "I have ten kites."
+  },
+  {
+    "id": "say-84cc37e232ef",
+    "text": "Yes! ten!"
+  },
+  {
+    "id": "say-405764060df8",
+    "text": "I see eleven."
+  },
+  {
+    "id": "say-91bfb4be28b8",
+    "text": "I have eleven."
+  },
+  {
+    "id": "say-c3e03efbca26",
+    "text": "I have eleven kites."
+  },
+  {
+    "id": "say-bfafd1b99e4f",
+    "text": "Yes! eleven!"
+  },
+  {
+    "id": "say-99d611b18ba8",
+    "text": "I have twelve."
+  },
+  {
+    "id": "say-189f57be4448",
+    "text": "I have twelve kites."
+  },
+  {
+    "id": "say-abbd28c0f176",
+    "text": "Yes! twelve!"
+  },
+  {
+    "id": "say-4c67ab4dd837",
+    "text": "I see thirteen."
+  },
+  {
+    "id": "say-e63693bfff21",
+    "text": "I have thirteen."
+  },
+  {
+    "id": "say-5ad87c843ee1",
+    "text": "I have thirteen kites."
+  },
+  {
+    "id": "say-cb68d04cc28a",
+    "text": "Yes! thirteen!"
+  },
+  {
+    "id": "say-343dffb8e569",
+    "text": "I see fourteen."
+  },
+  {
+    "id": "say-2eb5df5e8eec",
+    "text": "I have fourteen."
+  },
+  {
+    "id": "say-ee751a686235",
+    "text": "I have fourteen kites."
+  },
+  {
+    "id": "say-ae97d9da18da",
+    "text": "Yes! fourteen!"
+  },
+  {
+    "id": "say-52efa651e759",
+    "text": "I see fifteen."
+  },
+  {
+    "id": "say-d9e0d85e40de",
+    "text": "I have fifteen."
+  },
+  {
+    "id": "say-8990065757d5",
+    "text": "I have fifteen kites."
+  },
+  {
+    "id": "say-bb8678368e79",
+    "text": "Yes! fifteen!"
+  },
+  {
+    "id": "say-df21b964080a",
+    "text": "I see sixteen."
+  },
+  {
+    "id": "say-b6b21fdd2aa3",
+    "text": "I have sixteen kites."
+  },
+  {
+    "id": "say-1dd7a9938be0",
+    "text": "Yes! sixteen!"
+  },
+  {
+    "id": "say-2515693d5742",
+    "text": "I see seventeen."
+  },
+  {
+    "id": "say-494faf9461b5",
+    "text": "I have seventeen."
+  },
+  {
+    "id": "say-399a7d34427e",
+    "text": "I have seventeen kites."
+  },
+  {
+    "id": "say-ab1eaa4df7fc",
+    "text": "Yes! seventeen!"
+  },
+  {
+    "id": "say-ccfcade9fb56",
+    "text": "I see eighteen."
+  },
+  {
+    "id": "say-616b63789327",
+    "text": "I have eighteen."
+  },
+  {
+    "id": "say-7e7fd8ed65a8",
+    "text": "I have eighteen kites."
+  },
+  {
+    "id": "say-1952c79b2781",
+    "text": "Yes! eighteen!"
+  },
+  {
+    "id": "say-546660561737",
+    "text": "I see nineteen."
+  },
+  {
+    "id": "say-df1a00f72d9c",
+    "text": "I have nineteen."
+  },
+  {
+    "id": "say-0c5a9f8332f8",
+    "text": "I have nineteen kites."
+  },
+  {
+    "id": "say-b45331a788a0",
+    "text": "Yes! nineteen!"
+  },
+  {
+    "id": "say-2fbef5a20b8f",
+    "text": "I see twenty."
+  },
+  {
+    "id": "say-91bd85dac51f",
+    "text": "I have twenty."
+  },
+  {
+    "id": "say-114650079de9",
+    "text": "I have twenty kites."
+  },
+  {
+    "id": "say-be1c4241724d",
+    "text": "Yes! twenty!"
+  },
+  {
+    "id": "say-20e91481bfc8",
+    "text": "Mr Jones. He is a teacher."
+  },
+  {
+    "id": "say-45a2294e7370",
+    "text": "Hello, Mr Jones!"
+  },
+  {
+    "id": "say-c98e00d2cf33",
+    "text": "He's your grandfather."
+  },
+  {
+    "id": "say-7fa346bf0994",
+    "text": "Your car is in the box."
+  },
+  {
+    "id": "say-a17fed27eaa8",
+    "text": "Mike"
+  },
+  {
+    "id": "say-025ab6b76c3a",
+    "text": "glasses · blue shoes"
+  },
+  {
+    "id": "say-08403b36f1df",
+    "text": "Hello, Mike!"
+  },
+  {
+    "id": "say-da0cee525ea0",
+    "text": "Amy"
+  },
+  {
+    "id": "say-3c3855304d92",
+    "text": "She has long hair and her shoes are brown."
+  },
+  {
+    "id": "say-b4dad29e82c7",
+    "text": "long hair · brown shoes"
+  },
+  {
+    "id": "say-209c77c981dc",
+    "text": "Hello, Amy!"
+  },
+  {
+    "id": "say-ac8950fab999",
+    "text": "He is tall and strong. He has short hair."
+  },
+  {
+    "id": "say-4cac2e5b8039",
+    "text": "tall and strong · short hair"
+  },
+  {
+    "id": "say-950d7df2f610",
+    "text": "His name is John."
+  },
+  {
+    "id": "say-9687e7b32048",
+    "text": "Hello, John!"
+  },
+  {
+    "id": "say-fddbe01857e2",
+    "text": "Lily"
+  },
+  {
+    "id": "say-eee66be5b7d7",
+    "text": "She has glasses and her shoes are purple."
+  },
+  {
+    "id": "say-4c014d8c2d5d",
+    "text": "glasses · purple shoes"
+  },
+  {
+    "id": "say-5c06a9286f62",
+    "text": "Her name is Lily."
+  },
+  {
+    "id": "say-9b9a8be3063a",
+    "text": "Hello, Lily!"
+  },
+  {
+    "id": "say-8010da49f2bb",
+    "text": "Go to the bedroom."
+  },
+  {
+    "id": "say-0ed9fffcb08a",
+    "text": "Go to the living room."
+  },
+  {
+    "id": "say-b7784ab9b9fb",
+    "text": "Go to the study."
+  },
+  {
+    "id": "say-c42c900337a2",
+    "text": "Go to the kitchen."
+  },
+  {
+    "id": "say-6794375cfc61",
+    "text": "Go to the bathroom."
+  },
+  {
+    "id": "say-d6e5740fcad5",
+    "text": "blue and white"
+  },
+  {
+    "id": "say-7f342e7bb9ab",
+    "text": "red and yellow"
+  },
+  {
+    "id": "say-e4ba684b4097",
+    "text": "green and black"
+  },
+  {
+    "id": "say-f1e1321c40e9",
+    "text": "A blackboard and a computer."
+  },
+  {
+    "id": "say-e41aa651b771",
+    "text": "Yes! It's near the window."
+  },
+  {
+    "id": "say-2ccfd59dafd2",
+    "text": "Thank you for your help!"
+  },
+  {
+    "id": "say-e817b8d0bce8",
+    "text": "Here is your schoolbag!"
+  },
+  {
+    "id": "say-d16ad02fc7b2",
+    "text": "Your schoolbag is ready!"
+  },
+  {
+    "id": "say-df7257fa39f4",
+    "text": "I have an English book and a maths book."
+  },
+  {
+    "id": "say-6b82f5cb9df5",
+    "text": "John is tall and strong!"
+  },
+  {
+    "id": "say-039519bb075f",
+    "text": "She's in another room."
+  },
+  {
+    "id": "say-0279605de1bc",
+    "text": "Yes! She's in the study."
+  },
+  {
+    "id": "say-15b49dc3b862",
+    "text": "They're in the door."
+  },
+  {
+    "id": "say-ae8cc43ff740",
+    "text": "Yes! They're in the door."
+  },
+  {
+    "id": "say-72b257b6795b",
+    "text": "Yes! They're on the sofa."
+  },
+  {
+    "id": "say-53e666aa015e",
+    "text": "Six people! What a lovely family!"
+  },
+  {
+    "id": "say-6f6a4ebfce55",
+    "text": "He's your uncle. He's a driver."
+  },
+  {
+    "id": "say-e09f3687d6fe",
+    "text": "Here are your chopsticks!"
+  },
+  {
+    "id": "say-cae6f43adb96",
+    "text": "Here are your knife and fork!"
+  },
+  {
+    "id": "say-dfad509f2dbc",
+    "text": "Here are your fork!"
+  },
+  {
+    "id": "say-2e5dd1a10c96",
+    "text": "I'd like some beef, please."
+  },
+  {
+    "id": "say-f2313b38c0c4",
+    "text": "Here you are! Have some beef."
+  },
+  {
+    "id": "say-16ac2a4164a3",
+    "text": "I'd like some chicken, please."
+  },
+  {
+    "id": "say-1bfdccf07ee4",
+    "text": "Here you are! Have some chicken."
+  },
+  {
+    "id": "say-54721c75b24b",
+    "text": "Here you are! Have some noodles."
+  },
+  {
+    "id": "say-2a58bd6b860d",
+    "text": "I'd like some soup, please."
+  },
+  {
+    "id": "say-a522768a33d9",
+    "text": "Here you are! Have some soup."
+  },
+  {
+    "id": "say-27c17c204103",
+    "text": "I'd like some vegetables, please."
+  },
+  {
+    "id": "say-eaab3553ca9f",
+    "text": "Here you are! Have some vegetables."
+  },
+  {
+    "id": "say-90bb5bf5d33b",
+    "text": "Here you are! Have some soup and bread."
+  },
+  {
+    "id": "say-a0834c62ac78",
+    "text": "Pass me the chopsticks, please."
+  },
+  {
+    "id": "say-6f064f366be6",
+    "text": "Pass me the bowl, please."
+  },
+  {
+    "id": "say-ce947f4d5c1d",
+    "text": "Pass me the fork, please."
+  },
+  {
+    "id": "say-eba6df2a700f",
+    "text": "Pass me the knife, please."
+  },
+  {
+    "id": "say-044931ff366b",
+    "text": "Pass me the spoon, please."
+  },
+  {
+    "id": "say-277d5a76ecae",
+    "text": "Yes! He is a doctor."
+  },
+  {
+    "id": "say-cf91a494efa4",
+    "text": "Yes! She is a cook."
+  },
+  {
+    "id": "say-e3e8482b552b",
+    "text": "Yes! He is a driver."
+  },
+  {
+    "id": "say-314ab925ca9e",
+    "text": "Yes! She is a nurse."
+  },
+  {
+    "id": "say-5174281b5954",
+    "text": "Yes! He is a farmer."
+  },
+  {
+    "id": "say-af2a3e6ee505",
+    "text": "short hair"
+  },
+  {
+    "id": "say-8989b5946622",
+    "text": "long hair"
+  },
+  {
+    "id": "say-f854d88848bc",
+    "text": "blue shoes"
+  },
+  {
+    "id": "say-e12006b285fa",
+    "text": "brown shoes"
+  },
+  {
+    "id": "say-12ba09c5f70a",
+    "text": "purple shoes"
+  },
+  {
+    "id": "say-6c133b6d7097",
+    "text": "tall and strong"
+  },
+  {
+    "id": "say-ba669755911a",
+    "text": "broom"
+  },
+  {
+    "id": "say-3fc8218c9c44",
+    "text": "medical bag"
+  },
+  {
+    "id": "say-b678d9b5d2e2",
+    "text": "red-yellow bag"
+  },
+  {
+    "id": "say-39e99bba82a5",
+    "text": "green-black bag"
+  },
+  {
+    "id": "say-ff094bde6c9e",
+    "text": "Day 1 · A beautiful farm"
+  },
+  {
+    "id": "say-a0fb097d0638",
+    "text": "Day 2 · Farmers market"
+  },
+  {
+    "id": "say-f6ae31c2da7a",
+    "text": "Day 3 · Life on the farm"
+  },
+  {
+    "id": "say-4dc1ed3a7121",
+    "text": "Day 4 · Diary and animals"
+  },
+  {
+    "id": "say-73f083ba64a2",
+    "text": "Day 5 · Mike’s PPT"
+  },
+  {
+    "id": "say-2e9d0496c8d7",
+    "text": "Day 6 · Bill’s poster"
+  },
+  {
+    "id": "say-df4174f6ae98",
+    "text": "Day 7 · Invitation"
+  },
+  {
+    "id": "say-0f07c4e3fe1e",
+    "text": "Day 8 · Farewell party"
+  },
+  {
+    "id": "say-f0edc31c8dea",
+    "text": "Great! This part is complete."
+  },
+  {
+    "id": "say-b3745a14b66e",
+    "text": "Great! Your adventure is complete."
+  },
+  {
+    "id": "say-7fe52bb92edf",
+    "text": "Great! Your report matches the scene."
+  },
+  {
+    "id": "say-bf2afc4be0f7",
+    "text": "I read a book yesterday."
+  },
+  {
+    "id": "say-e382b1ded37d",
+    "text": "measurement"
+  },
+  {
+    "id": "say-abb4c550bed8",
+    "text": "slow down and stop"
+  },
+  {
+    "id": "say-1ec558a60b5d",
+    "text": "go"
+  },
+  {
+    "id": "say-391cb1e07c5f",
+    "text": "delivery"
+  },
+  {
+    "id": "say-f19bade69a4a",
+    "text": "How can I get there?"
+  },
+  {
+    "id": "say-6065ac9d6343",
+    "text": "Where are you going?"
+  },
+  {
+    "id": "say-829b9a704437",
+    "text": "How do you come to school?"
+  },
+  {
+    "id": "say-cc42a75087bf",
+    "text": "What must we do at a red light?"
+  },
+  {
+    "id": "say-24c12864aa9a",
+    "text": "What must we do at a yellow light?"
+  },
+  {
+    "id": "say-bedcc40ee5df",
+    "text": "equipment"
+  },
+  {
+    "id": "say-de8e437f49da",
+    "text": "life jacket"
+  },
+  {
+    "id": "say-04168de6a87d",
+    "text": "What must you do?"
+  },
+  {
+    "id": "say-9efa9ef06bb2",
+    "text": "How do they go to school?"
+  },
+  {
+    "id": "say-714eea0f4c98",
+    "text": "time"
+  },
+  {
+    "id": "say-1c2338132508",
+    "text": "this afternoon"
+  },
+  {
+    "id": "say-9da8f1fa7d3a",
+    "text": "place"
+  },
+  {
+    "id": "say-655f83be7512",
+    "text": "school"
+  },
+  {
+    "id": "say-022d0bc5edc2",
+    "text": "What are you going to do?"
+  },
+  {
+    "id": "say-63455a4ba36d",
+    "text": "When are you going?"
+  },
+  {
+    "id": "say-70127ab6141b",
+    "text": "have an art lesson"
+  },
+  {
+    "id": "say-1cb3dace2029",
+    "text": "buy books"
+  },
+  {
+    "id": "say-4b8373d016f2",
+    "text": "Peter"
+  },
+  {
+    "id": "say-f86199e049b9",
+    "text": "hobbies"
+  },
+  {
+    "id": "say-a59cc31a53c6",
+    "text": "doing word puzzles"
+  },
+  {
+    "id": "say-26f82f6cdaec",
+    "text": "going hiking"
+  },
+  {
+    "id": "say-17cd5b7f46db",
+    "text": "What are your pen pal's hobbies?"
+  },
+  {
+    "id": "say-27d5482eebd0",
+    "text": "H"
+  },
+  {
+    "id": "say-58e6b3a414a1",
+    "text": "E"
+  },
+  {
+    "id": "say-042dc4512fa3",
+    "text": "I"
+  },
+  {
+    "id": "say-13fbd79c3d39",
+    "text": "K"
+  },
+  {
+    "id": "say-677a2037b4c7",
+    "text": "Does John live in Sydney?"
+  },
+  {
+    "id": "say-db45b82be170",
+    "text": "Does he study Chinese?"
+  },
+  {
+    "id": "say-e274eeff768c",
+    "text": "work"
+  },
+  {
+    "id": "say-7b202d57f214",
+    "text": "factory"
+  },
+  {
+    "id": "say-e6427457497f",
+    "text": "office"
+  },
+  {
+    "id": "say-1bc72c3e0545",
+    "text": "police station"
+  },
+  {
+    "id": "say-6b5465bf0bcc",
+    "text": "airport"
+  },
+  {
+    "id": "say-04241ee5c383",
+    "text": "What does he do?"
+  },
+  {
+    "id": "say-cf239ddbf2e6",
+    "text": "Where does he work?"
+  },
+  {
+    "id": "say-0fa577303f2a",
+    "text": "How does he go to work?"
+  },
+  {
+    "id": "say-4b3ff2318f3d",
+    "text": "What does she do?"
+  },
+  {
+    "id": "say-0abf61d98d82",
+    "text": "Where does she work?"
+  },
+  {
+    "id": "say-ddbbccd7111a",
+    "text": "How does she go to work?"
+  },
+  {
+    "id": "say-356a192b7913",
+    "text": "1"
+  },
+  {
+    "id": "say-da4b9237bacc",
+    "text": "2"
+  },
+  {
+    "id": "say-77de68daecd8",
+    "text": "3"
+  },
+  {
+    "id": "say-1b6453892473",
+    "text": "4"
+  },
+  {
+    "id": "say-ac3478d69a3c",
+    "text": "5"
+  },
+  {
+    "id": "say-c1dfd96eea8c",
+    "text": "6"
+  },
+  {
+    "id": "say-902ba3cda188",
+    "text": "7"
+  },
+  {
+    "id": "say-fe5dbbcea5ce",
+    "text": "8"
+  },
+  {
+    "id": "say-0ade7c2cf97f",
+    "text": "9"
+  },
+  {
+    "id": "say-b1d5781111d8",
+    "text": "10"
+  },
+  {
+    "id": "say-b6118f6e541a",
+    "text": "How does he feel?"
+  },
+  {
+    "id": "say-485fab6c6d5f",
+    "text": "What should he do?"
+  },
+  {
+    "id": "say-a78129f69a43",
+    "text": "stay with a friend"
+  },
+  {
+    "id": "say-f8ec317959be",
+    "text": "read a letter"
+  },
+  {
+    "id": "say-9dcf45438448",
+    "text": "make a plan"
+  },
+  {
+    "id": "say-9f7ba898f375",
+    "text": "share a gift"
+  },
+  {
+    "id": "say-1ded3053d036",
+    "text": "weak"
+  },
+  {
+    "id": "say-60aa51cf1391",
+    "text": "165 centimetres"
+  },
+  {
+    "id": "say-48bd82fed4dc",
+    "text": "160 centimetres"
+  },
+  {
+    "id": "say-1937c4c28f72",
+    "text": "tool"
+  },
+  {
+    "id": "say-07db5a777db6",
+    "text": "measuring tape"
+  },
+  {
+    "id": "say-b52520ccdfaf",
+    "text": "weighing scale"
+  },
+  {
+    "id": "say-e4ffacba5591",
+    "text": "calendar"
+  },
+  {
+    "id": "say-4d04521b659a",
+    "text": "comparison"
+  },
+  {
+    "id": "say-eeb43119320c",
+    "text": "Compare them, please."
+  },
+  {
+    "id": "say-dcb93596c78b",
+    "text": "How tall is Amy?"
+  },
+  {
+    "id": "say-f759e7db43cf",
+    "text": "70 years"
+  },
+  {
+    "id": "say-e6786c4521a9",
+    "text": "40 years"
+  },
+  {
+    "id": "say-4ba2aed4d0cb",
+    "text": "ruler A"
+  },
+  {
+    "id": "say-fb5d9ec43ef2",
+    "text": "ruler B"
+  },
+  {
+    "id": "say-c3fc282d4498",
+    "text": "20 centimetres"
+  },
+  {
+    "id": "say-3f3be9b77158",
+    "text": "15 centimetres"
+  },
+  {
+    "id": "say-126a7dbcda9a",
+    "text": "12 millimetres"
+  },
+  {
+    "id": "say-b93950a8c7fd",
+    "text": "20 millimetres"
+  },
+  {
+    "id": "say-97ac2e016d13",
+    "text": "bag A"
+  },
+  {
+    "id": "say-a8711cb7f22a",
+    "text": "bag B"
+  },
+  {
+    "id": "say-e821c6da61fd",
+    "text": "6 kilograms"
+  },
+  {
+    "id": "say-e94f2c793220",
+    "text": "4 kilograms"
+  },
+  {
+    "id": "say-12728cfa96c2",
+    "text": "dinosaur A"
+  },
+  {
+    "id": "say-e912b9b2ce40",
+    "text": "dinosaur B"
+  },
+  {
+    "id": "say-b17c279f838a",
+    "text": "130 centimetres"
+  },
+  {
+    "id": "say-11c3570c093b",
+    "text": "60 centimetres"
+  },
+  {
+    "id": "say-474ee9ee179b",
+    "text": "Robin"
+  },
+  {
+    "id": "say-ff0f0a8b656f",
+    "text": "Fox"
+  },
+  {
+    "id": "say-5508c19405df",
+    "text": "5 boxes"
+  },
+  {
+    "id": "say-5c67e3e8fb19",
+    "text": "2 boxes"
+  },
+  {
+    "id": "say-7448dc251d81",
+    "text": "cleaned my room"
+  },
+  {
+    "id": "say-c5b95f6922ce",
+    "text": "washed my clothes"
+  },
+  {
+    "id": "say-f8ad60106303",
+    "text": "What did you do last weekend?"
+  },
+  {
+    "id": "say-8d01e728074c",
+    "text": "How was your weekend?"
+  },
+  {
+    "id": "say-c417502b39b2",
+    "text": "stayed at home"
+  },
+  {
+    "id": "say-f7b355e979c5",
+    "text": "watched TV"
+  },
+  {
+    "id": "say-ab03dfbf198a",
+    "text": "Did you see a film?"
+  },
+  {
+    "id": "say-3d7995a99a2f",
+    "text": "read a book"
+  },
+  {
+    "id": "say-5551c96073a5",
+    "text": "saw a film"
+  },
+  {
+    "id": "say-74c1b06a34a8",
+    "text": "the countryside"
+  },
+  {
+    "id": "say-c75491c89395",
+    "text": "Sanya"
+  },
+  {
+    "id": "say-7b879d91f0b0",
+    "text": "Where did you go?"
+  },
+  {
+    "id": "say-0b7a312eafc0",
+    "text": "How did you go there?"
+  },
+  {
+    "id": "say-43d929e10ce6",
+    "text": "What did you do?"
+  },
+  {
+    "id": "say-123944b91397",
+    "text": "saw a doctor"
+  },
+  {
+    "id": "say-e6e0056efdfb",
+    "text": "fell off my bike"
+  },
+  {
+    "id": "say-c339d3f3e2fa",
+    "text": "What happened?"
+  },
+  {
+    "id": "say-29446daf9deb",
+    "text": "Are you all right?"
+  },
+  {
+    "id": "say-ab53fef9b626",
+    "text": "What was your school like?"
+  },
+  {
+    "id": "say-8b9909d6367b",
+    "text": "What is it like now?"
+  },
+  {
+    "id": "say-dd708279cb3a",
+    "text": "computers"
+  },
+  {
+    "id": "say-59276618e3df",
+    "text": "How have you changed?"
+  },
+  {
+    "id": "say-ea1849fce1ec",
+    "text": "What can you do now?"
+  },
+  {
+    "id": "say-7821ddc961f2",
+    "text": "What can you see?"
+  },
+  {
+    "id": "say-0fa13e9c53b8",
+    "text": "horses"
+  },
+  {
+    "id": "say-404db29d6ba6",
+    "text": "tomatoes"
+  },
+  {
+    "id": "say-8bfb4e1aa590",
+    "text": "cart"
+  },
+  {
+    "id": "say-7553e2b30d96",
+    "text": "What are you going to buy?"
+  },
+  {
+    "id": "say-66d95029bcef",
+    "text": "What is Bill like?"
+  },
+  {
+    "id": "say-52eab8fa981f",
+    "text": "What is Mrs Booth like?"
+  },
+  {
+    "id": "say-a3fd743ac147",
+    "text": "every day"
+  },
+  {
+    "id": "say-2f05fc028bec",
+    "text": "What happens every day?"
+  },
+  {
+    "id": "say-9c0ca85665f5",
+    "text": "What is happening now?"
+  },
+  {
+    "id": "say-9c1f91bd4da3",
+    "text": "had breakfast"
+  },
+  {
+    "id": "say-f0897bfe050f",
+    "text": "What did Mike do yesterday?"
+  },
+  {
+    "id": "say-1769e230f788",
+    "text": "whale"
+  },
+  {
+    "id": "say-f09c2a598065",
+    "text": "Compare the animals."
+  },
+  {
+    "id": "say-c6fc86d90250",
+    "text": "Tell us about your school."
+  },
+  {
+    "id": "say-1db828bcd41d",
+    "text": "PE"
+  },
+  {
+    "id": "say-d89dc4c9c7cb",
+    "text": "age five"
+  },
+  {
+    "id": "say-6687daa4a7e1",
+    "text": "skip rope"
+  },
+  {
+    "id": "say-ed1c4bc941e3",
+    "text": "What did Bill like at five?"
+  },
+  {
+    "id": "say-55a3864c771b",
+    "text": "age twelve"
+  },
+  {
+    "id": "say-ba44cf0a7815",
+    "text": "storybooks"
+  },
+  {
+    "id": "say-bb500fcedfa3",
+    "text": "swimming"
+  },
+  {
+    "id": "say-3183a9496589",
+    "text": "What does Bill like now?"
+  },
+  {
+    "id": "say-d5b2563eba67",
+    "text": "What will Bill do?"
+  },
+  {
+    "id": "say-d9e50f4992d8",
+    "text": "two p.m."
+  },
+  {
+    "id": "say-634a20327a35",
+    "text": "three p.m."
+  },
+  {
+    "id": "say-0bf4170444cd",
+    "text": "activity"
+  },
+  {
+    "id": "say-3c8e4517baba",
+    "text": "draw pictures"
+  },
+  {
+    "id": "say-0cafbc7e390d",
+    "text": "play games"
+  },
+  {
+    "id": "say-ab1405452055",
+    "text": "envelope"
+  },
+  {
+    "id": "say-5dbfb0e87a8b",
+    "text": "When and where is the party?"
+  },
+  {
+    "id": "say-b75c4ca5088e",
+    "text": "What will you do at the party?"
+  },
+  {
+    "id": "say-7e51aa7f63f5",
+    "text": "plates"
+  },
+  {
+    "id": "say-6429f1d4d611",
+    "text": "What is on the table?"
+  },
+  {
+    "id": "say-fa5bd38090c7",
+    "text": "bow"
+  },
+  {
+    "id": "say-c19ab8d3c2c9",
+    "text": "clap"
+  },
+  {
+    "id": "say-71e29351c87f",
+    "text": "Say goodbye to your friends."
+  },
+  {
+    "id": "say-fa380f9f860b",
+    "text": "running shoes"
+  },
+  {
+    "id": "say-0e0fe10565f0",
+    "text": "angry fox"
+  },
+  {
+    "id": "say-9c9085b36bbc",
+    "text": "afraid fox"
+  },
+  {
+    "id": "say-dc1e7b68de40",
+    "text": "sad fox"
+  },
+  {
+    "id": "say-617112bc0171",
+    "text": "worried fox"
+  },
+  {
+    "id": "say-b707d70c8c20",
+    "text": "happy fox"
+  },
+  {
+    "id": "say-d0c3c1e9ca89",
+    "text": "camping tent"
+  },
+  {
+    "id": "say-42b65a5227e4",
+    "text": "fishing rod"
+  },
+  {
+    "id": "say-251e382f7635",
+    "text": "camera"
+  },
+  {
+    "id": "say-fbc8fae6b139",
+    "text": "Great!"
+  },
+  {
+    "id": "say-f829bacfad94",
+    "text": "Mr Grey"
+  },
+  {
+    "id": "say-cb867c3bfaec",
+    "text": "Ms Green"
+  },
+  {
+    "id": "say-c539153ba1f9",
+    "text": "Oliver"
+  },
+  {
+    "id": "say-d1a76f90103d",
+    "text": "Chinese"
+  },
+  {
+    "id": "say-b92336a2fb8a",
+    "text": "science"
+  },
+  {
+    "id": "say-4f468a6824d6",
+    "text": "art"
+  },
+  {
+    "id": "say-55cc78e0039d",
+    "text": "computer class"
+  },
+  {
+    "id": "say-d7ce74466d54",
+    "text": "wave"
+  },
+  {
+    "id": "say-bf8f805833a7",
+    "text": "stamp"
+  },
+  {
+    "id": "say-85c274929bc0",
+    "text": "middle"
+  },
+  {
+    "id": "say-d1175c484583",
+    "text": "above the bed"
+  },
+  {
+    "id": "say-8080c2c7ae0d",
+    "text": "beside the bed"
+  },
+  {
+    "id": "say-649181d84cd5",
+    "text": "behind the bed"
+  },
+  {
+    "id": "say-9cef503fb926",
+    "text": "in front of the bed"
+  },
+  {
+    "id": "say-2cf2cba11aec",
+    "text": "between the bed and the plant"
+  },
+  {
+    "id": "say-bb7ecfe33d92",
+    "text": "tall buildings"
+  },
+  {
+    "id": "say-b793bb5927f8",
+    "text": "food bowl"
+  },
+  {
+    "id": "say-d510d9c81774",
+    "text": "yellow picture"
+  },
+  {
+    "id": "say-8e1fcdef2d78",
+    "text": "yellow picture. mine."
+  },
+  {
+    "id": "say-61bf0a17caee",
+    "text": "water bottle. yours."
+  },
+  {
+    "id": "say-987b47e4a443",
+    "text": "blue cap"
+  },
+  {
+    "id": "say-02dae24a14b0",
+    "text": "blue cap. his."
+  },
+  {
+    "id": "say-cd2dfb87e633",
+    "text": "storybook. hers."
+  },
+  {
+    "id": "say-dc22243db572",
+    "text": "football. ours."
+  },
+  {
+    "id": "say-1778a63499ab",
+    "text": "schoolbag. theirs."
+  },
+  {
+    "id": "say-241e59e3576d",
+    "text": "1 o'clock"
+  },
+  {
+    "id": "say-0ae25d1337d4",
+    "text": "2 o'clock"
+  },
+  {
+    "id": "say-8802ac0d3571",
+    "text": "3 o'clock"
+  },
+  {
+    "id": "say-e1449136f465",
+    "text": "4 o'clock"
+  },
+  {
+    "id": "say-4813ef46aed7",
+    "text": "5 o'clock"
+  },
+  {
+    "id": "say-d0184894f1b2",
+    "text": "6 o'clock"
+  },
+  {
+    "id": "say-30e3c0abaa46",
+    "text": "7 o'clock"
+  },
+  {
+    "id": "say-df1d42f89215",
+    "text": "8 o'clock"
+  },
+  {
+    "id": "say-92a7c7d733b9",
+    "text": "9 o'clock"
+  },
+  {
+    "id": "say-f8da185abe51",
+    "text": "10 o'clock"
+  },
+  {
+    "id": "say-b40b9e1eff2e",
+    "text": "11 o'clock"
+  },
+  {
+    "id": "say-bc24bfc60d62",
+    "text": "12 o'clock"
+  },
+  {
+    "id": "say-d63eba28afc0",
+    "text": "west"
+  },
+  {
+    "id": "say-25038d9da464",
+    "text": "east"
+  },
+  {
+    "id": "say-8cb7f0ef8917",
+    "text": "picnic"
+  },
+  {
+    "id": "say-cbf41f5b461c",
+    "text": "snowball"
+  },
+  {
+    "id": "say-05f0fadacfec",
+    "text": "What's he like?"
+  },
+  {
+    "id": "say-799b5425266b",
+    "text": "He is old."
+  },
+  {
+    "id": "say-ae3051ae889c",
+    "text": "He's old."
+  },
+  {
+    "id": "say-85b70fc2bc91",
+    "text": "What's she like?"
+  },
+  {
+    "id": "say-88a44b57cab4",
+    "text": "She is young."
+  },
+  {
+    "id": "say-df8c6147b438",
+    "text": "She's young."
+  },
+  {
+    "id": "say-e4c15ae5f930",
+    "text": "He is funny."
+  },
+  {
+    "id": "say-2146f7e4af78",
+    "text": "He's funny."
+  },
+  {
+    "id": "say-727474e59df5",
+    "text": "She's kind."
+  },
+  {
+    "id": "say-b9998d0bfb88",
+    "text": "He is strict."
+  },
+  {
+    "id": "say-9e41bfef0c8a",
+    "text": "He's strict."
+  },
+  {
+    "id": "say-8ede48bcab81",
+    "text": "She is polite."
+  },
+  {
+    "id": "say-98e49591af8e",
+    "text": "She's polite."
+  },
+  {
+    "id": "say-39a830d989f8",
+    "text": "He is hard-working."
+  },
+  {
+    "id": "say-498fbf6e20fa",
+    "text": "He's hard-working."
+  },
+  {
+    "id": "say-7027aac747eb",
+    "text": "She is helpful."
+  },
+  {
+    "id": "say-1d1ad5fa2788",
+    "text": "She's helpful."
+  },
+  {
+    "id": "say-fe0509c945ec",
+    "text": "He is clever."
+  },
+  {
+    "id": "say-78c9e1a300c8",
+    "text": "He's clever."
+  },
+  {
+    "id": "say-349cbcff82f6",
+    "text": "He is shy."
+  },
+  {
+    "id": "say-0d53773c8321",
+    "text": "He's shy."
+  },
+  {
+    "id": "say-d38a3e1abe5c",
+    "text": "What do you have on Mondays?"
+  },
+  {
+    "id": "say-e454517e1d2f",
+    "text": "I have Chinese and English on Mondays."
+  },
+  {
+    "id": "say-1a85b0bd3f99",
+    "text": "What do you have on Tuesdays?"
+  },
+  {
+    "id": "say-3cd7edcceed6",
+    "text": "I have maths and science on Tuesdays."
+  },
+  {
+    "id": "say-83a682775d2a",
+    "text": "What do you have on Wednesdays?"
+  },
+  {
+    "id": "say-253c8249a4d6",
+    "text": "I have art and PE on Wednesdays."
+  },
+  {
+    "id": "say-577e77ad9e44",
+    "text": "What do you have on Thursdays?"
+  },
+  {
+    "id": "say-39d9313507b7",
+    "text": "What do you have on Fridays?"
+  },
+  {
+    "id": "say-946b58374742",
+    "text": "I have English and computer class on Fridays."
+  },
+  {
+    "id": "say-7df5c5eddffa",
+    "text": "What do you do on the weekend?"
+  },
+  {
+    "id": "say-2f964666d04a",
+    "text": "I often read books and play football on Saturdays."
+  },
+  {
+    "id": "say-ac8bc43dff95",
+    "text": "Do you often read books on Saturdays?"
+  },
+  {
+    "id": "say-7ee6edd4c911",
+    "text": "I often wash my clothes and do homework and watch TV on Sundays."
+  },
+  {
+    "id": "say-980caf654dab",
+    "text": "What would you like to eat?"
+  },
+  {
+    "id": "say-60fb136f1a26",
+    "text": "What would you like to drink?"
+  },
+  {
+    "id": "say-ca8903dc8859",
+    "text": "I'd like some water, please."
+  },
+  {
+    "id": "say-ba92ec3ec9f2",
+    "text": "What's your favourite food?"
+  },
+  {
+    "id": "say-f8cb671bdce1",
+    "text": "My favourite food is sandwich. It is fresh."
+  },
+  {
+    "id": "say-89c0be09ad82",
+    "text": "I'd like some salad, please."
+  },
+  {
+    "id": "say-56970a12be22",
+    "text": "I'd like some tea, please."
+  },
+  {
+    "id": "say-87ce3bc9732d",
+    "text": "I'd like a hamburger, please."
+  },
+  {
+    "id": "say-ce80a52d8b22",
+    "text": "My favourite food is hamburger. It is delicious."
+  },
+  {
+    "id": "say-0678709586e2",
+    "text": "I'd like some ice cream, please."
+  },
+  {
+    "id": "say-76b8117039de",
+    "text": "My favourite food is ice cream. It is sweet."
+  },
+  {
+    "id": "say-50cb865bdfc1",
+    "text": "My favourite food is noodles. It is hot."
+  },
+  {
+    "id": "say-2db2d0883116",
+    "text": "What can you do for the party?"
+  },
+  {
+    "id": "say-dc7c2028a1b0",
+    "text": "I can draw cartoons."
+  },
+  {
+    "id": "say-f1f5fbf0ca2d",
+    "text": "I can do kung fu."
+  },
+  {
+    "id": "say-2912637b3aac",
+    "text": "I can play basketball."
+  },
+  {
+    "id": "say-3dd64bda836d",
+    "text": "Can Robin swim?"
+  },
+  {
+    "id": "say-03438e7d97aa",
+    "text": "No, he can't."
+  },
+  {
+    "id": "say-60a1733e2ade",
+    "text": "No, he cannot."
+  },
+  {
+    "id": "say-029afd4777a6",
+    "text": "Where is the photo?"
+  },
+  {
+    "id": "say-06826c6efaf3",
+    "text": "It is above the bed."
+  },
+  {
+    "id": "say-bfb4abdf2dcf",
+    "text": "It's above the bed."
+  },
+  {
+    "id": "say-7fa1acddd503",
+    "text": "Where is the plant?"
+  },
+  {
+    "id": "say-4299677c31aa",
+    "text": "The plant is beside the bed."
+  },
+  {
+    "id": "say-417a3f85a7d9",
+    "text": "It is beside the bed."
+  },
+  {
+    "id": "say-ba87cd54878e",
+    "text": "It's beside the bed."
+  },
+  {
+    "id": "say-ef0e654aaa25",
+    "text": "Where is the bike?"
+  },
+  {
+    "id": "say-aa965a5c13d1",
+    "text": "The bike is behind the bed."
+  },
+  {
+    "id": "say-57426c2310f5",
+    "text": "It is behind the bed."
+  },
+  {
+    "id": "say-34d2e29cd456",
+    "text": "It's behind the bed."
+  },
+  {
+    "id": "say-c859abe1e54a",
+    "text": "Where is the water bottle?"
+  },
+  {
+    "id": "say-d4a141a0ebc9",
+    "text": "The water bottle is in front of the bed."
+  },
+  {
+    "id": "say-3228b98347ad",
+    "text": "It is in front of the bed."
+  },
+  {
+    "id": "say-bb0f05f132d7",
+    "text": "It's in front of the bed."
+  },
+  {
+    "id": "say-34d322b23541",
+    "text": "Where is the clock?"
+  },
+  {
+    "id": "say-aad613779c63",
+    "text": "The clock is between the bed and the plant."
+  },
+  {
+    "id": "say-7e0f206952c6",
+    "text": "It is between the bed and the plant."
+  },
+  {
+    "id": "say-0cac303ac83c",
+    "text": "It's between the bed and the plant."
+  },
+  {
+    "id": "say-c42b3a6a1cd7",
+    "text": "What is in your room?"
+  },
+  {
+    "id": "say-f9c07944588a",
+    "text": "How many pictures are there?"
+  },
+  {
+    "id": "say-e62881d234c6",
+    "text": "There are two pictures."
+  },
+  {
+    "id": "say-6c4b2dd350ba",
+    "text": "Is there a lake in the park?"
+  },
+  {
+    "id": "say-4fe867056a20",
+    "text": "Yes, there is."
+  },
+  {
+    "id": "say-f259de14af40",
+    "text": "Is there a river in the forest?"
+  },
+  {
+    "id": "say-493e76f2f3a6",
+    "text": "No, there isn't."
+  },
+  {
+    "id": "say-18a2d4a58998",
+    "text": "No, there is not."
+  },
+  {
+    "id": "say-a906f367eae2",
+    "text": "Are there any trees in the park?"
+  },
+  {
+    "id": "say-6ddd4bfaf0c1",
+    "text": "Yes, there are."
+  },
+  {
+    "id": "say-d57764814280",
+    "text": "Are there any tall buildings in the park?"
+  },
+  {
+    "id": "say-90aee3032267",
+    "text": "No, there aren't."
+  },
+  {
+    "id": "say-c41592f39194",
+    "text": "No, there are not."
+  },
+  {
+    "id": "say-5d3a7eeacb0c",
+    "text": "When do you do morning exercises?"
+  },
+  {
+    "id": "say-d37b2a5452d1",
+    "text": "I do morning exercises at seven o'clock."
+  },
+  {
+    "id": "say-c0173f719011",
+    "text": "I usually do morning exercises at 7 o'clock."
+  },
+  {
+    "id": "say-62a1aada0b87",
+    "text": "When do you eat breakfast?"
+  },
+  {
+    "id": "say-2742c7a54058",
+    "text": "I usually eat breakfast at 8 o'clock."
+  },
+  {
+    "id": "say-67597e260f5e",
+    "text": "When do you have English class?"
+  },
+  {
+    "id": "say-f1f578f40d0f",
+    "text": "I have English class at nine o'clock."
+  },
+  {
+    "id": "say-4ed87db05b24",
+    "text": "I usually have English class at 9 o'clock."
+  },
+  {
+    "id": "say-dec8211276a2",
+    "text": "When do you play sports?"
+  },
+  {
+    "id": "say-4e0ec68f8bae",
+    "text": "I play sports at four o'clock."
+  },
+  {
+    "id": "say-bb93e3a40a65",
+    "text": "I usually play sports at 4 o'clock."
+  },
+  {
+    "id": "say-d036967c3652",
+    "text": "When do you eat dinner?"
+  },
+  {
+    "id": "say-5cd21818d340",
+    "text": "I eat dinner at six o'clock."
+  },
+  {
+    "id": "say-51a5a8ded055",
+    "text": "I usually eat dinner at 6 o'clock."
+  },
+  {
+    "id": "say-2a822033309f",
+    "text": "I often clean my room on the weekend."
+  },
+  {
+    "id": "say-7ce6daf9f1d3",
+    "text": "I often go for a walk on the weekend."
+  },
+  {
+    "id": "say-b426df3b8b24",
+    "text": "I often go shopping on the weekend."
+  },
+  {
+    "id": "say-5135371c71f2",
+    "text": "I often take a dancing class on the weekend."
+  },
+  {
+    "id": "say-25a339b6bcd4",
+    "text": "Which season do you like best?"
+  },
+  {
+    "id": "say-26b022c473b8",
+    "text": "I like spring best."
+  },
+  {
+    "id": "say-4de66a5a1441",
+    "text": "Because I can go on a picnic."
+  },
+  {
+    "id": "say-515a7277f688",
+    "text": "I like spring best because I can go on a picnic."
+  },
+  {
+    "id": "say-69d1b863b91c",
+    "text": "I like summer best."
+  },
+  {
+    "id": "say-b82b2f4cb284",
+    "text": "Because I can go swimming."
+  },
+  {
+    "id": "say-81d4dee5a26c",
+    "text": "I like summer best because I can go swimming."
+  },
+  {
+    "id": "say-4ea70916696a",
+    "text": "I like autumn best."
+  },
+  {
+    "id": "say-1bb383005bca",
+    "text": "Because I can pick apples."
+  },
+  {
+    "id": "say-c7f8198b9573",
+    "text": "I like winter best."
+  },
+  {
+    "id": "say-a5b83491d72f",
+    "text": "Because I can make a snowman."
+  },
+  {
+    "id": "say-9d816b35f5c5",
+    "text": "I like winter best because I can make a snowman."
+  },
+  {
+    "id": "say-3df0241b3311",
+    "text": "When is the new year's day?"
+  },
+  {
+    "id": "say-322c8b8d2f8e",
+    "text": "It is in January."
+  },
+  {
+    "id": "say-c36ae0f9be73",
+    "text": "It's in January."
+  },
+  {
+    "id": "say-0f0cf3a87870",
+    "text": "When is the tree planting day?"
+  },
+  {
+    "id": "say-9ad00d505536",
+    "text": "It is in March."
+  },
+  {
+    "id": "say-ca8e14f9c33a",
+    "text": "It's in March."
+  },
+  {
+    "id": "say-1360c4bc5d09",
+    "text": "When is the party?"
+  },
+  {
+    "id": "say-75200ab29197",
+    "text": "It is in April."
+  },
+  {
+    "id": "say-5b7308dee700",
+    "text": "It's in April."
+  },
+  {
+    "id": "say-e94013223c5a",
+    "text": "When is the singing contest?"
+  },
+  {
+    "id": "say-a85c8fd038a2",
+    "text": "It is in May."
+  },
+  {
+    "id": "say-ca0a24c99aca",
+    "text": "It's in May."
+  },
+  {
+    "id": "say-c24841d63dc5",
+    "text": "When is the children's day?"
+  },
+  {
+    "id": "say-b82faf5406a3",
+    "text": "It is in June."
+  },
+  {
+    "id": "say-31cf1d955d2b",
+    "text": "It's in June."
+  },
+  {
+    "id": "say-8c5a20d0f260",
+    "text": "When is the summer vacation?"
+  },
+  {
+    "id": "say-0c28398a6f02",
+    "text": "It is in July."
+  },
+  {
+    "id": "say-6c382f23596c",
+    "text": "It's in July."
+  },
+  {
+    "id": "say-88c130e4efd7",
+    "text": "When is the trip this year?"
+  },
+  {
+    "id": "say-6e08961ff42e",
+    "text": "It is in October."
+  },
+  {
+    "id": "say-17af2c4cea60",
+    "text": "It's in October."
+  },
+  {
+    "id": "say-0bde1e053359",
+    "text": "What will you do on the school trip?"
+  },
+  {
+    "id": "say-fa5bd12a8f56",
+    "text": "We'll go to the Great Wall."
+  },
+  {
+    "id": "say-7e76136b594d",
+    "text": "We will go to the Great Wall."
+  },
+  {
+    "id": "say-4bed9ef6a8d4",
+    "text": "When is the american thanksgiving day?"
+  },
+  {
+    "id": "say-15b121d7d3cc",
+    "text": "It is in November."
+  },
+  {
+    "id": "say-6e07d7550de6",
+    "text": "It's in November."
+  },
+  {
+    "id": "say-be3928f902f6",
+    "text": "When is the christmas?"
+  },
+  {
+    "id": "say-7cb6c27b8723",
+    "text": "It is in December."
+  },
+  {
+    "id": "say-d71d58d549e4",
+    "text": "It's in December."
+  },
+  {
+    "id": "say-682d693ca4dd",
+    "text": "When is the art show?"
+  },
+  {
+    "id": "say-b42b0f971f47",
+    "text": "It is on May first."
+  },
+  {
+    "id": "say-2e51396a6ac3",
+    "text": "When is the reading festival?"
+  },
+  {
+    "id": "say-a74beb87f789",
+    "text": "It is on May second."
+  },
+  {
+    "id": "say-13ef051392bf",
+    "text": "It's on May second."
+  },
+  {
+    "id": "say-350b4630cce8",
+    "text": "When is the sports meet?"
+  },
+  {
+    "id": "say-65ce3d6d066d",
+    "text": "It is on May third."
+  },
+  {
+    "id": "say-e29b1f4497af",
+    "text": "It's on May third."
+  },
+  {
+    "id": "say-1debb0dc1941",
+    "text": "When is the English test?"
+  },
+  {
+    "id": "say-d855ac3e564a",
+    "text": "It is on May fourth."
+  },
+  {
+    "id": "say-4f1a956f3fb7",
+    "text": "It's on May fourth."
+  },
+  {
+    "id": "say-f86f723ecd0a",
+    "text": "When is the school trip?"
+  },
+  {
+    "id": "say-0c2887e9a79f",
+    "text": "It is on May fifth."
+  },
+  {
+    "id": "say-ad16b9e74c4e",
+    "text": "It's on May fifth."
+  },
+  {
+    "id": "say-d09fba5ee93a",
+    "text": "When is Grandpa's birthday?"
+  },
+  {
+    "id": "say-d6c2e94ab277",
+    "text": "It is on June twelfth."
+  },
+  {
+    "id": "say-4351926bd178",
+    "text": "It's on June twelfth."
+  },
+  {
+    "id": "say-1d7408d1f4cb",
+    "text": "When is Grandma's birthday?"
+  },
+  {
+    "id": "say-69845f337619",
+    "text": "It is on June twentieth."
+  },
+  {
+    "id": "say-e34a04ba89c5",
+    "text": "It's on June twentieth."
+  },
+  {
+    "id": "say-d60ff0b56a9c",
+    "text": "When is Amy's birthday?"
+  },
+  {
+    "id": "say-2415a4bd9dc1",
+    "text": "It is on June twenty-first."
+  },
+  {
+    "id": "say-50017e15d69c",
+    "text": "When is Mike's birthday?"
+  },
+  {
+    "id": "say-8f791176b8db",
+    "text": "It is on June twenty-third."
+  },
+  {
+    "id": "say-678f3d775715",
+    "text": "It's on June twenty-third."
+  },
+  {
+    "id": "say-354d068f2b1d",
+    "text": "When is Robin's birthday?"
+  },
+  {
+    "id": "say-73a39ddbb4ae",
+    "text": "It is on June thirtieth."
+  },
+  {
+    "id": "say-c5a200c798f6",
+    "text": "It's on June thirtieth."
+  },
+  {
+    "id": "say-4fb953282f3c",
+    "text": "Whose yellow picture is it?"
+  },
+  {
+    "id": "say-a790ef0b2edd",
+    "text": "It is mine."
+  },
+  {
+    "id": "say-6695649d23d2",
+    "text": "Whose water bottle is it?"
+  },
+  {
+    "id": "say-e5a8536c584c",
+    "text": "It is yours."
+  },
+  {
+    "id": "say-3b930232b13a",
+    "text": "It's yours."
+  },
+  {
+    "id": "say-b9363c063d6d",
+    "text": "Whose blue cap is it?"
+  },
+  {
+    "id": "say-abafa4ad6b68",
+    "text": "It is his."
+  },
+  {
+    "id": "say-b3abc5c2cfb9",
+    "text": "It's his."
+  },
+  {
+    "id": "say-7c7d9296fb73",
+    "text": "Whose storybook is it?"
+  },
+  {
+    "id": "say-9441d8e9fe3a",
+    "text": "It is hers."
+  },
+  {
+    "id": "say-f38d626c9123",
+    "text": "It's hers."
+  },
+  {
+    "id": "say-b8feceb19b39",
+    "text": "Whose football is it?"
+  },
+  {
+    "id": "say-85379a9c4a9c",
+    "text": "It is ours."
+  },
+  {
+    "id": "say-68f480bc432b",
+    "text": "It's ours."
+  },
+  {
+    "id": "say-8676b91eb8f0",
+    "text": "Whose schoolbag is it?"
+  },
+  {
+    "id": "say-d9ceed7f40cd",
+    "text": "It is theirs."
+  },
+  {
+    "id": "say-08cfc6e7cd99",
+    "text": "It's theirs."
+  },
+  {
+    "id": "say-efe019b60d1d",
+    "text": "What is the dog doing?"
+  },
+  {
+    "id": "say-8af38eb1ad7a",
+    "text": "It's eating."
+  },
+  {
+    "id": "say-1870d6ca343d",
+    "text": "Is he drinking water?"
+  },
+  {
+    "id": "say-9485f50417c7",
+    "text": "No, he isn't. He is eating."
+  },
+  {
+    "id": "say-fcbcd6ae5af5",
+    "text": "No, he isn't. He's eating."
+  },
+  {
+    "id": "say-dc0a6b3c3a02",
+    "text": "No, he is not. He is eating."
+  },
+  {
+    "id": "say-946d75be702d",
+    "text": "It is drinking."
+  },
+  {
+    "id": "say-91b9e831e7a1",
+    "text": "It's drinking."
+  },
+  {
+    "id": "say-7edfc3d35904",
+    "text": "It is sleeping."
+  },
+  {
+    "id": "say-98c8952e4afe",
+    "text": "It's sleeping."
+  },
+  {
+    "id": "say-95d8034677d3",
+    "text": "What is the rabbit doing?"
+  },
+  {
+    "id": "say-bf0bb72b938a",
+    "text": "It is jumping."
+  },
+  {
+    "id": "say-8bed34af0d81",
+    "text": "It's jumping."
+  },
+  {
+    "id": "say-2bac07ddd4a3",
+    "text": "What is the monkey doing?"
+  },
+  {
+    "id": "say-2f0115eff5ac",
+    "text": "It is climbing."
+  },
+  {
+    "id": "say-a7e23d948210",
+    "text": "It's climbing."
+  },
+  {
+    "id": "say-ce849d726f06",
+    "text": "It is playing."
+  },
+  {
+    "id": "say-60eb28196947",
+    "text": "It's playing."
+  },
+  {
+    "id": "say-7ebd952d52f0",
+    "text": "What should we do here?"
+  },
+  {
+    "id": "say-50795a246f5b",
+    "text": "Keep to the right please."
+  },
+  {
+    "id": "say-938171fe155f",
+    "text": "What are they doing?"
+  },
+  {
+    "id": "say-1020e1b06281",
+    "text": "They are doing morning exercises."
+  },
+  {
+    "id": "say-ca0c7148d76f",
+    "text": "They're doing morning exercises."
+  },
+  {
+    "id": "say-ecf68663ed71",
+    "text": "They are reading a book."
+  },
+  {
+    "id": "say-3c157e213d92",
+    "text": "They're reading a book."
+  },
+  {
+    "id": "say-b5c02f356268",
+    "text": "Take turns please."
+  },
+  {
+    "id": "say-7666e73890cc",
+    "text": "They are listening to music."
+  },
+  {
+    "id": "say-1bb7ebeb9315",
+    "text": "They're listening to music."
+  },
+  {
+    "id": "say-148e193a205b",
+    "text": "Keep your desk clean please."
+  },
+  {
+    "id": "say-d64876b9dcc5",
+    "text": "They are having an English class."
+  },
+  {
+    "id": "say-9191a3dc2d48",
+    "text": "They're having an English class."
+  },
+  {
+    "id": "say-b16257ab568a",
+    "text": "Work quietly please."
+  },
+  {
+    "id": "say-8bb57ea53308",
+    "text": "They are eating lunch."
+  },
+  {
+    "id": "say-7b324e2543d8",
+    "text": "They're eating lunch."
+  },
+  {
+    "id": "say-f95bd39d9b19",
+    "text": "pipa"
+  },
+  {
+    "id": "say-5f9501779f10",
+    "text": "basketball station"
+  },
+  {
+    "id": "say-510dcb87588b",
+    "text": "ping-pong"
+  },
+  {
+    "id": "say-17d396020d8a",
+    "text": "microphone"
+  },
+  {
+    "id": "say-0810416205b8",
+    "text": "cartoon sketchbook"
+  },
+  {
+    "id": "say-24be6a0d41cd",
+    "text": "kung fu dummy"
+  },
+  {
+    "id": "say-11031022b27e",
+    "text": "spring tree"
+  },
+  {
+    "id": "say-c9df0fabe8f9",
+    "text": "apple tree"
+  },
+  {
+    "id": "say-d1be1d05fa01",
+    "text": "snowman"
+  },
+  {
+    "id": "say-de57efa1b187",
+    "text": "flowers"
+  },
+  {
+    "id": "say-c66ba3bf825d",
+    "text": "morning exercises"
+  },
+  {
+    "id": "say-50644481c7cd",
+    "text": "present"
+  },
+  {
+    "id": "say-4db3cd7dd9fe",
+    "text": "dog eating"
+  },
+  {
+    "id": "say-95b0313b6f25",
+    "text": "dog drinking"
+  },
+  {
+    "id": "say-fbcf32d68cfd",
+    "text": "dog sleeping"
+  },
+  {
+    "id": "say-b530ebb28b90",
+    "text": "rabbit jumping"
+  },
+  {
+    "id": "say-e24d6e83b5b5",
+    "text": "monkey climbing"
+  },
+  {
+    "id": "say-bb0be5af26d9",
+    "text": "dog playing"
+  },
+  {
+    "id": "say-68dd6f0b6fcd",
+    "text": "quiet sign"
+  },
+  {
+    "id": "say-5ffd9270cbdc",
+    "text": "tidy desk"
+  },
+  {
+    "id": "say-5c84ad3d43bd",
+    "text": "It's seven o'clock."
+  },
+  {
+    "id": "say-6a6c49184357",
+    "text": "It's time for breakfast."
+  },
+  {
+    "id": "say-39ce54bea890",
+    "text": "It's seven thirty."
+  },
+  {
+    "id": "say-10cac2d21f98",
+    "text": "It's time to go to school."
+  },
+  {
+    "id": "say-81c15d0bb3b3",
+    "text": "It's nine o'clock."
+  },
+  {
+    "id": "say-f77617e14ed5",
+    "text": "It's time for English class."
+  },
+  {
+    "id": "say-1c2d51c39f5d",
+    "text": "It's ten o'clock."
+  },
+  {
+    "id": "say-22e0c5417f31",
+    "text": "It's time for music class."
+  },
+  {
+    "id": "say-f690471ee8c3",
+    "text": "It's eleven o'clock."
+  },
+  {
+    "id": "say-230fdb7e3286",
+    "text": "It's time for PE class."
+  },
+  {
+    "id": "say-bfd176e6b9b9",
+    "text": "It's twelve o'clock."
+  },
+  {
+    "id": "say-7c3a50ea23f8",
+    "text": "It's time for lunch."
+  },
+  {
+    "id": "say-fdc83d47a165",
+    "text": "It's time to go to bed."
+  },
+  {
+    "id": "say-52eca5f58e3e",
+    "text": "It's rainy in New York."
+  },
+  {
+    "id": "say-12fda184f8b7",
+    "text": "It's warm in New York."
+  },
+  {
+    "id": "say-c9a536c9e8d0",
+    "text": "What's the weather like in Moscow?"
+  },
+  {
+    "id": "say-7810e3f39282",
+    "text": "It's snowy."
+  },
+  {
+    "id": "say-ea91dc7fe6c6",
+    "text": "It's snowy in Moscow."
+  },
+  {
+    "id": "say-7e69e784825e",
+    "text": "It's cold in Moscow."
+  },
+  {
+    "id": "say-85c79976c6a7",
+    "text": "What's the weather like in Singapore?"
+  },
+  {
+    "id": "say-a1a410a009e4",
+    "text": "It's sunny."
+  },
+  {
+    "id": "say-2343067b1d64",
+    "text": "It's sunny in Singapore."
+  },
+  {
+    "id": "say-f0ef9443a198",
+    "text": "It's hot in Singapore."
+  },
+  {
+    "id": "say-171034cc0843",
+    "text": "coat. Mine."
+  },
+  {
+    "id": "say-2df9733c39b7",
+    "text": "hat. Mine."
+  },
+  {
+    "id": "say-43bb1309dce2",
+    "text": "jacket. Mike's."
+  },
+  {
+    "id": "say-14a9eec80140",
+    "text": "shirt. Mike's."
+  },
+  {
+    "id": "say-8eb5968d2cde",
+    "text": "dress. Amy's."
+  },
+  {
+    "id": "say-7364a2bf2936",
+    "text": "skirt. Amy's."
+  },
+  {
+    "id": "say-1a2854780c88",
+    "text": "pants. father's."
+  },
+  {
+    "id": "say-e68ae4600547",
+    "text": "sweater. father's."
+  },
+  {
+    "id": "say-a85135553871",
+    "text": "socks. Chen Jie's."
+  },
+  {
+    "id": "say-6adf3bc941b6",
+    "text": "shorts. Chen Jie's."
+  },
+  {
+    "id": "say-ae14c7ecc387",
+    "text": "cows"
+  },
+  {
+    "id": "say-2012e4a43bfa",
+    "text": "hens"
+  },
+  {
+    "id": "say-dd820c13b51e",
+    "text": "10 dollars"
+  },
+  {
+    "id": "say-055374c9ddb1",
+    "text": "5 dollars"
+  },
+  {
+    "id": "say-33ac0350c30c",
+    "text": "gloves"
+  },
+  {
+    "id": "say-bda1f6fd8b47",
+    "text": "8 dollars"
+  },
+  {
+    "id": "say-f95cfe67655d",
+    "text": "15 dollars"
+  },
+  {
+    "id": "say-aff392836184",
+    "text": "89 dollars"
+  },
+  {
+    "id": "say-c9da8a6b0810",
+    "text": "socks"
+  },
+  {
+    "id": "say-19f319efbd6d",
+    "text": "shoes"
+  },
+  {
+    "id": "say-127abda39a54",
+    "text": "Chen Jie"
+  },
+  {
+    "id": "say-2ecfab7b634e",
+    "text": "Great! Keep exploring!"
+  },
+  {
+    "id": "say-f442d3e3f2df",
+    "text": "Yes! The teachers' office is next to the library."
+  },
+  {
+    "id": "say-89ecae5f436e",
+    "text": "Welcome to our library!"
+  },
+  {
+    "id": "say-be15efcd4212",
+    "text": "Yes! That is the computer room."
+  },
+  {
+    "id": "say-d76cf6cc9bfc",
+    "text": "Have a nice day!"
+  },
+  {
+    "id": "say-85c37eb4ed12",
+    "text": "Be careful! Stay inside."
+  },
+  {
+    "id": "say-d2435d66a1c1",
+    "text": "Four sheep! Well done!"
+  },
+  {
+    "id": "say-87ad4e3e349d",
+    "text": "Here is your coat!"
+  },
+  {
+    "id": "say-21ee4506363f",
+    "text": "These are your father's pants."
+  },
+  {
+    "id": "say-e0b84a13ecb4",
+    "text": "These are Chen Jie's socks."
+  },
+  {
+    "id": "say-2f5ff8b1dfd2",
+    "text": "Of course! Try them on."
+  },
+  {
+    "id": "say-55e8c3cf9f23",
+    "text": "Try size six."
+  },
+  {
+    "id": "say-c18b222873af",
+    "text": "They look nice!"
+  },
+  {
+    "id": "say-98e2760c2124",
+    "text": "Choose something within your budget."
+  },
+  {
+    "id": "say-3cb187b22385",
+    "text": "Ten dollars. Here you are!"
+  },
+  {
+    "id": "say-55653acd6a51",
+    "text": "What is it time for?"
+  },
+  {
+    "id": "say-c353efb37ac3",
+    "text": "How many sheep are there?"
+  },
+  {
+    "id": "say-9d4304bfe55f",
+    "text": "How do the shoes fit?"
+  },
+  {
+    "id": "say-4d3d9e56deb6",
+    "text": "How do the shoes fit now?"
+  },
+  {
+    "id": "say-016062b5ee3e",
+    "text": "This skirt is pretty. Do you want to know the price?"
+  },
+  {
+    "id": "say-976d807a0fe8",
+    "text": "It's eighty-nine dollars. How do you like it?"
+  },
+  {
+    "id": "say-0ec76730e2c7",
+    "text": "Can I try them on?"
+  },
+  {
+    "id": "say-fce629d17563",
+    "text": "They're just right."
+  },
+  {
+    "id": "say-d7f0880dac1b",
+    "text": "It's expensive."
+  },
+  {
+    "id": "say-f27c365d5ff3",
+    "text": "cash register"
+  },
+  {
+    "id": "say-071e6fbf6d00",
+    "text": "one o'clock"
+  },
+  {
+    "id": "say-639d658de4f1",
+    "text": "It's one o'clock."
+  },
+  {
+    "id": "say-4a27719e4430",
+    "text": "one thirty"
+  },
+  {
+    "id": "say-b1ee088b49fb",
+    "text": "It's one thirty."
+  },
+  {
+    "id": "say-a5b5cc4d9019",
+    "text": "two o'clock"
+  },
+  {
+    "id": "say-c0301495c7bd",
+    "text": "It's two o'clock."
+  },
+  {
+    "id": "say-e82afdd22cc0",
+    "text": "two thirty"
+  },
+  {
+    "id": "say-808671288171",
+    "text": "It's two thirty."
+  },
+  {
+    "id": "say-235790fb221f",
+    "text": "three o'clock"
+  },
+  {
+    "id": "say-400b1333b901",
+    "text": "It's three o'clock."
+  },
+  {
+    "id": "say-fe8b93793a70",
+    "text": "three thirty"
+  },
+  {
+    "id": "say-1f471367b1a0",
+    "text": "It's three thirty."
+  },
+  {
+    "id": "say-0e976b11d6d8",
+    "text": "four o'clock"
+  },
+  {
+    "id": "say-bbd15416ffda",
+    "text": "It's four o'clock."
+  },
+  {
+    "id": "say-b7c1189b6538",
+    "text": "four thirty"
+  },
+  {
+    "id": "say-ad0ba00f0b22",
+    "text": "It's four thirty."
+  },
+  {
+    "id": "say-9189967874df",
+    "text": "five o'clock"
+  },
+  {
+    "id": "say-ac3fb72b5dbf",
+    "text": "It's five o'clock."
+  },
+  {
+    "id": "say-473dd48fd7b0",
+    "text": "five thirty"
+  },
+  {
+    "id": "say-7c1420e0881f",
+    "text": "It's five thirty."
+  },
+  {
+    "id": "say-edd701639194",
+    "text": "six o'clock"
+  },
+  {
+    "id": "say-c2c0a0b7e857",
+    "text": "six thirty"
+  },
+  {
+    "id": "say-0cce8710aff6",
+    "text": "It's six thirty."
+  },
+  {
+    "id": "say-b62eed145fc1",
+    "text": "seven o'clock"
+  },
+  {
+    "id": "say-984cb4c5e6eb",
+    "text": "seven thirty"
+  },
+  {
+    "id": "say-9b6455d88c9f",
+    "text": "eight o'clock"
+  },
+  {
+    "id": "say-884726ec2a9b",
+    "text": "It's eight o'clock."
+  },
+  {
+    "id": "say-fee114362d03",
+    "text": "eight thirty"
+  },
+  {
+    "id": "say-5ff22fef0873",
+    "text": "It's eight thirty."
+  },
+  {
+    "id": "say-5f3c120a7f17",
+    "text": "nine o'clock"
+  },
+  {
+    "id": "say-5a94fc1266c5",
+    "text": "nine thirty"
+  },
+  {
+    "id": "say-0680a3802f16",
+    "text": "It's nine thirty."
+  },
+  {
+    "id": "say-bf8ce90173c9",
+    "text": "ten o'clock"
+  },
+  {
+    "id": "say-d92f8d5a0bf3",
+    "text": "ten thirty"
+  },
+  {
+    "id": "say-529e5f00d36f",
+    "text": "It's ten thirty."
+  },
+  {
+    "id": "say-cec994c09b15",
+    "text": "eleven o'clock"
+  },
+  {
+    "id": "say-d46840663ea7",
+    "text": "eleven thirty"
+  },
+  {
+    "id": "say-591ebb580a19",
+    "text": "It's eleven thirty."
+  },
+  {
+    "id": "say-96877b81e989",
+    "text": "twelve o'clock"
+  },
+  {
+    "id": "say-4eac86e2bb10",
+    "text": "twelve thirty"
+  },
+  {
+    "id": "say-585f31370cdb",
+    "text": "It's twelve thirty."
+  },
+  {
+    "id": "say-f36048062006",
+    "text": "umbrella. 10 dollars."
+  },
+  {
+    "id": "say-b1eed5ad9086",
+    "text": "scarf. 5 dollars."
+  },
+  {
+    "id": "say-362fb4f2c8c7",
+    "text": "gloves. 8 dollars."
+  },
+  {
+    "id": "say-6df908ea3695",
+    "text": "sunglasses. 15 dollars."
+  },
+  {
+    "id": "say-f102a15de4ed",
+    "text": "skirt. 89 dollars."
+  },
+  {
+    "id": "say-5aade22e17df",
+    "text": "It is ten dollars."
+  },
+  {
+    "id": "say-00b065787cf4",
+    "text": "I'd like some beef and vegetables, please."
+  },
+  {
+    "id": "say-69f3fb19ec97",
+    "text": "I'd like some noodles and chicken, please."
+  },
+  {
+    "id": "say-dbad476ca3e2",
+    "text": "I'd like some noodles and soup, please."
+  },
+  {
+    "id": "say-962b74827b06",
+    "text": "Here is your fork!"
+  },
+  {
+    "id": "say-61334dc92f7b",
+    "text": "What's her name?"
+  },
+  {
+    "id": "say-0913fb8b10cc",
+    "text": "Dinner's ready!"
+  },
+  {
+    "id": "say-bfef58dbef54",
+    "text": "Let me clean the blackboard."
+  },
+  {
+    "id": "say-6deb1edacbd8",
+    "text": "Let me clean the floor."
+  },
+  {
+    "id": "say-5cb291c0607d",
+    "text": "We have a blackboard and a computer."
+  },
+  {
+    "id": "say-6c889f9e649e",
+    "text": "Where is the picture?"
+  },
+  {
+    "id": "say-adfd1e7edff7",
+    "text": "What colour is your schoolbag?"
+  },
+  {
+    "id": "say-82f0336b90a1",
+    "text": "An English book and a maths book."
+  },
+  {
+    "id": "say-cb7b312ce436",
+    "text": "Tell me about John."
+  },
+  {
+    "id": "say-ee9f5a840ad5",
+    "text": "Is Amy in the living room?"
+  },
+  {
+    "id": "say-6b549e95be9b",
+    "text": "Where is Amy?"
+  },
+  {
+    "id": "say-3f16d90df789",
+    "text": "Are the keys on the table?"
+  },
+  {
+    "id": "say-c05a36d547e2",
+    "text": "Yes, please."
+  },
+  {
+    "id": "say-5732b40d97af",
+    "text": "What do you need?"
+  },
+  {
+    "id": "say-33421c247f92",
+    "text": "What's your father's job?"
+  },
+  {
+    "id": "say-f1e7150bdb24",
+    "text": "He's a doctor."
+  },
+  {
+    "id": "say-86b8da697c4d",
+    "text": "schoolboy"
+  },
+  {
+    "id": "say-f977e7b39ac1",
+    "text": "schoolgirl"
+  },
+  {
+    "id": "say-c7c808b8426b",
+    "text": "blackbird"
+  },
+  {
+    "id": "say-be8ec20d52fd",
+    "text": "Sarah"
+  },
+  {
+    "id": "say-33d3afcc391c",
+    "text": "Binbin"
+  },
+  {
+    "id": "say-6cb7d83e7ffa",
+    "text": "Amy. I'm from the UK."
+  },
+  {
+    "id": "say-c28ecd00e829",
+    "text": "Mike. I'm from Canada."
+  },
+  {
+    "id": "say-46de70cbf875",
+    "text": "Sarah. I'm from the USA."
+  },
+  {
+    "id": "say-73b224f09345",
+    "text": "Binbin. I'm from China."
+  },
+  {
+    "id": "say-938cc2d3e83c",
+    "text": "Who is your new friend?"
+  },
+  {
+    "id": "say-7ecfe72daab8",
+    "text": "Who is your teacher?"
+  },
+  {
+    "id": "say-62c39626760f",
+    "text": "This is Mr Jones. He's a teacher."
+  },
+  {
+    "id": "say-ea998a33495d",
+    "text": "Is he your father?"
+  },
+  {
+    "id": "say-04595ef8f952",
+    "text": "No, he isn't."
+  },
+  {
+    "id": "say-85f291537e4e",
+    "text": "Look at the elephant!"
+  },
+  {
+    "id": "say-275f5d6659d0",
+    "text": "Is the cap in the box?"
+  },
+  {
+    "id": "say-c1312e8c915d",
+    "text": "Is the car under the chair?"
+  },
+  {
+    "id": "say-4b3b90d0a223",
+    "text": "What fruit do you like?"
+  },
+  {
+    "id": "say-a833d0448920",
+    "text": "How many kites do you have?"
+  },
+  {
+    "id": "say-c4deb9e23b24",
+    "text": "How many bananas do you see?"
+  },
+  {
+    "id": "say-9c05bb0241cb",
+    "text": "How many grapes do you have?"
+  },
+  {
+    "id": "say-f5da25704af3",
+    "text": "explorer"
+  },
+  {
+    "id": "say-980a047f2126",
+    "text": "puppet"
+  },
+  {
+    "id": "say-77a95648a015",
+    "text": "bush"
+  },
+  {
+    "id": "say-112f3a99b283",
+    "text": "flag"
+  },
+  {
+    "id": "say-7aa020f7ef6a",
+    "text": "candle"
+  },
+  {
+    "id": "say-c25ba4eb659c",
+    "text": "five friends"
+  },
+  {
+    "id": "say-8b9c4b13a6f2",
+    "text": "See you!"
+  },
+  {
+    "id": "say-9a8c206acb96",
+    "text": "Great! Let’s make a puppet!"
+  },
+  {
+    "id": "say-d04f52b50bbe",
+    "text": "Wave your arms."
+  },
+  {
+    "id": "say-6500e3e546a8",
+    "text": "Clap your hands."
+  },
+  {
+    "id": "say-67b3d0415bd8",
+    "text": "Stamp your foot."
+  },
+  {
+    "id": "say-f0291d3ddc5e",
+    "text": "I'd like some rice and water, please."
+  },
+  {
+    "id": "say-27948232cdc7",
+    "text": "I'd like some bread and juice, please."
+  },
+  {
+    "id": "say-d887b4843a01",
+    "text": "I'd like some fish and milk, please."
+  },
+  {
+    "id": "say-51849e831431",
+    "text": "I'd like some egg and water, please."
+  },
+  {
+    "id": "say-19e6ab4b980a",
+    "text": "I'd like some cake and milk, please."
+  },
+  {
+    "id": "say-50861f919c0b",
+    "text": "Great! You have a pencil."
+  },
+  {
+    "id": "say-a291c6da7d7b",
+    "text": "A pencil is in your bag!"
+  },
+  {
+    "id": "say-96d0706ccf67",
+    "text": "Great! You have a ruler."
+  },
+  {
+    "id": "say-1c765e7f2000",
+    "text": "A ruler is in your bag!"
+  },
+  {
+    "id": "say-924fa9b3525c",
+    "text": "Great! You have an eraser."
+  },
+  {
+    "id": "say-2e77a8ef1876",
+    "text": "An eraser is in your bag!"
+  },
+  {
+    "id": "say-7ee758cdaef1",
+    "text": "Great! You have a crayon."
+  },
+  {
+    "id": "say-d2ef502387ec",
+    "text": "A crayon is in your bag!"
+  },
+  {
+    "id": "say-3ab5c1c461b5",
+    "text": "Great! You have a book."
+  },
+  {
+    "id": "say-3ff5beb8ce38",
+    "text": "A book is in your bag!"
+  },
+  {
+    "id": "say-aea406761321",
+    "text": "Great! You have a pencil box."
+  },
+  {
+    "id": "say-ec3b5e242abf",
+    "text": "A pencil box is in your bag!"
+  },
+  {
+    "id": "say-657bea4ca854",
+    "text": "Great! You have a pen."
+  },
+  {
+    "id": "say-d644778e4933",
+    "text": "A pen is in your bag!"
+  },
+  {
+    "id": "say-428fe80922e9",
+    "text": "Yes! I see red, too."
+  },
+  {
+    "id": "say-cb280b1bf336",
+    "text": "Yes! I see green, too."
+  },
+  {
+    "id": "say-67d0882d7171",
+    "text": "Yes! I see yellow, too."
+  },
+  {
+    "id": "say-354136e70d7a",
+    "text": "Yes! I see blue, too."
+  },
+  {
+    "id": "say-a1029ba84262",
+    "text": "Yes! I see black, too."
+  },
+  {
+    "id": "say-8d7a7d3dc351",
+    "text": "Yes! I see brown, too."
+  },
+  {
+    "id": "say-dba61a1c18fc",
+    "text": "Yes! I see white, too."
+  },
+  {
+    "id": "say-fb8ac893bbcf",
+    "text": "Yes! I see orange, too."
+  },
+  {
+    "id": "say-e570e96867cd",
+    "text": "Great! Let’s move the head."
+  },
+  {
+    "id": "say-096ef205cabb",
+    "text": "This is the head."
+  },
+  {
+    "id": "say-83afb2e9157b",
+    "text": "Great! Let’s move the body."
+  },
+  {
+    "id": "say-7c6673c4fbb1",
+    "text": "This is the body."
+  },
+  {
+    "id": "say-2206d62f1ccf",
+    "text": "Great! Let’s move the arm."
+  },
+  {
+    "id": "say-d61257714bea",
+    "text": "This is the arm."
+  },
+  {
+    "id": "say-d0cb5d8d5909",
+    "text": "Great! Let’s move the leg."
+  },
+  {
+    "id": "say-e57752364680",
+    "text": "This is the leg."
+  },
+  {
+    "id": "say-f3d61ca7c470",
+    "text": "Great! Let’s move the face."
+  },
+  {
+    "id": "say-53cb3e5b1d3c",
+    "text": "This is the face."
+  },
+  {
+    "id": "say-411e48aa13d7",
+    "text": "Great! Let’s move the ear."
+  },
+  {
+    "id": "say-85e49ac72b47",
+    "text": "This is the ear."
+  },
+  {
+    "id": "say-87b78d6101e7",
+    "text": "Great! Let’s move the eye."
+  },
+  {
+    "id": "say-9a296ab4f620",
+    "text": "This is the eye."
+  },
+  {
+    "id": "say-b8451911ec36",
+    "text": "Great! Let’s move the nose."
+  },
+  {
+    "id": "say-1d1909cf9bb9",
+    "text": "This is the nose."
+  },
+  {
+    "id": "say-40353a98ec88",
+    "text": "Great! Let’s move the mouth."
+  },
+  {
+    "id": "say-64545a127361",
+    "text": "This is the mouth."
+  },
+  {
+    "id": "say-d9b79c940213",
+    "text": "Great! Let’s move the hand."
+  },
+  {
+    "id": "say-09238e6b2647",
+    "text": "This is the hand."
+  },
+  {
+    "id": "say-d04bd39eb880",
+    "text": "Great! Let’s move the foot."
+  },
+  {
+    "id": "say-d26b29a7dd45",
+    "text": "This is the foot."
+  },
+  {
+    "id": "say-bf89b758a16f",
+    "text": "Here you are, Fox!"
+  },
+  {
+    "id": "say-3b7ee60580c5",
+    "text": "Here you are, Cat!"
+  },
+  {
+    "id": "say-7562639c51f4",
+    "text": "Here you are, Bird!"
+  },
+  {
+    "id": "say-bb3c5f43e642",
+    "text": "Here you are, Panda!"
+  },
+  {
+    "id": "say-5ad9744eb731",
+    "text": "Here you are, Monkey!"
+  },
+  {
+    "id": "say-1ea0f079546c",
+    "text": "Here you are, Tiger!"
+  },
+  {
+    "id": "say-1f8ad762742b",
+    "text": "Here you are, Duck!"
+  },
+  {
+    "id": "say-efc75a462c8b",
+    "text": "Here you are, Bear!"
+  },
+  {
+    "id": "say-3757c0e16c60",
+    "text": "Here you are! Have some milk."
+  },
+  {
+    "id": "say-f1e4ce0fa924",
+    "text": "Here you are! Have some juice."
+  },
+  {
+    "id": "say-89b7345b2942",
+    "text": "Here you are! Have some water."
+  },
+  {
+    "id": "say-aa8c41330509",
+    "text": "zero"
+  },
+  {
+    "id": "say-c5b3ef6fb911",
+    "text": "How many plates? zero."
+  },
+  {
+    "id": "say-cc764c59c1d9",
+    "text": "zero years old."
+  },
+  {
+    "id": "say-5eae2417170d",
+    "text": "I'm zero years old!"
+  },
+  {
+    "id": "say-60e5f1c8598d",
+    "text": "You’re zero! Thank you!"
+  },
+  {
+    "id": "say-8fee9ca16b9d",
+    "text": "How many plates? one."
+  },
+  {
+    "id": "say-5787cd514d16",
+    "text": "one years old."
+  },
+  {
+    "id": "say-4316eface56f",
+    "text": "I'm one years old!"
+  },
+  {
+    "id": "say-b0b4eafe95db",
+    "text": "You’re one! Thank you!"
+  },
+  {
+    "id": "say-ba9bce9fba5f",
+    "text": "How many plates? two."
+  },
+  {
+    "id": "say-0389b9e7ee55",
+    "text": "two years old."
+  },
+  {
+    "id": "say-4441c480af36",
+    "text": "I'm two years old!"
+  },
+  {
+    "id": "say-378b3f3d6b3e",
+    "text": "You’re two! Thank you!"
+  },
+  {
+    "id": "say-7408163d39df",
+    "text": "How many plates? three."
+  },
+  {
+    "id": "say-3f16a130383b",
+    "text": "three years old."
+  },
+  {
+    "id": "say-f056a691caae",
+    "text": "I'm three years old!"
+  },
+  {
+    "id": "say-cc089686a666",
+    "text": "You’re three! Thank you!"
+  },
+  {
+    "id": "say-0f23cd30c2db",
+    "text": "How many plates? four."
+  },
+  {
+    "id": "say-b99d133fe862",
+    "text": "four years old."
+  },
+  {
+    "id": "say-57f8ec2c8c3f",
+    "text": "I'm four years old!"
+  },
+  {
+    "id": "say-5e369ef1239c",
+    "text": "You’re four! Thank you!"
+  },
+  {
+    "id": "say-d942c0c9da7a",
+    "text": "five years old."
+  },
+  {
+    "id": "say-2e45d61dd94d",
+    "text": "I'm five years old!"
+  },
+  {
+    "id": "say-dd480fd43deb",
+    "text": "You’re five! Thank you!"
+  },
+  {
+    "id": "say-a017d2df3569",
+    "text": "How many plates? six."
+  },
+  {
+    "id": "say-551cff064907",
+    "text": "six years old."
+  },
+  {
+    "id": "say-387f28ba0a16",
+    "text": "You’re six! Thank you!"
+  },
+  {
+    "id": "say-3531bfeced3c",
+    "text": "How many plates? seven."
+  },
+  {
+    "id": "say-dd5c5fe7e91b",
+    "text": "seven years old."
+  },
+  {
+    "id": "say-fc0536d00003",
+    "text": "I'm seven years old!"
+  },
+  {
+    "id": "say-cc917d59edf0",
+    "text": "You’re seven! Thank you!"
+  },
+  {
+    "id": "say-9372fe51d429",
+    "text": "How many plates? eight."
+  },
+  {
+    "id": "say-38d433e88d8f",
+    "text": "eight years old."
+  },
+  {
+    "id": "say-645bd282a8b6",
+    "text": "You’re eight! Thank you!"
+  },
+  {
+    "id": "say-689d1bcf0f46",
+    "text": "How many plates? nine."
+  },
+  {
+    "id": "say-4f8c687dd3de",
+    "text": "nine years old."
+  },
+  {
+    "id": "say-b2fce8fa8c06",
+    "text": "I'm nine years old!"
+  },
+  {
+    "id": "say-9e9784788d60",
+    "text": "You’re nine! Thank you!"
+  },
+  {
+    "id": "say-5d55dd4bbbb4",
+    "text": "How many plates? ten."
+  },
+  {
+    "id": "say-278aa2e1c78e",
+    "text": "ten years old."
+  },
+  {
+    "id": "say-6e0eb881af66",
+    "text": "I'm ten years old!"
+  },
+  {
+    "id": "say-2ba91a5f3501",
+    "text": "You’re ten! Thank you!"
+  },
+  {
+    "id": "say-576a935a0915",
+    "text": "How many plates? eleven."
+  },
+  {
+    "id": "say-91ac7e058efa",
+    "text": "eleven years old."
+  },
+  {
+    "id": "say-0d4e9e56f284",
+    "text": "I'm eleven years old!"
+  },
+  {
+    "id": "say-4be856df13b6",
+    "text": "You’re eleven! Thank you!"
+  },
+  {
+    "id": "say-eade05230b25",
+    "text": "How many plates? twelve."
+  },
+  {
+    "id": "say-c645468939bc",
+    "text": "twelve years old."
+  },
+  {
+    "id": "say-b47191349b0a",
+    "text": "I'm twelve years old!"
+  },
+  {
+    "id": "say-fa01dbebbe54",
+    "text": "You’re twelve! Thank you!"
+  },
+  {
+    "id": "say-71d035690ca3",
+    "text": "How many plates? thirteen."
+  },
+  {
+    "id": "say-5d49ee154354",
+    "text": "thirteen years old."
+  },
+  {
+    "id": "say-188595a768dd",
+    "text": "I'm thirteen years old!"
+  },
+  {
+    "id": "say-d8caefaf6a4a",
+    "text": "You’re thirteen! Thank you!"
+  },
+  {
+    "id": "say-cb86fc30fec2",
+    "text": "How many plates? fourteen."
+  },
+  {
+    "id": "say-9485d2c8ecc3",
+    "text": "fourteen years old."
+  },
+  {
+    "id": "say-15221e12f447",
+    "text": "I'm fourteen years old!"
+  },
+  {
+    "id": "say-4135e183a39b",
+    "text": "You’re fourteen! Thank you!"
+  },
+  {
+    "id": "say-e7f6108c820c",
+    "text": "How many plates? fifteen."
+  },
+  {
+    "id": "say-93cce2a92e8b",
+    "text": "fifteen years old."
+  },
+  {
+    "id": "say-563cbb594cae",
+    "text": "I'm fifteen years old!"
+  },
+  {
+    "id": "say-4d3528974bb3",
+    "text": "You’re fifteen! Thank you!"
+  },
+  {
+    "id": "say-bdd2f7eee83c",
+    "text": "How many plates? sixteen."
+  },
+  {
+    "id": "say-e1966a5b5822",
+    "text": "sixteen years old."
+  },
+  {
+    "id": "say-ed819565cf27",
+    "text": "I'm sixteen years old!"
+  },
+  {
+    "id": "say-81e77d04f6f0",
+    "text": "You’re sixteen! Thank you!"
+  },
+  {
+    "id": "say-1d6c269f2a1f",
+    "text": "How many plates? seventeen."
+  },
+  {
+    "id": "say-a0c4be1b222d",
+    "text": "seventeen years old."
+  },
+  {
+    "id": "say-6ab919ebe41f",
+    "text": "I'm seventeen years old!"
+  },
+  {
+    "id": "say-e3efb970ada7",
+    "text": "You’re seventeen! Thank you!"
+  },
+  {
+    "id": "say-93749816ddf2",
+    "text": "How many plates? eighteen."
+  },
+  {
+    "id": "say-870661d104ee",
+    "text": "eighteen years old."
+  },
+  {
+    "id": "say-f5753b7c5ec2",
+    "text": "I'm eighteen years old!"
+  },
+  {
+    "id": "say-2600ceb4c84c",
+    "text": "You’re eighteen! Thank you!"
+  },
+  {
+    "id": "say-fbe299d9a42c",
+    "text": "How many plates? nineteen."
+  },
+  {
+    "id": "say-d1caa59d2e77",
+    "text": "nineteen years old."
+  },
+  {
+    "id": "say-1bf5054b75df",
+    "text": "I'm nineteen years old!"
+  },
+  {
+    "id": "say-a7cb7ffc2015",
+    "text": "You’re nineteen! Thank you!"
+  },
+  {
+    "id": "say-0f781186ec27",
+    "text": "How many plates? twenty."
+  },
+  {
+    "id": "say-ed93dc6652b6",
+    "text": "twenty years old."
+  },
+  {
+    "id": "say-e109a1d26aff",
+    "text": "I'm twenty years old!"
+  },
+  {
+    "id": "say-2863ed6de8c7",
+    "text": "You’re twenty! Thank you!"
+  },
+  {
+    "id": "say-e9d71f5ee7c9",
+    "text": "B",
+    "letter": true
+  },
+  {
+    "id": "say-84a516841ba7",
+    "text": "C",
+    "letter": true
+  },
+  {
+    "id": "say-3c363836cf4e",
+    "text": "D",
+    "letter": true
+  },
+  {
+    "id": "say-4a0a19218e08",
+    "text": "F",
+    "letter": true
+  },
+  {
+    "id": "say-54fd1711209f",
+    "text": "G",
+    "letter": true
+  },
+  {
+    "id": "say-5c2dd944dde9",
+    "text": "J",
+    "letter": true
+  },
+  {
+    "id": "say-07c342be6e56",
+    "text": "L",
+    "letter": true
+  },
+  {
+    "id": "say-6b0d31c0d563",
+    "text": "M",
+    "letter": true
+  },
+  {
+    "id": "say-d1854cae891e",
+    "text": "N",
+    "letter": true
+  },
+  {
+    "id": "say-7a81af3e591a",
+    "text": "O",
+    "letter": true
+  },
+  {
+    "id": "say-516b9783fca5",
+    "text": "P",
+    "letter": true
+  },
+  {
+    "id": "say-22ea1c649c82",
+    "text": "Q",
+    "letter": true
+  },
+  {
+    "id": "say-4dc7c9ec434e",
+    "text": "R",
+    "letter": true
+  },
+  {
+    "id": "say-a0f1490a20d0",
+    "text": "S",
+    "letter": true
+  },
+  {
+    "id": "say-8efd86fb78a5",
+    "text": "T",
+    "letter": true
+  },
+  {
+    "id": "say-51e69892ab49",
+    "text": "U",
+    "letter": true
+  },
+  {
+    "id": "say-7a38d8cbd20d",
+    "text": "V",
+    "letter": true
+  },
+  {
+    "id": "say-aff024fe4ab0",
+    "text": "W",
+    "letter": true
+  },
+  {
+    "id": "say-11f6ad8ec52a",
+    "text": "X",
+    "letter": true
+  },
+  {
+    "id": "say-95cb0bfd2977",
+    "text": "Y",
+    "letter": true
+  },
+  {
+    "id": "say-395df8f7c51f",
+    "text": "Z",
+    "letter": true
+  }
+]
