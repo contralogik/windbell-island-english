@@ -3,7 +3,7 @@ import {createAdventure,restoreProgress,goals,canEnter,SAVE_KEY} from './engine.
 import {LocalRecorder,transcribe,saveRecording,allRecordings,deleteRecording,browserSpeechMode,prepareBrowserSpeech} from './speech.js';
 import {SITE_CONFIG} from './site-config.js';
 import {PROGRESS_BACKUP_KEY,progressFile,readProgressFile} from './progress-transfer.js';
-let pendingProgressImport=null;
+let pendingProgressImport=null,progressExportURL=null;
 import {audioKey,practiceExpressions} from './pronunciation.js';
 import {BOOKS,chaptersForBook} from './curriculum.js';
 import {makeLowerScene,LOWER_ITEMS,LOWER_PEOPLE} from './scenes-lower.js';
@@ -368,7 +368,10 @@ $('#prepare-speech').addEventListener('click',async()=>{
   const clip=pronunciationBank.get(audioKey('I have a ruler.'));const response=await fetch(clip);if(!response.ok)throw new Error('示范音频没有加载成功。');voiceStatus('正在设备上识别示范音频，不使用麦克风…','preparing');const result=await transcribe(await response.blob());button.dataset.speechState='ready';voiceStatus(`识别测试：${result.text||'未识别出文字'} · 可开始录音，回听后确认文字`,'ready');
  }catch(error){button.dataset.speechState='error';voiceStatus(error.message,'error');}finally{button.disabled=false;}
 });
-$('#progress-export').addEventListener('click',()=>{const blob=new Blob([progressFile(game.snapshot())],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='windbell-progress-'+new Date().toISOString().slice(0,10)+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);$('#progress-transfer-status').textContent='进度已导出。可以在另一网址或设备导入；录音请在录音册下载。';});
+$('#progress-export').addEventListener('click',()=>{if(progressExportURL)URL.revokeObjectURL(progressExportURL);const blob=new Blob([progressFile(game.snapshot())],{type:'application/json'});progressExportURL=URL.createObjectURL(blob);const a=$('#progress-download');a.href=progressExportURL;a.download='windbell-progress-'+new Date().toISOString().slice(0,10)+'.json';a.hidden=false;$('#progress-show-text').hidden=false;a.click();$('#progress-transfer-status').textContent='进度备份已生成；若没有自动下载，可点“下载进度备份”。可以在另一网址或设备导入；录音请在录音册下载。';});
+$('#progress-show-text').addEventListener('click',()=>{$('#progress-text-title').textContent='游戏进度备份';$('#progress-text-help').textContent='浏览器没有下载文件时，可全选、复制这里的备份文本。另一台设备打开教材地图，选择“粘贴进度”导入。文本不包含录音。';$('#progress-text').value=progressFile(game.snapshot());$('#progress-text').readOnly=true;$('#confirm-progress-paste').hidden=true;$('#progress-text-dialog').showModal();});
+$('#progress-paste').addEventListener('click',()=>{$('#progress-text-title').textContent='粘贴游戏进度';$('#progress-text-help').textContent='粘贴原设备导出的完整进度文本，再读取并验证。';$('#progress-text').value='';$('#progress-text').readOnly=false;$('#confirm-progress-paste').hidden=false;$('#progress-text-dialog').showModal();});
+$('#confirm-progress-paste').addEventListener('click',()=>{try{pendingProgressImport=readProgressFile($('#progress-text').value);$('#progress-text-dialog').close();$('#import-progress-description').textContent=`读取到 ${pendingProgressImport.completed.length} 个有效通关记录。导入会替换当前游戏进度，录音册保留；之后可恢复导入前的进度。`;$('#import-progress-dialog').showModal();}catch(error){$('#progress-text-help').textContent=error.message;}});
 $('#progress-import').addEventListener('click',()=>$('#progress-file').click());
 $('#progress-file').addEventListener('change',async event=>{const file=event.target.files[0];if(!file)return;try{if(file.size>4*1024*1024)throw new Error('请选择小于 4 MB 的进度文件。');pendingProgressImport=readProgressFile(await file.text());$('#import-progress-description').textContent=`读取到 ${pendingProgressImport.completed.length} 个有效通关记录。导入会替换当前游戏进度，录音册保留；之后可恢复导入前的进度。`;$('#import-progress-dialog').showModal();}catch(error){$('#progress-transfer-status').textContent=error.message;}finally{event.target.value='';}});
 function applyImportedProgress(data){const trial=game.state().trial;cancelVoice();game=createAdventure(data,handleEvent,trial);handleEvent({type:'chapter'});mapBook=game.state().chapter.book;renderMap();$('#progress-restore').hidden=false;}
