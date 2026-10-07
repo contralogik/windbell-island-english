@@ -1,6 +1,6 @@
 import {CHAPTERS,COLORS,CHINESE,STATIONERY,ANIMALS,FOOD,PARTS,MOVES,ORDERS,FESTIVAL_ORDERS,NUMBERS,dialogue} from './curriculum.js';
 import {createAdventure,restoreProgress,goals,canEnter,SAVE_KEY} from './engine.js';
-import {LocalRecorder,transcribe,saveRecording,allRecordings,deleteRecording,browserSpeechMode,prepareBrowserSpeech} from './speech.js';
+import {LocalRecorder,transcribe,saveRecording,allRecordings,deleteRecording,browserSpeechMode,prepareBrowserSpeech} from './speech.js?v=20261007';
 import {SITE_CONFIG} from './site-config.js';
 import {PROGRESS_BACKUP_KEY,progressFile,readProgressFile} from './progress-transfer.js';
 let pendingProgressImport=null,progressExportURL=null;
@@ -29,13 +29,15 @@ const bookName=book=>BOOKS.find(b=>b.id===book)?.name||'探险';
 let saved,initialTrial=false;try{saved=JSON.parse(localStorage.getItem(SAVE_KEY)||'null');initialTrial=localStorage.getItem('windbell-trial-v2')==='true';}catch{}
 let game=createAdventure(saved,handleEvent,initialTrial);
 if(game.state().chapter.book!=='upper')player={x:70,y:500};
-const recorder=new LocalRecorder(voiceStatus,handleTake);
+const recorder=new LocalRecorder(voiceStatus,handleTake,microphoneLevel);
 const pronunciationBank=new Map();let speechTicket=0,speakingElement=null;
 const node=()=>{const s=game.state();return dialogue(s.chapter.id,s.lesson,s.profile);};
 function save(){try{localStorage.setItem(SAVE_KEY,JSON.stringify(game.snapshot()));$('#save-status').textContent='进度自动保存';}catch{$('#save-status').textContent='存储已满，进度暂未保存';}}
 function toast(text,seconds=3.5){$('#toast').innerHTML=String(text).split(/([A-Za-z][A-Za-z0-9’'.,!? -]*)/g).map((part,index)=>index%2?sayButton(part.trim(),part):esc(part)).join('');$('#toast').hidden=false;toastUntil=performance.now()+seconds*1000;}
 function tone(success=false){if(!soundOn)return;try{const ctx=new AudioContext();const osc=ctx.createOscillator(),gain=ctx.createGain();osc.frequency.value=success?660:440;gain.gain.setValueAtTime(.025,ctx.currentTime);gain.gain.exponentialRampToValueAtTime(.001,ctx.currentTime+.15);osc.connect(gain).connect(ctx.destination);osc.start();osc.stop(ctx.currentTime+.16);osc.onended=()=>ctx.close();}catch{}}
-function voiceStatus(text,status){$('#voice-status').textContent=text;const recording=status==='recording';$('#record-button').classList.toggle('recording',recording);$('#record-button span').textContent=recording?'停止录音':'开始录音';$('#record-button').disabled=status==='pending'||status==='preparing';}
+function voiceStatus(text,status){$('#voice-status').textContent=text;const recording=status==='recording',wasRecording=$('#record-button').classList.contains('recording');$('#record-button').classList.toggle('recording',recording);$('#record-button span').textContent=recording?'停止录音':'开始录音';$('#record-button').disabled=status==='pending'||status==='preparing';$('#mic-device').disabled=recording||status==='pending';if(recording&&!wasRecording)refreshMicrophones();}
+async function refreshMicrophones(){try{const devices=(await navigator.mediaDevices.enumerateDevices()).filter(d=>d.kind==='audioinput'),select=$('#mic-device'),selected=select.value;select.innerHTML='<option value="">系统默认麦克风</option>'+devices.filter(d=>d.deviceId!=='default'&&d.deviceId!=='communications').map((d,i)=>`<option value="${esc(d.deviceId)}">${esc(d.label||`麦克风 ${i+1}`)}</option>`).join('');if([...select.options].some(o=>o.value===selected))select.value=selected;}catch{}}
+function microphoneLevel(data){const meter=$('#mic-meter');meter.hidden=!data;if(!data)return;$('#mic-level').value=data.level||0;const message=data.unavailable?'音量检测不可用，录音仍可回听':data.rms>=.0008?'麦克风收到声音':data.seconds<1.2?'正在检测麦克风…':'没有收到声音，请检查麦克风';$('#mic-level-label').textContent=message;meter.dataset.signal=data.rms>=.0008?'sound':'quiet';}
 function handleEvent(event){
  if(!loaded)return;
  if(event.type==='feedback'){toast(event.text);if(event.success)tone(true);}
@@ -253,7 +255,7 @@ function loop(time){const dt=Math.min((time-lastTime)/1000||0,.25);lastTime=time
 
 async function handleTake(record,token){
  if(token!==recorder.generation)return;clearTake();take=record;takeURL=URL.createObjectURL(record.blob);$('#take-audio').src=takeURL;$('#take-panel').hidden=false;$('#transcript').value='';$('#send-button').disabled=true;requestController=new AbortController();const pendingTake=take;
- try{const data=await transcribe(record.blob,requestController.signal,p=>{if(take===pendingTake)voiceStatus(p.percent===null?'正在准备设备上的英语识别，录音不会上传…':`正在下载英语识别组件 · 本部分 ${p.percent}%`,'transcribing');});if(take!==pendingTake)return;take.text=data.text;take.originalText=data.text;$('#transcript').value=data.text;voiceStatus(data.text?(data.uncertain?'识别可能不准，请回听并确认文字。':'请确认文字，再发送给角色。识别文字不代表发音评分。'):'没有听清英语。请回听、重录，或改正文字。','ready');}
+ try{const data=await transcribe(record.blob,requestController.signal,p=>{if(take===pendingTake)voiceStatus(p.percent===null?'正在准备设备上的英语识别，录音不会上传…':`正在下载英语识别组件 · 本部分 ${p.percent}%`,'transcribing');});if(take!==pendingTake)return;take.text=data.text;take.originalText=data.text;$('#transcript').value=data.text;voiceStatus(data.message||(data.text?(data.uncertain?'识别可能不准，请回听并确认文字。':'请确认文字，再发送给角色。识别文字不代表发音评分。'):'没有听清英语。请回听、重录，或改正文字。'),data.reason==='no-sound'?'error':'ready');}
  catch(e){if(e.name==='AbortError')return;if(take===pendingTake)voiceStatus(e.message+' 录音仍可保存和回听。','error');}
  finally{if(take===pendingTake){$('#send-button').disabled=false;requestController=null;}}
 }
@@ -359,7 +361,10 @@ $('#map-button').addEventListener('click',()=>{recorder.stop();mapBook=game.stat
 $('#trial-switch').addEventListener('change',e=>{game.setTrial(e.target.checked);try{localStorage.setItem('windbell-trial-v2',String(e.target.checked));}catch{}renderMap();});
 document.querySelectorAll('[data-close]').forEach(b=>b.addEventListener('click',()=>b.closest('dialog').close()));
 $('#album-dialog').addEventListener('close',()=>{$('#recordings-list').querySelectorAll('audio').forEach(a=>a.pause());albumURLs.forEach(URL.revokeObjectURL);albumURLs=[];});
-$('#record-button').addEventListener('click',()=>{if(recorder.active){recorder.stop();return;}stopSpeech();clearTake();const {chapter}=game.state();recorder.start({chapter:chapter.id,node:node().key});});
+$('#record-button').addEventListener('click',()=>{if(recorder.active){recorder.stop();return;}stopSpeech();clearTake();const {chapter}=game.state();recorder.start({chapter:chapter.id,node:node().key,deviceId:$('#mic-device').value});});
+$('#mic-device').addEventListener('change',()=>voiceStatus('已切换麦克风，下次录音会使用它。','idle'));
+navigator.mediaDevices?.addEventListener('devicechange',()=>{if(!recorder.active&&!recorder.pending)refreshMicrophones();});
+refreshMicrophones();
 $('#listen-button').addEventListener('click',listen);$('#hint-button').addEventListener('click',()=>{$('#examples').hidden=!$('#examples').hidden;$('#hint-button').textContent=$('#examples').hidden?'看说法':'收起说法';});
 $('#save-take').addEventListener('click',()=>persistTake(false));$('#send-button').addEventListener('click',sendTake);$('#discard-take').addEventListener('click',()=>{clearTake();voiceStatus('这段录音已删除，可以重新录一段。','idle');});
 $('#prepare-speech').addEventListener('click',async()=>{

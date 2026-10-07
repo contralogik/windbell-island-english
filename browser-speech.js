@@ -1,6 +1,7 @@
+import {decodeSpeechAudio,prepareSpeechSamples} from './audio-processing.js?v=20261007';
 // Audio stays in this device. The worker only downloads public model/runtime files.
 export class BrowserRecognizer{
- constructor(workerFactory=()=>new Worker(new URL('./browser-speech-worker.js',import.meta.url),{type:'module'})){this.workerFactory=workerFactory;this.pending=new Map();this.counter=0;}
+ constructor(workerFactory=()=>new Worker(new URL('./browser-speech-worker.js?v=20261007',import.meta.url),{type:'module'})){this.workerFactory=workerFactory;this.pending=new Map();this.counter=0;}
  request(type,samples,signal,onProgress=()=>{}){
   if(signal?.aborted)return Promise.reject(new DOMException('已取消','AbortError'));
   if(!this.worker){this.worker=this.workerFactory();this.worker.onmessage=event=>{
@@ -23,7 +24,8 @@ const instance=()=>recognizer??=new BrowserRecognizer();
 export const prepareBrowserSpeech=(signal,onProgress)=>instance().prepare(signal,onProgress);
 export async function transcribeInBrowser(blob,signal,onProgress){
  if(signal?.aborted)throw new DOMException('已取消','AbortError');
- const context=new OfflineAudioContext(1,1,16000),audio=await context.decodeAudioData(await blob.arrayBuffer());
- const samples=new Float32Array(audio.length);for(let c=0;c<audio.numberOfChannels;c++){const channel=audio.getChannelData(c);for(let i=0;i<samples.length;i++)samples[i]+=channel[i]/audio.numberOfChannels;}
- const result=await instance().recognize(samples,signal,onProgress);return {text:String(result.text||'').trim(),uncertain:true,engine:'Whisper tiny.en · browser',local:true};
+ const prepared=prepareSpeechSamples(await decodeSpeechAudio(blob));
+ if(!prepared.samples)return {text:'',uncertain:true,reason:prepared.reason,message:prepared.message,local:true};
+ if(signal?.aborted)throw new DOMException('已取消','AbortError');
+ const result=await instance().recognize(prepared.samples,signal,onProgress);return {text:String(result.text||'').trim(),uncertain:true,reason:result.reason,message:result.message,engine:'Whisper tiny.en · browser',local:true};
 }

@@ -1,5 +1,6 @@
 import {SITE_CONFIG} from './site-config.js';
-import {transcribeInBrowser,prepareBrowserSpeech} from './browser-speech.js';
+import {transcribeInBrowser,prepareBrowserSpeech} from './browser-speech.js?v=20261007';
+import {decodeSpeechAudio,prepareSpeechSamples} from './audio-processing.js?v=20261007';
 export const browserSpeechMode=SITE_CONFIG.mode==='web';
 export {prepareBrowserSpeech};
 let database;
@@ -24,13 +25,13 @@ async function toWave(blob){
 }
 
 export class LocalRecorder{
- constructor(onStatus,onTake){this.onStatus=onStatus;this.onTake=onTake;this.active=false;this.pending=false;this.generation=0;}
+ constructor(onStatus,onTake,onLevel=()=>{}){this.onStatus=onStatus;this.onTake=onTake;this.onLevel=onLevel;this.active=false;this.pending=false;this.generation=0;}
  async start(context){
   if(this.active||this.pending)return;
   if(!navigator.mediaDevices?.getUserMedia||!window.MediaRecorder){this.onStatus('浏览器不支持录音。请用最新版 Chrome / Edge / Safari 打开 HTTPS 网页，或使用文字回答。','error');return;}
   const token=++this.generation;this.pending=true;this.onStatus('正在请求麦克风权限…','pending');
   try{
-   const stream=await navigator.mediaDevices.getUserMedia({audio:{echoCancellation:true,noiseSuppression:true},video:false});
+   const stream=await navigator.mediaDevices.getUserMedia({audio:{echoCancellation:true,noiseSuppression:true,autoGainControl:true,channelCount:1,...(context.deviceId?{deviceId:{exact:context.deviceId}}:{})},video:false});
    if(token!==this.generation){stream.getTracks().forEach(t=>t.stop());return;}
    this.stream=stream;this.context=context;this.chunks=[];
    const mime=['audio/webm;codecs=opus','audio/webm','audio/mp4'].find(t=>MediaRecorder.isTypeSupported(t));
@@ -46,17 +47,25 @@ export class LocalRecorder{
     this.onStatus('录音完成，正在识别英语…','transcribing');this.onTake({id:crypto.randomUUID(),date:Date.now(),blob,seconds,chapter:context.chapter,node:context.node,text:'',originalText:''},token);
    };
    this.pending=false;this.active=true;this.started=performance.now();this.recorder.start(250);
+   this.monitor(stream,token);
    this.onStatus('正在录音 0 秒 · 说完后按停止（最长 20 秒）','recording');
    this.timer=setInterval(()=>{const sec=Math.floor((performance.now()-this.started)/1000);this.onStatus(`正在录音 ${sec} 秒 · 说完后按停止（最长 20 秒）`,'recording');if(sec>=20)this.stop();},250);
-  }catch(e){this.pending=false;this.cleanup();if(token===this.generation)this.onStatus(e.name==='NotAllowedError'?'麦克风权限未开启。请在浏览器允许录音，或使用文字回答。':e.name==='NotFoundError'?'没有找到麦克风。接上麦克风后再试。':'录音没有启动，请检查麦克风后重试。','error');}
+  }catch(e){this.pending=false;this.cleanup();if(token===this.generation)this.onStatus(e.name==='NotAllowedError'?'麦克风权限未开启。请在浏览器允许录音，或使用文字回答。':e.name==='NotFoundError'||e.name==='OverconstrainedError'?'没有找到所选麦克风。换一个麦克风后再试。':'录音没有启动，请检查麦克风后重试。','error');}
+ }
+ monitor(stream,token){
+  try{const context=new AudioContext();this.monitorContext=context;this.monitorSource=context.createMediaStreamSource(stream);const analyser=context.createAnalyser();analyser.fftSize=2048;this.monitorSource.connect(analyser);const samples=new Float32Array(analyser.fftSize);context.resume().catch(()=>{});
+   this.levelTimer=setInterval(()=>{if(token!==this.generation||!this.active)return;if(context.state!=='running'){this.onLevel({unavailable:true});return;}analyser.getFloatTimeDomainData(samples);let sum=0;for(const sample of samples)sum+=sample**2;const rms=Math.sqrt(sum/samples.length);this.onLevel({rms,level:Math.min(1,Math.max(0,(20*Math.log10(Math.max(rms,1e-6))+66)/60)),seconds:(performance.now()-this.started)/1000});},120);
+  }catch{this.onLevel({unavailable:true});}
  }
  stop(){if(this.active&&this.recorder?.state==='recording'){this.active=false;clearInterval(this.timer);this.recorder.stop();this.stream?.getTracks().forEach(t=>t.stop());}}
- cleanup(){this.active=false;this.pending=false;clearInterval(this.timer);this.stream?.getTracks().forEach(t=>t.stop());this.stream=null;}
+ cleanup(){this.active=false;this.pending=false;clearInterval(this.timer);clearInterval(this.levelTimer);this.monitorSource?.disconnect();this.monitorSource=null;this.monitorContext?.close().catch(()=>{});this.monitorContext=null;this.onLevel(null);this.stream?.getTracks().forEach(t=>t.stop());this.stream=null;}
  cancel(){this.generation++;if(this.recorder?.state==='recording')this.recorder.stop();this.cleanup();}
 }
 
 export async function transcribe(blob,signal,onProgress){
  if(browserSpeechMode)return transcribeInBrowser(blob,signal,onProgress);
+ const prepared=prepareSpeechSamples(await decodeSpeechAudio(blob));if(!prepared.samples)return {text:'',uncertain:true,reason:prepared.reason,message:prepared.message,local:true};
+ if(signal?.aborted)throw new DOMException('已取消','AbortError');
  const r=await fetch('/api/transcribe',{method:'POST',headers:{'Content-Type':blob.type||'audio/webm'},body:blob,signal});
  const data=await r.json();if(!r.ok)throw new Error(data.error||'本地识别暂时不可用。');return data;
 }
